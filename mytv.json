@@ -3,1020 +3,374 @@
   {
    "id": "uid00",
    "name": "L2TV"
-  },
-  {
-   "id": "uid01",
-   "name": "台湾直播"
   }
  ],
  "live": [
   {
    "num": "0001",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=1",
-   "name": "好消息2",
+   "urllist": "http://iptv.two3.cn/?id=1",
+   "name": "民視HD",
    "itemid": "uid00"
   },
   {
    "num": "0002",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=2",
-   "name": "民视 HD",
+   "urllist": "http://iptv.two3.cn/?id=2",
+   "name": "台視HD",
    "itemid": "uid00"
   },
   {
    "num": "0003",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=3",
-   "name": "台视 HD",
+   "urllist": "http://iptv.two3.cn/?id=3",
+   "name": "中視HD",
    "itemid": "uid00"
   },
   {
    "num": "0004",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=4",
-   "name": "中视 HD",
+   "urllist": "http://iptv.two3.cn/?id=4",
+   "name": "華視HD",
    "itemid": "uid00"
   },
   {
    "num": "0005",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=5",
-   "name": "华视 HD",
+   "urllist": "http://iptv.two3.cn/?id=5",
+   "name": "公視HD",
    "itemid": "uid00"
   },
   {
    "num": "0006",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=6",
-   "name": "公视 HD",
+   "urllist": "http://iptv.two3.cn/?id=6",
+   "name": "公視2",
    "itemid": "uid00"
   },
   {
    "num": "0007",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=7",
-   "name": "公视 2",
+   "urllist": "http://iptv.two3.cn/?id=7",
+   "name": "公視3",
    "itemid": "uid00"
   },
   {
    "num": "0008",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=8",
-   "name": "公视 3",
+   "urllist": "http://iptv.two3.cn/?id=8",
+   "name": "大愛",
    "itemid": "uid00"
   },
   {
    "num": "0009",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=9",
-   "name": "大爱",
+   "urllist": "http://iptv.two3.cn/?id=9",
+   "name": "原住民電視台",
    "itemid": "uid00"
   },
   {
    "num": "0010",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=10",
-   "name": "原住民电视",
+   "urllist": "http://iptv.two3.cn/?id=10",
+   "name": "客家電視台",
    "itemid": "uid00"
   },
   {
    "num": "0011",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=11",
-   "name": "客家电视台",
+   "urllist": "http://iptv.two3.cn/?id=11",
+   "name": "民視第一台",
    "itemid": "uid00"
   },
   {
    "num": "0012",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=12",
-   "name": "民视第一台",
+   "urllist": "http://iptv.two3.cn/?id=12",
+   "name": "民視台灣台",
    "itemid": "uid00"
   },
   {
    "num": "0013",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=13",
-   "name": "民视台湾台",
+   "urllist": "http://iptv.two3.cn/?id=13",
+   "name": "華視新聞",
    "itemid": "uid00"
   },
   {
    "num": "0014",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=16",
-   "name": "华视新闻",
+   "urllist": "http://iptv.two3.cn/?id=14",
+   "name": "年代新聞台",
    "itemid": "uid00"
   },
   {
    "num": "0015",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=17",
-   "name": "年代新闻台",
+   "urllist": "http://iptv.two3.cn/?id=15",
+   "name": "非凡新聞台",
    "itemid": "uid00"
   },
   {
    "num": "0016",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=18",
-   "name": "非凡新闻台",
+   "urllist": "http://iptv.two3.cn/?id=16",
+   "name": "民視新聞台",
    "itemid": "uid00"
   },
   {
    "num": "0017",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=19",
-   "name": "壹电视新闻台",
+   "urllist": "http://iptv.two3.cn/?id=17",
+   "name": "三立新聞",
    "itemid": "uid00"
   },
   {
    "num": "0018",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=21",
-   "name": "民视新闻台",
+   "urllist": "http://iptv.two3.cn/?id=18",
+   "name": "中天新聞台",
    "itemid": "uid00"
   },
   {
    "num": "0019",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=22",
-   "name": "三立新闻",
+   "urllist": "http://iptv.two3.cn/?id=19",
+   "name": "TVBS新聞台",
    "itemid": "uid00"
   },
   {
    "num": "0020",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=24",
-   "name": "中天新闻台",
+   "urllist": "http://iptv.two3.cn/?id=20",
+   "name": "台視財經台",
    "itemid": "uid00"
   },
   {
    "num": "0021",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=25",
-   "name": "TVBS新闻台",
+   "urllist": "http://iptv.two3.cn/?id=21",
+   "name": "台視新聞",
    "itemid": "uid00"
   },
   {
    "num": "0022",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=26",
-   "name": "台视财经台",
+   "urllist": "http://iptv.two3.cn/?id=22",
+   "name": "中視新聞",
    "itemid": "uid00"
   },
   {
    "num": "0023",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=27",
-   "name": "台视新闻",
+   "urllist": "http://iptv.two3.cn/?id=23",
+   "name": "Disney",
    "itemid": "uid00"
   },
   {
    "num": "0024",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=28",
-   "name": "中视新闻",
+   "urllist": "http://iptv.two3.cn/?id=24",
+   "name": "Boomerang卡通台",
    "itemid": "uid00"
   },
   {
    "num": "0025",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=32",
-   "name": "Boomerang",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0026",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=33",
+   "urllist": "http://iptv.two3.cn/?id=25",
    "name": "ANIMAX",
    "itemid": "uid00"
   },
   {
-   "num": "0027",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=34",
+   "num": "0026",
+   "urllist": "http://iptv.two3.cn/?id=26",
    "name": "Discovery",
    "itemid": "uid00"
   },
   {
+   "num": "0027",
+   "urllist": "http://iptv.two3.cn/?id=27",
+   "name": "動物星球",
+   "itemid": "uid00"
+  },
+  {
    "num": "0028",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=35",
-   "name": "动物星球",
+   "urllist": "http://iptv.two3.cn/?id=28",
+   "name": "亞洲美食",
    "itemid": "uid00"
   },
   {
    "num": "0029",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=36",
-   "name": "亚洲美食",
+   "urllist": "http://iptv.two3.cn/?id=29",
+   "name": "HGTV",
    "itemid": "uid00"
   },
   {
    "num": "0030",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=37",
-   "name": "HGTV",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0031",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=38",
+   "urllist": "http://iptv.two3.cn/?id=30",
    "name": "TLC",
    "itemid": "uid00"
   },
   {
-   "num": "0032",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=39",
+   "num": "0031",
+   "urllist": "http://iptv.two3.cn/?id=31",
    "name": "DMAX",
    "itemid": "uid00"
   },
   {
+   "num": "0032",
+   "urllist": "http://iptv.two3.cn/?id=32",
+   "name": "國家地理HD",
+   "itemid": "uid00"
+  },
+  {
    "num": "0033",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=40",
-   "name": "国家地理HD",
+   "urllist": "http://iptv.two3.cn/?id=33",
+   "name": "美食網",
    "itemid": "uid00"
   },
   {
    "num": "0034",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=41",
-   "name": "美食网",
+   "urllist": "http://iptv.two3.cn/?id=34",
+   "name": "MOMO",
    "itemid": "uid00"
   },
   {
    "num": "0035",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=42",
-   "name": "EVE",
+   "urllist": "http://iptv.two3.cn/?id=35",
+   "name": "Discovery亞洲",
    "itemid": "uid00"
   },
   {
    "num": "0036",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=43",
-   "name": "Discovery亚洲",
+   "urllist": "http://iptv.two3.cn/?id=36",
+   "name": "FashionTV",
    "itemid": "uid00"
   },
   {
    "num": "0037",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=44",
-   "name": "旅游频道",
+   "urllist": "http://iptv.two3.cn/?id=37",
+   "name": "GTV八大娛樂台",
    "itemid": "uid00"
   },
   {
    "num": "0038",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=46",
-   "name": "八大娱乐台",
+   "urllist": "http://iptv.two3.cn/?id=38",
+   "name": "GTV八大第一台",
    "itemid": "uid00"
   },
   {
    "num": "0039",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=47",
-   "name": "八大第一台",
+   "urllist": "http://iptv.two3.cn/?id=39",
+   "name": "GTV八大綜合台",
    "itemid": "uid00"
   },
   {
    "num": "0040",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=48",
-   "name": "八大综合台",
+   "urllist": "http://iptv.two3.cn/?id=40",
+   "name": "GTV八大戲劇台",
    "itemid": "uid00"
   },
   {
    "num": "0041",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=49",
-   "name": "八大戏剧台",
+   "urllist": "http://iptv.two3.cn/?id=41",
+   "name": "三立台灣台",
    "itemid": "uid00"
   },
   {
    "num": "0042",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=50",
-   "name": "三立台湾台",
+   "urllist": "http://iptv.two3.cn/?id=42",
+   "name": "霹靂台灣台",
    "itemid": "uid00"
   },
   {
    "num": "0043",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=51",
-   "name": "高点综合 HD",
+   "urllist": "http://iptv.two3.cn/?id=43",
+   "name": "緯來日本",
    "itemid": "uid00"
   },
   {
    "num": "0044",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=52",
-   "name": "纬来日本",
+   "urllist": "http://iptv.two3.cn/?id=44",
+   "name": "高點綜合",
    "itemid": "uid00"
   },
   {
    "num": "0045",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=53",
-   "name": "龙华偶像",
+   "urllist": "http://iptv.two3.cn/?id=45",
+   "name": "中天綜合台",
    "itemid": "uid00"
   },
   {
    "num": "0046",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=54",
-   "name": "中天综合台",
+   "urllist": "http://iptv.two3.cn/?id=46",
+   "name": "中天娛樂台",
    "itemid": "uid00"
   },
   {
    "num": "0047",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=55",
-   "name": "中天娱乐台",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0048",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=56",
+   "urllist": "http://iptv.two3.cn/?id=47",
    "name": "KMTV",
    "itemid": "uid00"
   },
   {
+   "num": "0048",
+   "urllist": "http://iptv.two3.cn/?id=48",
+   "name": "國興衛視",
+   "itemid": "uid00"
+  },
+  {
    "num": "0049",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=57",
-   "name": "国兴卫视",
+   "urllist": "http://iptv.two3.cn/?id=49",
+   "name": "中視經典台",
    "itemid": "uid00"
   },
   {
    "num": "0050",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=58",
-   "name": "中视经典台",
+   "urllist": "http://iptv.two3.cn/?id=50",
+   "name": "中視菁采台",
    "itemid": "uid00"
   },
   {
    "num": "0051",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=59",
-   "name": "中视菁采台",
+   "urllist": "http://iptv.two3.cn/?id=51",
+   "name": "台視綜合台",
    "itemid": "uid00"
   },
   {
    "num": "0052",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=60",
-   "name": "台视综合台",
+   "urllist": "http://iptv.two3.cn/?id=52",
+   "name": "華納TV",
    "itemid": "uid00"
   },
   {
    "num": "0053",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=70",
-   "name": "华纳电影台",
+   "urllist": "http://iptv.two3.cn/?id=53",
+   "name": "EVE",
    "itemid": "uid00"
   },
   {
    "num": "0054",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=71",
-   "name": "壹电视电影",
+   "urllist": "http://iptv.two3.cn/?id=54",
+   "name": "星空電影台",
    "itemid": "uid00"
   },
   {
    "num": "0055",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=72",
-   "name": "好莱坞电影",
+   "urllist": "http://iptv.two3.cn/?id=55",
+   "name": "LSTIME龍祥電影",
    "itemid": "uid00"
   },
   {
    "num": "0056",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=73",
-   "name": "星空卫视",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0057",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=74",
-   "name": "龙祥电影",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0058",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=75",
+   "urllist": "http://iptv.two3.cn/?id=56",
    "name": "AXN",
    "itemid": "uid00"
   },
   {
+   "num": "0057",
+   "urllist": "http://iptv.two3.cn/?id=57",
+   "name": "FOXHD",
+   "itemid": "uid00"
+  },
+  {
+   "num": "0058",
+   "urllist": "http://iptv.two3.cn/?id=58",
+   "name": "FOXSport3HD",
+   "itemid": "uid00"
+  },
+  {
    "num": "0059",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=76",
-   "name": "FOX HD",
+   "urllist": "http://iptv.two3.cn/?id=59",
+   "name": "愛爾達體育",
    "itemid": "uid00"
   },
   {
    "num": "0060",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=77",
-   "name": "FOX Sport3HD",
+   "urllist": "http://iptv.two3.cn/?id=60",
+   "name": "Z頻道",
    "itemid": "uid00"
   },
   {
    "num": "0061",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=78",
-   "name": "爱尔达体育",
+   "urllist": "http://iptv.two3.cn/?id=61",
+   "name": "緯來體育",
    "itemid": "uid00"
-  },
-  {
-   "num": "0062",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=79",
-   "name": "Z 频道",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0063",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=80",
-   "name": "纬来体育",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0064",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=91",
-   "name": "东方卫视",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0065",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=92",
-   "name": "浙江卫视",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0066",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=93",
-   "name": "湖南卫视",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0067",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=94",
-   "name": "江苏卫视",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0068",
-   "urllist": "http://www.iptv.wang/L2TV.php?id=23",
-   "name": "东森新闻",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0069",
-   "urllist": "http://210.201.54.101/glive2/v-ettv01-gt/chunklist_w838286400.m3u8",
-   "name": "东森新闻HD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0070",
-   "urllist": "http://210.201.54.110/glive/celclassic/chunklist_w1699840296.m3u8?st=1493898596028&token=Y2Q4NTJhNDZjNjQ2ODNmMzI0NGRlYmI4ZWY4ZWM0OTgyYTc2ZTA3Mw%3D%3D",
-   "name": "天映经典",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0071",
-   "urllist": "http://210.201.54.110/glive/ftvw/chunklist_w2071122453.m3u8?st=1493901490186&token=MGY3YjBmMzc1M2ZkNDhlODViNmM0ZThkZGI0OWY1Y2VmNTc4YWFjNQ%3D%3D",
-   "name": "民视HD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0072",
-   "urllist": "http://210.201.54.110/glive/ftvm/chunklist_w180609433.m3u8?st=1493901326568&token=NDU5ZTFkZThhMzg1ODE4YTcyZDgzNmY5YTFkM2ExZTM0MjY2YjgwYg%3D%3D",
-   "name": "民视第一台HD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0073",
-   "urllist": "http://210.201.54.110/glive2/fourCZn_n/chunklist_w632368072.m3u8?st=1493901080130&token=ZDc3N2FkOTNlMWJjNWI4MDIyMDcyZWQ3OWY4NDEyOTFkY2M5YzFlNg%3D%3D",
-   "name": "民视台台湾HD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0074",
-   "urllist": "http://210.201.54.110/glive/program/chunklist_w1390369029.m3u8?st=1493899737327&token=ZmY2NmY1ZWJkZjRkMDM0Y2VkMGU4ODhmZmJkNDNiNzRkODJlYjZiZA%3D%3D",
-   "name": "民视综艺",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0075",
-   "urllist": "http://210.201.54.110/glive/drama/chunklist_w486577234.m3u8?st=1493897795446&token=NmU5MDI5OTA5YjUxNzIxNjlhMTc1MGQ3MTdmODFhMDk3OGQyMWRjYw%3D%3D",
-   "name": "民视影剧",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0076",
-   "urllist": "http://210.201.54.110/glive/ftvtravel/chunklist_w284095598.m3u8?st=1493900647471&token=NzMxZmIxM2IxZWQ2OGY1NDBmNTU4N2NiYmVjNDUyODdiMTAwYTNjMQ%3D%3D",
-   "name": "民视旅游",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0077",
-   "urllist": "http://210.201.54.110/glive/ttv/chunklist_w2047324551.m3u8?st=1493689629935&token=OTdiOWRmNzZjOGYyZWQzNmE2NzgyNmY1OGNlOTUyODU2ZTZmYTcyNw%3D%3D",
-   "name": "台视HD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0078",
-   "urllist": "http://210.201.54.110/glive/cts/chunklist_w1352213657.m3u8?st=1493901531008&token=MDBiZjc3MDNkZGE1YzljYTRkNTc5NThhYTUxOWI3MTUyNDRhYmIwZg%3D%3D",
-   "name": "华视HD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0079",
-   "urllist": "http://210.201.54.110/glive/ctsnews/chunklist_w1959824111.m3u8?st=1493896507140&token=ZTk0ZGYzOWJkYzcxZmM2MTgyNTZlN2JlOTBkOTcxNzU4YTI2NDUwZQ%3D%3D",
-   "name": "华视新闻资讯HD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0080",
-   "urllist": "http://210.201.54.110/glive/ctv/chunklist_w1284521100.m3u8?st=1493901271539&token=N2U4N2ZhMzA2MTRkNTFmMDY1ZTFkYzUwYTI4MDJiMmZjOTg2NTVlOA%3D%3D",
-   "name": "中视HD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0081",
-   "urllist": "http://210.201.54.110/glive/ctvnews/chunklist_w1398308585.m3u8?st=1493896226489&token=MjBlNDliMGYxMmQ2NDAxYWM3Yjk1MzlkMTE4NjMyYzcwYzYxOTdkMQ%3D%3D",
-   "name": "中视新闻HD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0082",
-   "urllist": "http://210.201.54.110/glive2/tcch02/chunklist_w498682533.m3u8?st=1493896172664&token=ODI2ZjRiNThlMWNkZjQ3NjM3ODQ1ZDc3YmQ1YjA2ZTNlYTFlZGQ3ZA%3D%3D",
-   "name": "中华财经台",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0083",
-   "urllist": "http://210.201.54.110/glive/ctvclassic/chunklist_w970164005.m3u8?st=1493899630706&token=NWM1ZTUxOTBmZmZhM2VlMjQxMTgzYjViNzNmNzc5MjYwMDk3MzAyZQ%3D%3D",
-   "name": "中视经典台",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0084",
-   "urllist": "http://210.201.54.110/glive2/ctvhd_n/chunklist_w1436178406.m3u8?st=1493901226040&token=YTMxNzI5ZGQxNzAzYzI3MmQ5MGRjNzUzNDA3YjgyODZmYWU1ODdhYw%3D%3D",
-   "name": "中视菁采台",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0085",
-   "urllist": "http://210.201.54.110/glive2/pts2l/chunklist_w129635819.m3u8?st=1493901668396&token=MWVjZjFkNzc4MmI2Y2Y4ODBhNjhmNjQ5NjFiOWZmOWZlZTg3NDExNQ%3D%3D",
-   "name": "公视2HD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0086",
-   "urllist": "http://210.201.54.110/glive2/ptsdramal/chunklist_w336960926.m3u8?st=1493897682224&token=MTk3Mzk2Y2MyMDU2YzlhZTU2Zjk3MjUyOGI0ZWYxMjBjNmVlYmU2Yg%3D%3D",
-   "name": "公视戏剧",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0087",
-   "urllist": "http://210.201.54.110/glive2/cstv_movie_n/chunklist_w117276220.m3u8?st=1493898634372&token=NDVjZjIyYzZkNDI3YjkxOTI0MzAzN2IwZWY1OWFhNzczMWIxZTRhOA%3D%3D",
-   "name": "华龙电影",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0088",
-   "urllist": "http://210.201.54.110/glive2/lh_soapopera_n/chunklist_w1501001647.m3u8?st=1493898081398&token=ODRjNGJiMWQzYzkzZjQwNzNiZGE0ZmExNjdiY2JlNGU3YmNkZDBlYQ%3D%3D",
-   "name": "华龙戏剧",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0089",
-   "urllist": "http://210.201.54.110/glive2/lh_idolsoapopera_n/chunklist_w2125268453.m3u8?st=1493897998254&token=YzFiMzUxYmEwZDdhMDA3ODNmMjQyNzBkMGUwMDA4ODZjOGUzMzM0Yg%3D%3D",
-   "name": "华龙偶像",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0090",
-   "urllist": "http://210.201.54.110/glive2/lh_jpkrsoapopera_n/chunklist_w1881265077.m3u8?st=1493898034553&token=ZTQ3NjNmM2M5ZTQ3NjQ2OTEwOGVkZmFhMTA2MTliNmRmMTc2NzIzZQ%3D%3D",
-   "name": "华龙日韩",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0091",
-   "urllist": "http://210.201.54.110/glive2/cstv_cartoon_n/chunklist_w1101698022.m3u8?st=1493899218417&token=ODEwZDNhOTdhNjAzMzI1NDA0NjQwZjFjNThjZmUxYjNlOWYzYzRhNQ%3D%3D",
-   "name": "华龙卡通",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0092",
-   "urllist": "http://210.201.54.110/glive2/v-hgtv01/chunklist_w661479053.m3u8?st=1493898530365&token=YWQ2NGNlZjcxOWQwNzYzZDk5OTlkYzFhM2M5NDFlZGU2NjI3YzY0NQ%3D%3D",
-   "name": "鸿基亚洲台",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0093",
-   "urllist": "http://210.201.54.110/glive2/v-hgtv02/chunklist_w1703417287.m3u8?st=1493898502421&token=MGM5NzQyMzFiMWRhYzRjMmU4NmMzOGQxY2Y4MjQwZGYwNDJmODUxMQ%3D%3D",
-   "name": "鸿基综合台",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0094",
-   "urllist": "http://210.201.54.110/glive2/v-hgtv03/chunklist_w1433414400.m3u8?st=1493898373118&token=YTA3N2FiMzVlMmQ5MTA3YjhkMmQ3MzcxYWM5NTYwNmQ0YTgwOWY3OA%3D%3D",
-   "name": "鸿基影剧台",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0095",
-   "urllist": "http://210.201.54.110/glive/gtv/chunklist_w579419750.m3u8?st=1493899704407&token=ZjFkMTEwOTA5NGMyYmVjZTk2OTc4N2NlYzZiZDZhODliMDQ3NTc3Mg%3D%3D",
-   "name": "八大综合HD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0096",
-   "urllist": "http://210.201.54.102/glive2/tc-ctinews/chunklist_w163673859.m3u8",
-   "name": "中天新闻HD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0097",
-   "urllist": "http://210.201.54.110/glive2/ctiasia/chunklist_w1540149824.m3u8?st=1493901836956&token=MzNiMTdkZmI4YjRlYTU0NmM4ZTg0MTBkZTFmZDU0NjFhNjA2YzlkMQ%3D%3D",
-   "name": "中天亚洲台",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0098",
-   "urllist": "http://210.201.54.110/glive/ctiall/chunklist_w505002770.m3u8?st=1493900683163&token=NTk2YTIxOGRlZTE3ZGExOTIwZjM4YzU2OWE4MjUwZDJlZjYxYzJkMA%3D%3D",
-   "name": "中天综合",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0099",
-   "urllist": "http://210.201.54.110/glive/ustvhd/chunklist_w1501013056.m3u8?st=1493896590555&token=YzE2NjQ2OWM0OWQ3MTcwNmJlYzIxYzg0ODFkOGExOWZmZDIwNThmNg%3D%3D",
-   "name": "非凡新闻HD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0100",
-   "urllist": "http://210.201.54.110/glive/ustvbiz/chunklist_w1528731654.m3u8?st=1493896625875&token=Y2ZjMWU5NjU2ZGFhOWE5NTEwZTdhMWYwNzczNWNjMWI3NzQzMzk0Mw%3D%3D",
-   "name": "非凡商业",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0101",
-   "urllist": "http://210.201.54.110/glive2/tcch21/chunklist_w1352850336.m3u8?st=1493900527288&token=ZGE5MmY4MWYxMWJhN2FkMDhiNTc1OTJlZmEyMGY5MzVkM2VhMjZiOQ%3D%3D",
-   "name": "非凡美食",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0102",
-   "urllist": "http://210.201.54.110/glive/setmoney/chunklist_w1818684779.m3u8?st=1493896565241&token=MzIxMDM0NzBjYTBkOTAyMjQxY2Q0MTk0MDY1ODU2YzBjN2E3NGQ5Ng%3D%3D",
-   "name": "三立财经HD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0103",
-   "urllist": "http://210.201.54.110/glive/gdmoviel/chunklist_w2024315538.m3u8?st=1493898170085&token=ZGVkODVjOGRlNGUzYWEwMzBhYTY3Y2M1ZWJmNTA0ZGExZTU3NjhmMQ%3D%3D",
-   "name": "晴天电影台",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0104",
-   "urllist": "http://210.201.54.110/glive2/tcch27/chunklist_w3609665.m3u8?st=1493901866803&token=YzNjMTI3NzEyOGZmODliN2UwZjg2MzNjOWU4MWY0OWI0NjAwNGVmOA%3D%3D",
-   "name": "晴天国际台",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0105",
-   "urllist": "http://210.201.54.110/glive/gdimagel/chunklist_w2091711511.m3u8?st=1493898128684&token=YmY0MWQ3ZTkzZDRjODc5OGFiYzQ3ZGQzN2U2MzE0MTM2NzU5OWY5NQ%3D%3D",
-   "name": "晴天映画",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0106",
-   "urllist": "http://210.201.54.110/glive2/tcch28/chunklist_w1759182089.m3u8?st=1493900813148&token=ZWY1ZjFlNTk3M2VkOTE5MTc0OTUwYzQ5YWIwMzhlZGMyNWUyM2U0YQ%3D%3D",
-   "name": "晴天NICETV",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0107",
-   "urllist": "http://210.201.54.110/glive2/tcch11/chunklist_w946317396.m3u8?st=1493900137876&token=NzEyMmRkNjM4YTVkMmE2YTNkODlkOTUwMGRiNmFjYmJhZjYyZTdmMQ%3D%3D",
-   "name": "晴天日本台",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0108",
-   "urllist": "http://210.201.54.110/glive2/gc_moviel/chunklist_w158153569.m3u8?st=1493898322707&token=NDgxMmI1ZTE0NjM4MjE5YTk2ZDRiNmYxNmI0NzNjNDNkN2JmMjNjZA%3D%3D",
-   "name": "晴洋戏剧台",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0109",
-   "urllist": "http://210.201.54.110/glive2/tcch29/chunklist_w1426047188.m3u8?st=1493899344006&token=OTMxMDE5ZmI5NzE0Y2QwZDk5NDZmNzVhZWVlM2IxNDk3ZGEzZjM2Mg%3D%3D",
-   "name": "晴洋卡通台",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0110",
-   "urllist": "http://210.201.54.110/glive2/asiatravel_n/chunklist_w1476811563.m3u8?st=1493900094687&token=ZTc4OGM4NmZlMDE2OGIxY2ZjZmIxYWEyYzc4MzYwMzIxMTU5OWVhMA%3D%3D",
-   "name": "亚洲旅游台",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0111",
-   "urllist": "http://210.201.54.110/glive/music/chunklist_w324345867.m3u8?st=1493904510258&token=OGY3YjJiMDA4YzY5YmFhOGQxYjZiMzUwMjhiMzYyMzQ3ZmYzOWNjNw%3D%3D",
-   "name": "流行音乐",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0112",
-   "urllist": "http://210.201.54.110/glive2/cmoviel/chunklist_w1782367376.m3u8?st=1493897874166&token=OTU1ODBiYTViNjBjOGEzMDI1M2VkNDliNGU5YjFhYWM5N2IwMjFhMg%3D%3D",
-   "name": "采昌影剧台",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0113",
-   "urllist": "http://210.201.54.110/glive/eltaent/chunklist_w334143112.m3u8?st=1493900434423&token=ZDljNmY0MzdmNWI4YzcyMjAxODE0MzU4YzY1ZTViZjcwNzM5ZjVkNA%3D%3D",
-   "name": "ELTA娱乐HD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0114",
-   "urllist": "http://210.201.54.110/glive/tvbsnl/chunklist_w1266252196.m3u8?st=1493896125362&token=ZmFjYzUzZWUwYzc1YzU4MTY2MGY3NGRiM2M1NGE4Mzk0NjBiNDNkZQ%3D%3D",
-   "name": "TVBS新闻HD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0115",
-   "urllist": "http://210.201.54.110/glive/tvbs/chunklist_w1917671863.m3u8?st=1493895606426&token=NGFlMjkyODBkODU5ZGM4NWNhMzE3ZDU5MzQ1MTFiOTE2NDJjOGM4YQ%3D%3D",
-   "name": "TVBS综合HD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0116",
-   "urllist": "http://210.201.54.110/glive/tvbsg/chunklist_w1059139826.m3u8?st=1493899929280&token=MGY1MGM0YzE1YWY4MDI5ZTliOTY1MzFjMmNkZmZjYzM5MTRlYTZkMg%3D%3D",
-   "name": "TVBS欢乐HD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0117",
-   "urllist": "http://210.201.54.110/glive/entertainment/chunklist_w1611048249.m3u8?st=1493899967413&token=N2VjZGFlZDJmOWEzMWM4OTk5NWNkNzVjYzVlOWU4YjY5MTQ5YjQxYg%3D%3D",
-   "name": "随身娱乐综艺",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0118",
-   "urllist": "http://210.201.54.110/glive/mtv/chunklist_w1493465335.m3u8?st=1493895527092&token=N2VmNWQ4MzVmNGM2ODAzYTgxZGQwOGZjYjgxMWYzYmYwNjY3NGUwNQ%3D%3D",
-   "name": "MTVLIVEHD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0119",
-   "urllist": "http://210.201.54.110/glive2/tcch09/chunklist_w447847762.m3u8?st=1493901567796&token=MjE2MjhjZjkzMTEyMTA2YjRmMGExZWNiOGNkMWI4NmJkMjlkNzZhNA%3D%3D",
-   "name": "原住民族电视台",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0120",
-   "urllist": "http://210.201.54.110/glive2/sbn/chunklist_w1241893757.m3u8?st=1493896874018&token=NDdmZmU1YjM1MDYzZWY4MjNiN2I4MzhiNTZiMGNlMTZlYTYyZDAyNQ%3D%3D",
-   "name": "全球财经HD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0121",
-   "urllist": "http://210.201.54.110/glive2/tcch23/chunklist_w1526336090.m3u8?st=1493901944084&token=MjdjYjJjYTIwOThmNzg4Njc0YWNiNjY3M2E5ZTE2YTVhN2UyYzI0Mw%3D%3D",
-   "name": "男人志",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0122",
-   "urllist": "http://210.201.54.110/glive2/time_movies/chunklist_w1003147964.m3u8?st=1493898682361&token=OWU4ZDJmODEzNzJiMDZmOGUwYWMwNzUwZDk0OGI4MTJhYzhhOGZhZQ%3D%3D",
-   "name": "时代影像",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0123",
-   "urllist": "http://210.201.54.110/glive2/edgel/chunklist_w233011430.m3u8?st=1493902449917&token=ODMyYzYxNDcxMWZmZWJhYmFmNmZkODUzYWQxMmQ5NTg5Mjc0OGM1Mw%3D%3D",
-   "name": "时尚运动X",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0124",
-   "urllist": "http://210.201.54.110/glive/kmtv/chunklist_w1584124010.m3u8?st=1493903622684&token=NmViMWQyMTYzNDk0NmI2MDFiZWEzOGY0NTAzYjA1N2JjYzQ0OWRiNQ%3D%3D",
-   "name": "韩国娱乐台",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0125",
-   "urllist": "http://210.201.54.110/glive2/encorel/chunklist_w334122802.m3u8?st=1493897765716&token=NWNiNGFiM2RkOWFmM2JkYTdhZTIxNTQzZTdmNjRhYTM1ZWM4NzNmOQ%3D%3D",
-   "name": "影迷数位电影台",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0126",
-   "urllist": "http://210.201.54.110/glive/sundancel/chunklist_w1661783069.m3u8?st=1493895761345&token=NzJkOTgyOTRiNzdjNGRiNWY0NTM2MWM1ODMzMDVjMjI0M2JmOGZkMA%3D%3D",
-   "name": "日舞ANC电影台",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0127",
-   "urllist": "http://210.201.54.110/glive/umovie1l/chunklist_w1206146698.m3u8?st=1493898211316&token=M2UyYzM4ZDA1Mzk4YTM1ODEwM2JhMDQ4ZWQ1MTA2Zjg1YmRjZGMxNA%3D%3D",
-   "name": "优电影I",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0128",
-   "urllist": "http://210.201.54.110/glive/umovie2l/chunklist_w1015891695.m3u8?st=1493898240995&token=YzkyYTI2Y2Q3ZmQyMGJhNjJmOWM3YTY2OWU5OWJiZDU0MTRiYzhkZg%3D%3D",
-   "name": "优电影II",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0129",
-   "urllist": "http://210.201.54.110/glive/umovie3l/chunklist_w1462347416.m3u8?st=1493898280546&token=ZGJjMjdkMjNkODgxMGUyMGYwOTg5ZmVhMjhkN2MxNDY2ZjQxN2RlNA%3D%3D",
-   "name": "优电影III",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0130",
-   "urllist": "http://210.201.54.110/glive/afterdark/chunklist_w443245869.m3u8?st=1493898567322&token=MWUxMjQ2ZTQyMDM2OTA2M2UzZmRhN2MxMDdjYzhjZTVkNjVhOTQwMQ%3D%3D",
-   "name": "暗光鸟电影",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0131",
-   "urllist": "http://210.201.54.110/glive/chinese/chunklist_w161889473.m3u8?st=1493895709549&token=M2M0YzNjY2Y2MWM1MzEwY2IxYmFhY2Y0MTJkNzc0NmIzODhjNzY0NA%3D%3D",
-   "name": "热播话语戏剧",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0132",
-   "urllist": "http://210.201.54.110/glive/hot/chunklist_w1163434163.m3u8?st=1493895891265&token=OWM0NzZlN2Q2YjgwMGEzZTNjMDZlYjQ0ZDc5MjA1ZGIxYmI3NjNhYQ%3D%3D",
-   "name": "亚洲人气戏剧",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0133",
-   "urllist": "http://210.201.54.110/glive/asia/chunklist_w1149647537.m3u8?st=1493689761314&token=MDZhNGFhMTYwYTM1OTM3ZTBkMzI2NDkxMTI0NWJmYmI3NTUzMTM3Ng%3D%3D",
-   "name": "亚洲院线电影",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0134",
-   "urllist": "http://210.201.54.110/glive/west/chunklist_w1172572113.m3u8?st=1493897968031&token=ZTVmNmU4OTEzNDFlYWYzNTkxMzI3ODA4NDk5NzI4MTgzZTA1MWJmMw%3D%3D",
-   "name": "西洋强档电影",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0135",
-   "urllist": "http://210.201.54.110/glive/di/chunklist_w491078099.m3u8?st=1493901411089&token=MjY4MzM4M2RmNzk3ZTNkMmU1NTBhMjg2YmVhMzE2ZGZiOTBiNDY2Zg%3D%3D",
-   "name": "大爱I",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0136",
-   "urllist": "http://210.201.54.110/glive/di2l/chunklist_w1105740453.m3u8?st=1493901385315&token=MDMyZjU1NTUyMGZmN2YxNmYwZmEwYzBjM2Q1OWMyZjg1MDJmYWFjYQ%3D%3D",
-   "name": "大爱II",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0137",
-   "urllist": "http://210.201.54.110/glive/goodtv1/chunklist_w2030427112.m3u8?st=1493901099157&token=NTJhMGRjNTg2NjM4YjRiZjM5NGI3NGQyMDBiNTRiOGRiM2U0NjRiYw%3D%3D",
-   "name": "好消息I",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0138",
-   "urllist": "http://210.201.54.110/glive/goodtv2/chunklist_w1393558114.m3u8?st=1493901126770&token=ZGY0OWVkZmJiMjdlNjA1YTQ4N2EzMzE3ZDZmNWVkNWNkM2ZhYjYyYw%3D%3D",
-   "name": "好消息II",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0139",
-   "urllist": "http://210.201.54.110/glive/live/chunklist_w578148836.m3u8?st=1493901297772&token=MmU3MzkxN2I4MTQyOTk0NTQ3MWE2MzBlYmU4ZmE2MDI2ZTAyYmZjMw%3D%3D",
-   "name": "人间卫视",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0140",
-   "urllist": "http://210.201.54.110/glive2/hztv/chunklist_w1316628333.m3u8?st=1493902252864&token=NmRjOGQ3YThhZWJkZTQ4NTg3MDhiYjkwNjMxYTU0ZjM1YWIwYTg3Yg%3D%3D",
-   "name": "华藏卫视",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0141",
-   "urllist": "http://210.201.54.110/glive2/wxtv/chunklist_w1823976375.m3u8?st=1493902309474&token=ZjljOTgxMTQ5YzZlMDQ3MWFhNDhhNDc5MWE3OWJhZTQ1YTMxOTZiOQ%3D%3D",
-   "name": "唯心TV",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0142",
-   "urllist": "http://210.201.54.110/glive2/lifetv/chunklist_w966247445.m3u8?st=1493902380696&token=OTc3MTE4NWRkZTQxN2I2OTgyNDE4ZWRjODM1MzczNTQ3M2NmMDliMw%3D%3D",
-   "name": "生命电视",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0143",
-   "urllist": "http://210.201.54.110/glive2/ntdtv/chunklist_w146355980.m3u8?st=1493902181624&token=NmNjNjRlNDRiMWQyOWFkOGMzMTRjZGNiMDhiNDljZWJjNGY3MzhkOA%3D%3D",
-   "name": "新唐人亚太台",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0144",
-   "urllist": "http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8",
-   "name": "翡翠国语台",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0145",
-   "urllist": "http://210.201.54.110/glive/dscienl/chunklist_w234903846.m3u8?st=1493901010975&token=NTdmNmU1Y2I5M2I5ZDBjOWE0NDZmYmU5M2JlNWMxMmJhNmRjNjQzNQ%3D%3D",
-   "name": "探索科学频道",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0146",
-   "urllist": "http://210.201.54.110/glive/ddmaxl/chunklist_w53623632.m3u8?st=1493900901912&token=MGE3MjJlYjIwNjhmNDkwOTg4MDZlN2ZjNGE2MzU1MzNlZmFjZTA3Mw%3D%3D",
-   "name": "探索动力频道",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0147",
-   "urllist": "http://210.201.54.110/glive/history/chunklist_w213993713.m3u8?st=1493897530549&token=NDY4NjBiOGNmNjIzMTYzN2ZhZjFhZGI4ZTdhNTlhN2MwNjZmMjVlMA%3D%3D",
-   "name": "历史频道I",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0148",
-   "urllist": "http://210.201.54.110/glive/history2/chunklist_w583756222.m3u8?st=1493897350998&token=YWY0OGRmMzRmNjYzMTM0ZWM2MjhlZDYzM2RiNDc4ZjA5ZDNlYTUyMw%3D%3D",
-   "name": "历史频道II",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0149",
-   "urllist": "http://210.201.54.110/glive/ent/chunklist_w1998937390.m3u8?st=1493901046976&token=ZjA1NzQ5NWQyZjY0YmUxYzVmYWU2MGU2YjkxOTJiODJmOTBlZGQ4ZA%3D%3D",
-   "name": "E！",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0150",
-   "urllist": "http://210.201.54.110/glive2/afc/chunklist_w1728597298.m3u8?st=1493895433787&token=MGY2OGQ0OTU3MDNkYjcxZmI0Mzc5MTgzMGQ0MWEyZDQ4YTMwYWI0OA%3D%3D",
-   "name": "AFC亚洲美食",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0151",
-   "urllist": "http://210.201.54.110/glive/cnexl/chunklist_w746088443.m3u8?st=1493897227156&token=ZDczM2UyNmUzMzk2Zjc0YzFmZGQ2ZjlmODkwMzU4NmJjN2Q5Mzk5Mw%3D%3D",
-   "name": "CNEX",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0152",
-   "urllist": "http://210.201.54.110/glive2/fna/chunklist_w1456938816.m3u8?st=1493901798593&token=NDFjY2Y3MmE4ZDg0NmY0MDk1MmVmY2NmN2VhYzBiMjcyMTk5YzE3OA%3D%3D",
-   "name": "FOOD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0153",
-   "urllist": "http://210.201.54.110/glive2/hgtv/chunklist_w618701760.m3u8?st=1493901691433&token=ODYzZDc0MzhjZjA1YzYyNWFiMjBhMzBlOTlhMzA1YmE5MmRjMmQ4YQ%3D%3D",
-   "name": "HGTV",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0154",
-   "urllist": "http://210.201.54.110/glive/ci/chunklist_w707831663.m3u8?st=1493897144248&token=NzQ0YTZlMTQ4MjBlOTlhMzZhNWRjMjU5MWM4ZDY0NTg5ZWI2NzkyOQ%3D%3D",
-   "name": "CI罪案侦缉频道",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0155",
-   "urllist": "http://210.201.54.110/glive2/travelchannel/chunklist_w1207209707.m3u8?st=1493900347304&token=NDA5NTNmZGZjMzMyYWU3MTYwOWEwYmY3YjYxMTQxZDQ0OGViN2FlOQ%3D%3D",
-   "name": "TRAVEL",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0156",
-   "urllist": "http://210.201.54.110/glive/iconcertsl/chunklist_w999413315.m3u8?st=1494639087582&token=ZjVlMTU2MWVjOWZhMjM0NTI2ZTA3MzE2YjY5YjU1MDM1ZTIxOGZiOQ%3D%3D",
-   "name": "ICONCERTS",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0157",
-   "urllist": "http://210.201.54.110/glive/livetime/chunklist_w269471729.m3u8?st=1493899586015&token=YjU3YThhOTMzMTI2MTBiNGUwMDE3OGYyM2IzNzVhY2I0NmQxNTBhMg%3D%3D",
-   "name": "LIFETIME",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0158",
-   "urllist": "http://210.201.54.110/glive/comedyl/chunklist_w1976380053.m3u8?st=1493899447617&token=ODJiYzY2ZmJlMzVkZjk5ZDU0MTg4NTkxNDUyYjE4YjZmZDc3MWFiYg%3D%3D",
-   "name": "COMEDY",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0159",
-   "urllist": "http://210.201.54.110/glive2/outdoorl/chunklist_w285718017.m3u8?st=1493900168908&token=YWViMDc4MGM3YTg2YTllNjkwNTViNWMzOGFlNmNhMWVjODFlNTkyZA%3D%3D",
-   "name": "OUTDOOR",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0160",
-   "urllist": "http://210.201.54.110/glive/fashion/chunklist_w1032043440.m3u8?st=1493899565645&token=MGJmNjVkODA4YzczMWZlMzU4OGQ3OWU0ZTIyMTQwNjQzMDhmMzFhMQ%3D%3D",
-   "name": "FASHIONONE",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0161",
-   "urllist": "http://210.201.54.110/glive/davincil/chunklist_w1664608143.m3u8?st=1493900871267&token=MjM4Yzc4NDNhNjhjNzk5MDM2YzQ0ZGFmNzAyNDZmMmI5MzJhY2U4ZQ%3D%3D",
-   "name": "DAVINCI",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0162",
-   "urllist": "http://210.201.54.110/glive2/b_sports_n/chunklist_w1757572152.m3u8?st=1493902556758&token=NmMwYmRlNzhhNjM5MTU1NjFkYzMwNjM1MGZjYmIyYzA0Y2EyYzMzNA%3D%3D",
-   "name": "博斯运动I",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0163",
-   "urllist": "http://210.201.54.110/glive2/b_football_n/chunklist_w424759140.m3u8?st=1493902588410&token=NWI1ODYxNTM1YzA1MDQxMzgyZDFjN2VkNDVkYTcwMTU0M2VmMGIwMg%3D%3D",
-   "name": "博斯运动II",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0164",
-   "urllist": "http://210.201.54.110/glive2/b_tennis_n/chunklist_w1288428908.m3u8?st=1493902622110&token=ODkxZTc4ZjAzMWQ2ZDUwNWMxNGU0MjIwZTQ0MTU5NjZiM2ZjMmI4OQ%3D%3D",
-   "name": "博斯网球",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0165",
-   "urllist": "http://210.201.54.110/glive2/b_infinity_n/chunklist_w1146688236.m3u8?st=1493900063497&token=NGMzYzI1Y2JjZDkyOWE3MDBmMzZiZTk5NGYyNWIzYTA1NWI2NGJkZg%3D%3D",
-   "name": "博斯无限",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0166",
-   "urllist": "http://210.201.54.110/glive2/b_charm_n/chunklist_w974886269.m3u8?st=1493900034737&token=Njg4ZDM3NzVhNDFiMmFjOGIzMDgzNDIwYTZhMGYzZTg0ODg2ODBhOA%3D%3D",
-   "name": "博斯魅力",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0167",
-   "urllist": "http://210.201.54.110/glive2/b_golf_n/chunklist_w411157974.m3u8?st=1493902506809&token=YWI3MjE2M2JjYzEyY2VkNTFiMTE5OTcyZmYwNzA5MTRjODM4MjJiMg%3D%3D",
-   "name": "博斯高球I",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0168",
-   "urllist": "http://210.201.54.110/glive2/b_golf2_n/chunklist_w1041993712.m3u8?st=1493902533625&token=ZjVmNzFhMmI3OWNlMDUyMjU5Mjk1MWZlZTEyYTdjYWZjOWNhM2ZiMA%3D%3D",
-   "name": "博斯高球II",
-   "itemid": "uid01"
   }
  ]
 }
