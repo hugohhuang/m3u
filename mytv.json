@@ -1,828 +1,828 @@
 {
- "type": [
-  {
-   "id": "uid00",
-   "name": "L2TV"
-  },
-  {
-   "id": "uid01",
-   "name": "卫视"
-  },
-  {
-   "id": "uid02",
-   "name": "央视"
-  }
- ],
- "live": [
-  {
-   "num": "0001",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=1&token=OpenAdmin",
-   "name": "民視 HD",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0002",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=2&token=OpenAdmin",
-   "name": "台視 HD",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0003",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=3&token=OpenAdmin",
-   "name": "中視 HD",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0004",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=4&token=OpenAdmin",
-   "name": "華視 HD",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0005",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=5&token=OpenAdmin",
-   "name": "公視 HD",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0006",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=6&token=OpenAdmin",
-   "name": "公視 2",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0007",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=7&token=OpenAdmin",
-   "name": "公視 3",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0008",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=8&token=OpenAdmin",
-   "name": "大愛",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0009",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=9&token=OpenAdmin",
-   "name": "原住民電視台",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0010",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=10&token=OpenAdmin",
-   "name": "客家電視台",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0011",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=11&token=OpenAdmin",
-   "name": "民視第一台",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0012",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=12&token=OpenAdmin",
-   "name": "民視台灣台",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0013",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=13&token=OpenAdmin",
-   "name": "華視新聞",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0014",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=14&token=OpenAdmin",
-   "name": "年代新聞台",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0015",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=15&token=OpenAdmin",
-   "name": "非凡新聞台",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0016",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=16&token=OpenAdmin",
-   "name": "民視新聞台",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0017",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=17&token=OpenAdmin",
-   "name": "三立新聞",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0018",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=18&token=OpenAdmin",
-   "name": "中天新聞台",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0019",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=19&token=OpenAdmin",
-   "name": "TVBS新聞台",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0020",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=20&token=OpenAdmin",
-   "name": "台視財經台",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0021",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=21&token=OpenAdmin",
-   "name": "台視新聞",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0022",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=22&token=OpenAdmin",
-   "name": "中視新聞",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0023",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=23&token=OpenAdmin",
-   "name": "Disney",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0024",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=24&token=OpenAdmin",
-   "name": "Boomerang 卡通台",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0025",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=25&token=OpenAdmin",
-   "name": "ANIMAX",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0026",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=26&token=OpenAdmin",
-   "name": "Discovery",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0027",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=27&token=OpenAdmin",
-   "name": "動物星球",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0028",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=28&token=OpenAdmin",
-   "name": "亞洲美食",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0029",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=29&token=OpenAdmin",
-   "name": "HGTV",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0030",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=30&token=OpenAdmin",
-   "name": "TLC",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0031",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=31&token=OpenAdmin",
-   "name": "DMAX",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0032",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=32&token=OpenAdmin",
-   "name": "國家地理 HD",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0033",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=33&token=OpenAdmin",
-   "name": "美食網",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0034",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=34&token=OpenAdmin",
-   "name": "MOMO",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0035",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=35&token=OpenAdmin",
-   "name": "Discovery亞洲",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0036",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=36&token=OpenAdmin",
-   "name": "Fashion TV",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0037",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=37&token=OpenAdmin",
-   "name": "GTV八大娛樂台",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0038",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=38&token=OpenAdmin",
-   "name": "GTV八大第一台",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0039",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=39&token=OpenAdmin",
-   "name": "GTV八大綜合台",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0040",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=40&token=OpenAdmin",
-   "name": "GTV八大戲劇台",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0041",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=41&token=OpenAdmin",
-   "name": "三立台灣台",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0042",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=42&token=OpenAdmin",
-   "name": "霹靂台灣台",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0043",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=43&token=OpenAdmin",
-   "name": "緯來日本",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0044",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=44&token=OpenAdmin",
-   "name": "高點綜合",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0045",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=45&token=OpenAdmin",
-   "name": "中天綜合台",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0046",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=46&token=OpenAdmin",
-   "name": "中天娛樂台",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0047",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=47&token=OpenAdmin",
-   "name": "KMTV",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0048",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=48&token=OpenAdmin",
-   "name": "國興衛視",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0049",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=49&token=OpenAdmin",
-   "name": "中視經典台",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0050",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=50&token=OpenAdmin",
-   "name": "中視菁采台",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0051",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=51&token=OpenAdmin",
-   "name": "台視綜合台",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0052",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=52&token=OpenAdmin",
-   "name": "華納 TV",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0053",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=53&token=OpenAdmin",
-   "name": "EVE",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0054",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=54&token=OpenAdmin",
-   "name": "星空電影台",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0055",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=55&token=OpenAdmin",
-   "name": "LS TIME龍祥電影",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0056",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=56&token=OpenAdmin",
-   "name": "AXN",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0057",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=57&token=OpenAdmin",
-   "name": "FOX HD",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0058",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=58&token=OpenAdmin",
-   "name": "FOX Sport3 HD",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0059",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=59&token=OpenAdmin",
-   "name": "愛爾達體育",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0060",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=60&token=OpenAdmin",
-   "name": "Z 頻道",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0061",
-   "urllist": "http://tv.two3.cn/Tv/l2tv?id=61&token=OpenAdmin",
-   "name": "緯來體育",
-   "itemid": "uid00"
-  },
-  {
-   "num": "0062",
-   "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225988/index.m3u8",
-   "name": "北京卫视FHD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0063",
-   "urllist": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225828/index.m3u8",
-   "name": "东方卫视FHD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0064",
-   "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226048/index.m3u8",
-   "name": "天津卫视FHD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0065",
-   "urllist": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225949/index.m3u8",
-   "name": "重庆卫视FHD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0066",
-   "urllist": "http://111.13.42.45/PLTV/88888888/224/3221226162/1.m3u8",
-   "name": "湖南卫视FHD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0067",
-   "urllist": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225938/index.m3u8",
-   "name": "深圳卫视FHD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0068",
-   "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225985/index.m3u8",
-   "name": "广东卫视FHD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0069",
-   "urllist": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225934/index.m3u8",
-   "name": "浙江卫视FHD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0070",
-   "urllist": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225945/index.m3u8",
-   "name": "安徽卫视FHD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0071",
-   "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225989/index.m3u8",
-   "name": "江苏卫视FHD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0072",
-   "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225992/index.m3u8",
-   "name": "山东卫视FHD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0073",
-   "urllist": "http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=66",
-   "name": "贵州卫视FHD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0074",
-   "urllist": "http://124.47.33.200/PLTV/88888888/224/3221225600/index.m3u8",
-   "name": "四川卫视FHD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0075",
-   "urllist": "http://61.166.153.32:1180/play/playback/90000001000000050000000000000263/live100001.m3u8",
-   "name": "云南卫视HD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0076",
-   "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225500/index.m3u8",
-   "name": "黑龙江卫视FHD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0077",
-   "urllist": "http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=67",
-   "name": "吉林卫视FHD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0078",
-   "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226049/index.m3u8",
-   "name": "辽宁卫视FHD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0079",
-   "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225811/index.m3u8",
-   "name": "广西卫视",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0080",
-   "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226044/index.m3u8",
-   "name": "江西卫视FHD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0081",
-   "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226046/index.m3u8",
-   "name": "东南卫视FHD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0082",
-   "urllist": "http://weblive.hebtv.com/live/hbws_bq/index.m3u8",
-   "name": "河北卫视HD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0083",
-   "urllist": "http://223.110.243.159/PLTV/3/224/3221225576/index.m3u8",
-   "name": "山西卫视",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0084",
-   "urllist": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225840/index.m3u8",
-   "name": "湖北卫视FHD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0085",
-   "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8",
-   "name": "河南卫视",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0086",
-   "urllist": "http://223.110.243.158/PLTV/3/224/3221225580/index.m3u8",
-   "name": "青海卫视",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0087",
-   "urllist": "http://223.110.243.158/PLTV/3/224/3221225590/index.m3u8",
-   "name": "甘肃卫视",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0088",
-   "urllist": "http://223.110.243.142/PLTV/3/224/3221225624/index.m3u8",
-   "name": "内蒙古卫视",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0089",
-   "urllist": "http://223.110.243.147/PLTV/3/224/3221225628/index.m3u8",
-   "name": "宁夏卫视",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0090",
-   "urllist": "http://124.47.33.200/PLTV/88888888/224/3221225498/index.m3u8",
-   "name": "陕西卫视FHD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0091",
-   "urllist": "http://223.110.243.140/PLTV/3/224/3221225523/index.m3u8",
-   "name": "新疆卫视",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0092",
-   "urllist": "http://223.110.243.145/PLTV/3/224/3221225579/index.m3u8",
-   "name": "西藏卫视",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0093",
-   "urllist": "http://live.ybtvyun.com/video/s10006-cys/index.m3u8",
-   "name": "延边卫视",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0094",
-   "urllist": "http://v.btzx.com.cn:1935/live/weishi.stream/playlist.m3u8",
-   "name": "兵团卫视",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0095",
-   "urllist": "http://stream1.grtn.cn/tvs2/sd/live.m3u8",
-   "name": "南方卫视",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0096",
-   "urllist": "http://stream1.hnntv.cn/lywsgq/sd/live.m3u8#",
-   "name": "旅游卫视",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0097",
-   "urllist": "http://live.sdetv.com.cn/live/sdetv/playlist.m3u8",
-   "name": "山东教育",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0098",
-   "urllist": "http://cstv.live.wscdns.com/live/xiamen/playlist.m3u8",
-   "name": "厦门卫视",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0099",
-   "urllist": "http://stream1.hnntv.cn/zhpd/sd/live.m3u8",
-   "name": "海南综合",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0100",
-   "urllist": "http://223.82.250.72/live/kakukaton/1.m3u8",
-   "name": "卡酷少儿",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0101",
-   "urllist": "http://36487.hlsplay.aodianyun.com/guangdianyun_36487/tv_channel_409.m3u8",
-   "name": "金鹰卡通",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0102",
-   "urllist": "http://223.82.250.72/live/xuandongkaton/1.m3u8",
-   "name": "炫动卡通",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0103",
-   "urllist": "http://223.82.250.72/live/youmankaton/1.m3u8",
-   "name": "优漫卡通",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0104",
-   "urllist": "http://stream6.fjtv.net/haixia/sd/live.m3u8?_upt=eb75b3741525196442",
-   "name": "海峡卫视HD",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0105",
-   "urllist": "http://222.216.111.82:8088/flv0",
-   "name": "广西卫视HD(微信除外的可播放)",
-   "itemid": "uid01"
-  },
-  {
-   "num": "0106",
-   "urllist": "http://111.13.42.45/PLTV/88888888/224/3221226154/1.m3u8",
-   "name": "CCTV-1 FHD",
-   "itemid": "uid02"
-  },
-  {
-   "num": "0107",
-   "urllist": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225923/index.m3u8",
-   "name": "CCTV-2 FHD",
-   "itemid": "uid02"
-  },
-  {
-   "num": "0108",
-   "urllist": "http://111.13.42.45/PLTV/88888888/224/3221226231/1.m3u8",
-   "name": "CCTV-3 FHD",
-   "itemid": "uid02"
-  },
-  {
-   "num": "0109",
-   "urllist": "http://223.110.241.204:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/",
-   "name": "CCTV-4 FHD",
-   "itemid": "uid02"
-  },
-  {
-   "num": "0110",
-   "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225497/index.m3u8",
-   "name": "CCTV-5 FHD",
-   "itemid": "uid02"
-  },
-  {
-   "num": "0111",
-   "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225496/index.m3u8",
-   "name": "CCTV-5+ FHD",
-   "itemid": "uid02"
-  },
-  {
-   "num": "0112",
-   "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227209/index.m3u8",
-   "name": "CCTV-6 FHD",
-   "itemid": "uid02"
-  },
-  {
-   "num": "0113",
-   "urllist": "http://111.13.42.45/PLTV/88888888/224/3221226234/1.m3u8",
-   "name": "CCTV-7 FHD",
-   "itemid": "uid02"
-  },
-  {
-   "num": "0114",
-   "urllist": "http://111.13.42.45/PLTV/88888888/224/3221226235/1.m3u8",
-   "name": "CCTV-8 FHD",
-   "itemid": "uid02"
-  },
-  {
-   "num": "0115",
-   "urllist": "http://111.20.33.70/PLTV/88888888/224/3221225577/index.m3u8",
-   "name": "CCTV-9 FHD",
-   "itemid": "uid02"
-  },
-  {
-   "num": "0116",
-   "urllist": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225931/index.m3u8",
-   "name": "CCTV-10 FHD",
-   "itemid": "uid02"
-  },
-  {
-   "num": "0117",
-   "urllist": "http://223.110.243.136/PLTV/2510088/224/3221227174/1.m3u8",
-   "name": "CCTV-11",
-   "itemid": "uid02"
-  },
-  {
-   "num": "0118",
-   "urllist": "http://111.13.42.45/PLTV/88888888/224/3221226228/1.m3u8",
-   "name": "CCTV-12 FHD",
-   "itemid": "uid02"
-  },
-  {
-   "num": "0119",
-   "urllist": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8",
-   "name": "CCTV-13",
-   "itemid": "uid02"
-  },
-  {
-   "num": "0120",
-   "urllist": "http://111.13.42.45/PLTV/88888888/224/3221226229/1.m3u8",
-   "name": "CCTV-14 FHD",
-   "itemid": "uid02"
-  },
-  {
-   "num": "0121",
-   "urllist": "http://qhyx.qhcatv.com:16414/contents39/live/CHANNEL15e09a88ba1a495b852a487d15bb0b15/SD_4535563025885331454/timeshift.m3u8",
-   "name": "CCTV-15 HD",
-   "itemid": "uid02"
-  },
-  {
-   "num": "0122",
-   "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225549/index.m3u8",
-   "name": "NewTV家庭剧场",
-   "itemid": "uid02"
-  },
-  {
-   "num": "0123",
-   "urllist": "http://14.29.60.41/live/5/30/2a87f3cf8e4e4fada053e87dc18808e7.m3u8?type=m3u8.web.cloudplay",
-   "name": "CIBN嗨播",
-   "itemid": "uid02"
-  },
-  {
-   "num": "0124",
-   "urllist": "http://14.29.60.41/live/5/30/92eda28858154bc9a4b583ea3a3f8e55.m3u8?type=m3u8.web.cloudplay",
-   "name": "CIBN电影",
-   "itemid": "uid02"
-  },
-  {
-   "num": "0125",
-   "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225529/index.m3u8",
-   "name": "NewTV动作电影",
-   "itemid": "uid02"
-  },
-  {
-   "num": "0126",
-   "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225561/index.m3u8",
-   "name": "NewTV惊悚悬疑",
-   "itemid": "uid02"
-  },
-  {
-   "num": "0127",
-   "urllist": "http://14.29.60.41/live/5/30/f6837f07f8e54acda5963f93447028d1.m3u8?type=m3u8.web.cloudplay",
-   "name": "CIBN喜剧影院",
-   "itemid": "uid02"
-  },
-  {
-   "num": "0128",
-   "urllist": "http://183.207.249.14/PLTV/3/224/3221225569/index.m3u8",
-   "name": "NewTV精品大剧",
-   "itemid": "uid02"
-  },
-  {
-   "num": "0129",
-   "urllist": "http://183.207.249.16/PLTV/3/224/3221225543/index.m3u8",
-   "name": "NewTV精品体育",
-   "itemid": "uid02"
-  },
-  {
-   "num": "0130",
-   "urllist": "http://183.207.249.7/PLTV/3/224/3221225555/index.m3u8",
-   "name": "NewTV动画王国",
-   "itemid": "uid02"
-  },
-  {
-   "num": "0131",
-   "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225567/index.m3u8",
-   "name": "NewTV精品电影",
-   "itemid": "uid02"
-  },
-  {
-   "num": "0132",
-   "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225535/index.m3u8",
-   "name": "NewTV明星大片",
-   "itemid": "uid02"
-  },
-  {
-   "num": "0133",
-   "urllist": "http://ivi.bupt.edu.cn/hls/chchd.m3u8",
-   "name": "CHC高清电影",
-   "itemid": "uid02"
-  },
-  {
-   "num": "0134",
-   "urllist": "http://183.207.249.16/PLTV/3/224/3221225559/index.m3u8",
-   "name": "NewTV金牌综艺",
-   "itemid": "uid02"
-  },
-  {
-   "num": "0135",
-   "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225557/index.m3u8",
-   "name": "NewTV精品记录",
-   "itemid": "uid02"
-  }
- ]
+    "live": [
+        {
+            "itemid": "uid00",
+            "name": "民視 HD",
+            "num": "0001",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=1&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "台視 HD",
+            "num": "0002",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=2&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "中視 HD",
+            "num": "0003",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=3&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "華視 HD",
+            "num": "0004",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=4&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "公視 HD",
+            "num": "0005",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=5&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "公視 2",
+            "num": "0006",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=6&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "公視 3",
+            "num": "0007",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=7&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "大愛",
+            "num": "0008",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=8&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "原住民電視台",
+            "num": "0009",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=9&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "客家電視台",
+            "num": "0010",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=10&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "民視第一台",
+            "num": "0011",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=11&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "民視台灣台",
+            "num": "0012",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=12&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "華視新聞",
+            "num": "0013",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=13&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "年代新聞台",
+            "num": "0014",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=14&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "非凡新聞台",
+            "num": "0015",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=15&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "民視新聞台",
+            "num": "0016",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=16&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "三立新聞",
+            "num": "0017",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=17&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "中天新聞台",
+            "num": "0018",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=18&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "TVBS新聞台",
+            "num": "0019",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=19&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "台視財經台",
+            "num": "0020",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=20&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "台視新聞",
+            "num": "0021",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=21&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "中視新聞",
+            "num": "0022",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=22&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "Disney",
+            "num": "0023",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=23&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "Boomerang 卡通台",
+            "num": "0024",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=24&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "ANIMAX",
+            "num": "0025",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=25&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "Discovery",
+            "num": "0026",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=26&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "動物星球",
+            "num": "0027",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=27&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "亞洲美食",
+            "num": "0028",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=28&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "HGTV",
+            "num": "0029",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=29&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "TLC",
+            "num": "0030",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=30&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "DMAX",
+            "num": "0031",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=31&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "國家地理 HD",
+            "num": "0032",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=32&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "美食網",
+            "num": "0033",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=33&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "MOMO",
+            "num": "0034",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=34&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "Discovery亞洲",
+            "num": "0035",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=35&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "Fashion TV",
+            "num": "0036",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=36&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "GTV八大娛樂台",
+            "num": "0037",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=37&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "GTV八大第一台",
+            "num": "0038",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=38&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "GTV八大綜合台",
+            "num": "0039",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=39&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "GTV八大戲劇台",
+            "num": "0040",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=40&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "三立台灣台",
+            "num": "0041",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=41&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "霹靂台灣台",
+            "num": "0042",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=42&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "緯來日本",
+            "num": "0043",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=43&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "高點綜合",
+            "num": "0044",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=44&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "中天綜合台",
+            "num": "0045",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=45&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "中天娛樂台",
+            "num": "0046",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=46&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "KMTV",
+            "num": "0047",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=47&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "國興衛視",
+            "num": "0048",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=48&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "中視經典台",
+            "num": "0049",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=49&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "中視菁采台",
+            "num": "0050",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=50&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "台視綜合台",
+            "num": "0051",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=51&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "華納 TV",
+            "num": "0052",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=52&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "EVE",
+            "num": "0053",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=53&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "星空電影台",
+            "num": "0054",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=54&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "LS TIME龍祥電影",
+            "num": "0055",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=55&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "AXN",
+            "num": "0056",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=56&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "FOX HD",
+            "num": "0057",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=57&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "FOX Sport3 HD",
+            "num": "0058",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=58&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "愛爾達體育",
+            "num": "0059",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=59&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "Z 頻道",
+            "num": "0060",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=60&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid00",
+            "name": "緯來體育",
+            "num": "0061",
+            "urllist": "http://tv.two3.cn/Tv/l2tv?id=61&token=OpenAdmin"
+        },
+        {
+            "itemid": "uid01",
+            "name": "北京卫视FHD",
+            "num": "0062",
+            "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225988/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "东方卫视FHD",
+            "num": "0063",
+            "urllist": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225828/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "天津卫视FHD",
+            "num": "0064",
+            "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226048/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "重庆卫视FHD",
+            "num": "0065",
+            "urllist": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225949/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "湖南卫视FHD",
+            "num": "0066",
+            "urllist": "http://111.13.42.45/PLTV/88888888/224/3221226162/1.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "深圳卫视FHD",
+            "num": "0067",
+            "urllist": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225938/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "广东卫视FHD",
+            "num": "0068",
+            "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225985/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "浙江卫视FHD",
+            "num": "0069",
+            "urllist": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225934/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "安徽卫视FHD",
+            "num": "0070",
+            "urllist": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225945/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "江苏卫视FHD",
+            "num": "0071",
+            "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225989/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "山东卫视FHD",
+            "num": "0072",
+            "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225992/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "贵州卫视FHD",
+            "num": "0073",
+            "urllist": "http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=66"
+        },
+        {
+            "itemid": "uid01",
+            "name": "四川卫视FHD",
+            "num": "0074",
+            "urllist": "http://124.47.33.200/PLTV/88888888/224/3221225600/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "云南卫视HD",
+            "num": "0075",
+            "urllist": "http://61.166.153.32:1180/play/playback/90000001000000050000000000000263/live100001.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "黑龙江卫视FHD",
+            "num": "0076",
+            "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225500/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "吉林卫视FHD",
+            "num": "0077",
+            "urllist": "http://116.199.5.51:8114/LIVES/index.m3u8?Fsv_otype=1&FvSeid=&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=67"
+        },
+        {
+            "itemid": "uid01",
+            "name": "辽宁卫视FHD",
+            "num": "0078",
+            "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226049/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "广西卫视",
+            "num": "0079",
+            "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225811/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "江西卫视FHD",
+            "num": "0080",
+            "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226044/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "东南卫视FHD",
+            "num": "0081",
+            "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226046/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "河北卫视HD",
+            "num": "0082",
+            "urllist": "http://weblive.hebtv.com/live/hbws_bq/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "山西卫视",
+            "num": "0083",
+            "urllist": "http://223.110.243.159/PLTV/3/224/3221225576/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "湖北卫视FHD",
+            "num": "0084",
+            "urllist": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225840/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "河南卫视",
+            "num": "0085",
+            "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "青海卫视",
+            "num": "0086",
+            "urllist": "http://223.110.243.158/PLTV/3/224/3221225580/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "甘肃卫视",
+            "num": "0087",
+            "urllist": "http://223.110.243.158/PLTV/3/224/3221225590/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "内蒙古卫视",
+            "num": "0088",
+            "urllist": "http://223.110.243.142/PLTV/3/224/3221225624/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "宁夏卫视",
+            "num": "0089",
+            "urllist": "http://223.110.243.147/PLTV/3/224/3221225628/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "陕西卫视FHD",
+            "num": "0090",
+            "urllist": "http://124.47.33.200/PLTV/88888888/224/3221225498/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "新疆卫视",
+            "num": "0091",
+            "urllist": "http://223.110.243.140/PLTV/3/224/3221225523/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "西藏卫视",
+            "num": "0092",
+            "urllist": "http://223.110.243.145/PLTV/3/224/3221225579/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "延边卫视",
+            "num": "0093",
+            "urllist": "http://live.ybtvyun.com/video/s10006-cys/index.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "兵团卫视",
+            "num": "0094",
+            "urllist": "http://v.btzx.com.cn:1935/live/weishi.stream/playlist.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "南方卫视",
+            "num": "0095",
+            "urllist": "http://stream1.grtn.cn/tvs2/sd/live.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "旅游卫视",
+            "num": "0096",
+            "urllist": "http://stream1.hnntv.cn/lywsgq/sd/live.m3u8#"
+        },
+        {
+            "itemid": "uid01",
+            "name": "山东教育",
+            "num": "0097",
+            "urllist": "http://live.sdetv.com.cn/live/sdetv/playlist.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "厦门卫视",
+            "num": "0098",
+            "urllist": "http://cstv.live.wscdns.com/live/xiamen/playlist.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "海南综合",
+            "num": "0099",
+            "urllist": "http://stream1.hnntv.cn/zhpd/sd/live.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "卡酷少儿",
+            "num": "0100",
+            "urllist": "http://223.82.250.72/live/kakukaton/1.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "金鹰卡通",
+            "num": "0101",
+            "urllist": "http://36487.hlsplay.aodianyun.com/guangdianyun_36487/tv_channel_409.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "炫动卡通",
+            "num": "0102",
+            "urllist": "http://223.82.250.72/live/xuandongkaton/1.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "优漫卡通",
+            "num": "0103",
+            "urllist": "http://223.82.250.72/live/youmankaton/1.m3u8"
+        },
+        {
+            "itemid": "uid01",
+            "name": "海峡卫视HD",
+            "num": "0104",
+            "urllist": "http://stream6.fjtv.net/haixia/sd/live.m3u8?_upt=eb75b3741525196442"
+        },
+        {
+            "itemid": "uid01",
+            "name": "广西卫视HD(微信除外的可播放)",
+            "num": "0105",
+            "urllist": "http://222.216.111.82:8088/flv0"
+        },
+        {
+            "itemid": "uid02",
+            "name": "CCTV-1 FHD",
+            "num": "0106",
+            "urllist": "http://111.13.42.45/PLTV/88888888/224/3221226154/1.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "CCTV-2 FHD",
+            "num": "0107",
+            "urllist": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225923/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "CCTV-3 FHD",
+            "num": "0108",
+            "urllist": "http://111.13.42.45/PLTV/88888888/224/3221226231/1.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "CCTV-4 FHD",
+            "num": "0109",
+            "urllist": "http://223.110.241.204:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/"
+        },
+        {
+            "itemid": "uid02",
+            "name": "CCTV-5 FHD",
+            "num": "0110",
+            "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225497/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "CCTV-5+ FHD",
+            "num": "0111",
+            "urllist": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225496/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "CCTV-6 FHD",
+            "num": "0112",
+            "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227209/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "CCTV-7 FHD",
+            "num": "0113",
+            "urllist": "http://111.13.42.45/PLTV/88888888/224/3221226234/1.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "CCTV-8 FHD",
+            "num": "0114",
+            "urllist": "http://111.13.42.45/PLTV/88888888/224/3221226235/1.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "CCTV-9 FHD",
+            "num": "0115",
+            "urllist": "http://111.20.33.70/PLTV/88888888/224/3221225577/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "CCTV-10 FHD",
+            "num": "0116",
+            "urllist": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225931/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "CCTV-11",
+            "num": "0117",
+            "urllist": "http://223.110.243.136/PLTV/2510088/224/3221227174/1.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "CCTV-12 FHD",
+            "num": "0118",
+            "urllist": "http://111.13.42.45/PLTV/88888888/224/3221226228/1.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "CCTV-13",
+            "num": "0119",
+            "urllist": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "CCTV-14 FHD",
+            "num": "0120",
+            "urllist": "http://111.13.42.45/PLTV/88888888/224/3221226229/1.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "CCTV-15 HD",
+            "num": "0121",
+            "urllist": "http://qhyx.qhcatv.com:16414/contents39/live/CHANNEL15e09a88ba1a495b852a487d15bb0b15/SD_4535563025885331454/timeshift.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "NewTV家庭剧场",
+            "num": "0122",
+            "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225549/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "CIBN嗨播",
+            "num": "0123",
+            "urllist": "http://14.29.60.41/live/5/30/2a87f3cf8e4e4fada053e87dc18808e7.m3u8?type=m3u8.web.cloudplay"
+        },
+        {
+            "itemid": "uid02",
+            "name": "CIBN电影",
+            "num": "0124",
+            "urllist": "http://14.29.60.41/live/5/30/92eda28858154bc9a4b583ea3a3f8e55.m3u8?type=m3u8.web.cloudplay"
+        },
+        {
+            "itemid": "uid02",
+            "name": "NewTV动作电影",
+            "num": "0125",
+            "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225529/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "NewTV惊悚悬疑",
+            "num": "0126",
+            "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225561/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "CIBN喜剧影院",
+            "num": "0127",
+            "urllist": "http://14.29.60.41/live/5/30/f6837f07f8e54acda5963f93447028d1.m3u8?type=m3u8.web.cloudplay"
+        },
+        {
+            "itemid": "uid02",
+            "name": "NewTV精品大剧",
+            "num": "0128",
+            "urllist": "http://183.207.249.14/PLTV/3/224/3221225569/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "NewTV精品体育",
+            "num": "0129",
+            "urllist": "http://183.207.249.16/PLTV/3/224/3221225543/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "NewTV动画王国",
+            "num": "0130",
+            "urllist": "http://183.207.249.7/PLTV/3/224/3221225555/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "NewTV精品电影",
+            "num": "0131",
+            "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225567/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "NewTV明星大片",
+            "num": "0132",
+            "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225535/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "CHC高清电影",
+            "num": "0133",
+            "urllist": "http://ivi.bupt.edu.cn/hls/chchd.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "NewTV金牌综艺",
+            "num": "0134",
+            "urllist": "http://183.207.249.16/PLTV/3/224/3221225559/index.m3u8"
+        },
+        {
+            "itemid": "uid02",
+            "name": "NewTV精品记录",
+            "num": "0135",
+            "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225557/index.m3u8"
+        }
+    ],
+    "type": [
+        {
+            "id": "uid00",
+            "name": "L2TV"
+        },
+        {
+            "id": "uid01",
+            "name": "卫视"
+        },
+        {
+            "id": "uid02",
+            "name": "央视"
+        }
+    ]
 }
