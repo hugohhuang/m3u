@@ -2774,7 +2774,7 @@
         },
         {
             "itemid": "uid06",
-            "name": "TVB翡翠臺",
+            "name": "TVB翡翠台",
             "num": "0463",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=1&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=1&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=1&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=1&p=4#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=1&p=5"
         },
@@ -2912,2582 +2912,2594 @@
         },
         {
             "itemid": "uid06",
-            "name": "迪士尼頻道",
+            "name": "Disney",
             "num": "0486",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=26"
         },
         {
             "itemid": "uid06",
-            "name": "MOMO",
+            "name": "Boomerang",
             "num": "0487",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=27"
         },
         {
             "itemid": "uid06",
-            "name": "亞洲美食",
+            "name": "ANIMAX",
             "num": "0488",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=28"
         },
         {
             "itemid": "uid06",
-            "name": "HGTV",
+            "name": "MOMO",
             "num": "0489",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=29"
         },
         {
             "itemid": "uid06",
-            "name": "TLC",
+            "name": "亞洲美食",
             "num": "0490",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=30"
         },
         {
             "itemid": "uid06",
-            "name": "EVE",
+            "name": "HGTV",
             "num": "0491",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=31"
         },
         {
             "itemid": "uid06",
-            "name": "KMTV",
+            "name": "TLC",
             "num": "0492",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=32"
         },
         {
             "itemid": "uid06",
-            "name": "Fashion TV",
+            "name": "EVE",
             "num": "0493",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=33"
         },
         {
             "itemid": "uid06",
-            "name": "CCTV1高清",
+            "name": "KMTV",
             "num": "0494",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=34#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=34&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=34&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=34&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=34&p=4#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=34&p=5#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=34&p=6#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=34&p=7#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=34&p=8#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=34&p=9"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=34"
+        },
+        {
+            "itemid": "uid06",
+            "name": "Fashion TV",
+            "num": "0495",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=35"
+        },
+        {
+            "itemid": "uid06",
+            "name": "CCTV1高清",
+            "num": "0496",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=36#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=36&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=36&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=36&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=36&p=4#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=36&p=5#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=36&p=6#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=36&p=7#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=36&p=8#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=36&p=9"
         },
         {
             "itemid": "uid06",
             "name": "CCTV2高清",
-            "num": "0495",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=35#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=35&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=35&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=35&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=35&p=4"
-        },
-        {
-            "itemid": "uid06",
-            "name": "CCTV3高清",
-            "num": "0496",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=36#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=36&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=36&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=36&p=3"
-        },
-        {
-            "itemid": "uid06",
-            "name": "CCTV4高清",
             "num": "0497",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=37#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=37&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=37&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=37&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=37&p=4"
         },
         {
             "itemid": "uid06",
-            "name": "CCTV5高清",
+            "name": "CCTV3高清",
             "num": "0498",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=38#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=38&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=38&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=38&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=38&p=4#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=38&p=5#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=38&p=6#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=38&p=7#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=38&p=8#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=38&p=9#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=38&p=10#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=38&p=11#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=38&p=12#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=38&p=13#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=38&p=14#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=38&p=15#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=38&p=16#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=38&p=17"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=38#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=38&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=38&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=38&p=3"
         },
         {
             "itemid": "uid06",
-            "name": "CCTV5+高清",
+            "name": "CCTV4高清",
             "num": "0499",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=39#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=39&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=39&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=39&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=39&p=4"
         },
         {
             "itemid": "uid06",
-            "name": "CCTV6高清",
+            "name": "CCTV5高清",
             "num": "0500",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=40#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=40&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=40&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=40&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=40&p=4"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=40#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=40&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=40&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=40&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=40&p=4#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=40&p=5#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=40&p=6#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=40&p=7#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=40&p=8#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=40&p=9#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=40&p=10#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=40&p=11#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=40&p=12#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=40&p=13#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=40&p=14#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=40&p=15#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=40&p=16#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=40&p=17"
+        },
+        {
+            "itemid": "uid06",
+            "name": "CCTV5+高清",
+            "num": "0501",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=41#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=41&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=41&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=41&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=41&p=4"
+        },
+        {
+            "itemid": "uid06",
+            "name": "CCTV6高清",
+            "num": "0502",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=42#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=42&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=42&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=42&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=42&p=4"
         },
         {
             "itemid": "uid06",
             "name": "CCTV7高清",
-            "num": "0501",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=41#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=41&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=41&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=41&p=3"
+            "num": "0503",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=43#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=43&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=43&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=43&p=3"
         },
         {
             "itemid": "uid06",
             "name": "CCTV8高清",
-            "num": "0502",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=42#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=42&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=42&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=42&p=3"
-        },
-        {
-            "itemid": "uid06",
-            "name": "CCTV9高清",
-            "num": "0503",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=43#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=43&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=43&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=43&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=43&p=4#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=43&p=5"
-        },
-        {
-            "itemid": "uid06",
-            "name": "CCTV10高清",
             "num": "0504",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=44#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=44&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=44&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=44&p=3"
         },
         {
             "itemid": "uid06",
-            "name": "CCTV12高清",
+            "name": "CCTV9高清",
             "num": "0505",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=45#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=45&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=45&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=45&p=3"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=45#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=45&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=45&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=45&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=45&p=4#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=45&p=5"
+        },
+        {
+            "itemid": "uid06",
+            "name": "CCTV10高清",
+            "num": "0506",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=46#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=46&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=46&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=46&p=3"
+        },
+        {
+            "itemid": "uid06",
+            "name": "CCTV12高清",
+            "num": "0507",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=47#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=47&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=47&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=47&p=3"
         },
         {
             "itemid": "uid06",
             "name": "CCTV14高清",
-            "num": "0506",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=46#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=46&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=46&p=2"
+            "num": "0508",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=48#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=48&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=48&p=2"
         },
         {
             "itemid": "uid06",
             "name": "湖南衛視高清",
-            "num": "0507",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=47#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=47&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=47&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=47&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=47&p=4#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=47&p=5#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=47&p=6#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=47&p=7#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=47&p=8#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=47&p=9"
+            "num": "0509",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=49#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=49&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=49&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=49&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=49&p=4#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=49&p=5#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=49&p=6#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=49&p=7#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=49&p=8#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=49&p=9"
         },
         {
             "itemid": "uid06",
             "name": "江蘇衛視高清",
-            "num": "0508",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=48#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=48&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=48&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=48&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=48&p=4#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=48&p=5#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=48&p=6#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=48&p=7"
+            "num": "0510",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=50#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=50&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=50&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=50&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=50&p=4#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=50&p=5#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=50&p=6#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=50&p=7"
         },
         {
             "itemid": "uid06",
             "name": "浙江衛視高清",
-            "num": "0509",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=49#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=49&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=49&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=49&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=49&p=4#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=49&p=5#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=49&p=6"
-        },
-        {
-            "itemid": "uid06",
-            "name": "東方衛視高清",
-            "num": "0510",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=50#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=50&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=50&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=50&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=50&p=4#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=50&p=5#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=50&p=6#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=50&p=7#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=50&p=8#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=50&p=9"
-        },
-        {
-            "itemid": "uid06",
-            "name": "北京衛視高清",
             "num": "0511",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=51#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=51&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=51&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=51&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=51&p=4#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=51&p=5#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=51&p=6"
         },
         {
             "itemid": "uid06",
-            "name": "深圳衛視高清",
+            "name": "東方衛視高清",
             "num": "0512",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=52#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=52&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=52&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=52&p=3"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=52#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=52&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=52&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=52&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=52&p=4#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=52&p=5#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=52&p=6#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=52&p=7#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=52&p=8#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=52&p=9"
+        },
+        {
+            "itemid": "uid06",
+            "name": "北京衛視高清",
+            "num": "0513",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=53#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=53&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=53&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=53&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=53&p=4#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=53&p=5#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=53&p=6"
+        },
+        {
+            "itemid": "uid06",
+            "name": "深圳衛視高清",
+            "num": "0514",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=54#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=54&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=54&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=54&p=3"
         },
         {
             "itemid": "uid06",
             "name": "廣東衛視高清",
-            "num": "0513",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=53#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=53&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=53&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=53&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=53&p=4#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=53&p=5"
+            "num": "0515",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=55#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=55&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=55&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=55&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=55&p=4#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=55&p=5"
         },
         {
             "itemid": "uid06",
             "name": "安徽衛視高清",
-            "num": "0514",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=54#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=54&p=1"
+            "num": "0516",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=56#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=56&p=1"
         },
         {
             "itemid": "uid06",
             "name": "東南衛視高清",
-            "num": "0515",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=55#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=55&p=1"
+            "num": "0517",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=57#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=57&p=1"
         },
         {
             "itemid": "uid06",
             "name": "河北衛視高清",
-            "num": "0516",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=56"
+            "num": "0518",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=58"
         },
         {
             "itemid": "uid06",
             "name": "黑龍江衛視高清",
-            "num": "0517",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=57#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=57&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=57&p=2"
+            "num": "0519",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=59#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=59&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=59&p=2"
         },
         {
             "itemid": "uid06",
             "name": "湖北衛視高清",
-            "num": "0518",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=58#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=58&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=58&p=2"
-        },
-        {
-            "itemid": "uid06",
-            "name": "江西衛視高清",
-            "num": "0519",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=59#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=59&p=1"
-        },
-        {
-            "itemid": "uid06",
-            "name": "遼寧衛視高清",
             "num": "0520",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=60#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=60&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=60&p=2"
         },
         {
             "itemid": "uid06",
-            "name": "旅遊衛視高清",
+            "name": "江西衛視高清",
             "num": "0521",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=61"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=61#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=61&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "山東衛視高清",
+            "name": "遼寧衛視高清",
             "num": "0522",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=62"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=62#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=62&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=62&p=2"
         },
         {
             "itemid": "uid06",
-            "name": "四川衛視高清",
+            "name": "旅遊衛視高清",
             "num": "0523",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=63"
         },
         {
             "itemid": "uid06",
-            "name": "天津衛視高清",
+            "name": "山東衛視高清",
             "num": "0524",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=64#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=64&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=64&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=64&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=64&p=4"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=64"
+        },
+        {
+            "itemid": "uid06",
+            "name": "四川衛視高清",
+            "num": "0525",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=65"
+        },
+        {
+            "itemid": "uid06",
+            "name": "天津衛視高清",
+            "num": "0526",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=66#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=66&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=66&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=66&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=66&p=4"
         },
         {
             "itemid": "uid06",
             "name": "重慶衛視高清",
-            "num": "0525",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=65#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=65&p=1"
+            "num": "0527",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=67#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=67&p=1"
         },
         {
             "itemid": "uid06",
             "name": "海峽衛視高清",
-            "num": "0526",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=66"
-        },
-        {
-            "itemid": "uid06",
-            "name": "CCTV-1綜合",
-            "num": "0527",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=67"
-        },
-        {
-            "itemid": "uid06",
-            "name": "CCTV-2財經",
             "num": "0528",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=68"
         },
         {
             "itemid": "uid06",
-            "name": "CCTV-3綜藝",
+            "name": "CCTV-1綜合",
             "num": "0529",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=69#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=69&p=1"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=69"
         },
         {
             "itemid": "uid06",
-            "name": "CCTV-4中文國際",
+            "name": "CCTV-2財經",
             "num": "0530",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=70"
         },
         {
             "itemid": "uid06",
-            "name": "CCTV-5體育",
+            "name": "CCTV-3綜藝",
             "num": "0531",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=71#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=71&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=71&p=2"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=71#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=71&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "CCTV-6電影",
+            "name": "CCTV-4中文國際",
             "num": "0532",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=72"
         },
         {
             "itemid": "uid06",
-            "name": "CCTV-7軍事農業",
+            "name": "CCTV-5體育",
             "num": "0533",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=73"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=73#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=73&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=73&p=2"
         },
         {
             "itemid": "uid06",
-            "name": "CCTV-8電視劇",
+            "name": "CCTV-6電影",
             "num": "0534",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=74"
         },
         {
             "itemid": "uid06",
-            "name": "CCTV-9紀錄",
+            "name": "CCTV-7軍事農業",
             "num": "0535",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=75"
         },
         {
             "itemid": "uid06",
-            "name": "CCTV-10科教",
+            "name": "CCTV-8電視劇",
             "num": "0536",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=76"
         },
         {
             "itemid": "uid06",
-            "name": "CCTV-11戲曲",
+            "name": "CCTV-9紀錄",
             "num": "0537",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=77"
         },
         {
             "itemid": "uid06",
-            "name": "CCTV-12社會與法",
+            "name": "CCTV-10科教",
             "num": "0538",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=78"
         },
         {
             "itemid": "uid06",
-            "name": "CCTV-13新聞",
+            "name": "CCTV-11戲曲",
             "num": "0539",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=79#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=79&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=79&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=79&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=79&p=4#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=79&p=5"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=79"
         },
         {
             "itemid": "uid06",
-            "name": "CCTV-14少兒",
+            "name": "CCTV-12社會與法",
             "num": "0540",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=80"
         },
         {
             "itemid": "uid06",
-            "name": "CCTV-15音樂",
+            "name": "CCTV-13新聞",
             "num": "0541",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=81"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=81#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=81&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=81&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=81&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=81&p=4#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=81&p=5"
         },
         {
             "itemid": "uid06",
-            "name": "CCTV-NEWS",
+            "name": "CCTV-14少兒",
             "num": "0542",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=82"
         },
         {
             "itemid": "uid06",
-            "name": "CCTV高爾夫網球",
+            "name": "CCTV-15音樂",
             "num": "0543",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=83#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=83&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=83&p=2"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=83"
+        },
+        {
+            "itemid": "uid06",
+            "name": "CCTV-NEWS",
+            "num": "0544",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=84"
+        },
+        {
+            "itemid": "uid06",
+            "name": "CCTV高爾夫網球",
+            "num": "0545",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=85#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=85&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=85&p=2"
         },
         {
             "itemid": "uid06",
             "name": "CCTV風雲音樂",
-            "num": "0544",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=84#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=84&p=1"
-        },
-        {
-            "itemid": "uid06",
-            "name": "CCTV電視指南",
-            "num": "0545",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=85#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=85&p=1"
-        },
-        {
-            "itemid": "uid06",
-            "name": "CCTV世界地理",
             "num": "0546",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=86#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=86&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "CCTV風雲足球",
+            "name": "CCTV電視指南",
             "num": "0547",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=87#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=87&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=87&p=2"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=87#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=87&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "CCTV懷舊劇場",
+            "name": "CCTV世界地理",
             "num": "0548",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=88#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=88&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "CCTV風雲劇場",
+            "name": "CCTV風雲足球",
             "num": "0549",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=89#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=89&p=1"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=89#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=89&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=89&p=2"
+        },
+        {
+            "itemid": "uid06",
+            "name": "CCTV懷舊劇場",
+            "num": "0550",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=90#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=90&p=1"
+        },
+        {
+            "itemid": "uid06",
+            "name": "CCTV風雲劇場",
+            "num": "0551",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=91#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=91&p=1"
         },
         {
             "itemid": "uid06",
             "name": "CCTV第一劇場",
-            "num": "0550",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=90#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=90&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=90&p=2"
+            "num": "0552",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=92#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=92&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=92&p=2"
         },
         {
             "itemid": "uid06",
             "name": "CCTV發現之旅",
-            "num": "0551",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=91"
+            "num": "0553",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=93"
         },
         {
             "itemid": "uid06",
             "name": "CCTV老故事",
-            "num": "0552",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=92"
+            "num": "0554",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=94"
         },
         {
             "itemid": "uid06",
             "name": "CGTN紀錄",
-            "num": "0553",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=93#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=93&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=93&p=2"
+            "num": "0555",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=95#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=95&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=95&p=2"
         },
         {
             "itemid": "uid06",
             "name": "CETV-1",
-            "num": "0554",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=94#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=94&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=94&p=2"
+            "num": "0556",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=96#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=96&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=96&p=2"
         },
         {
             "itemid": "uid06",
             "name": "CETV-2",
-            "num": "0555",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=95"
-        },
-        {
-            "itemid": "uid06",
-            "name": "CETV-3",
-            "num": "0556",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=96"
-        },
-        {
-            "itemid": "uid06",
-            "name": "CETV-4",
             "num": "0557",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=97"
         },
         {
             "itemid": "uid06",
-            "name": "安徽衛視",
+            "name": "CETV-3",
             "num": "0558",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=98#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=98&p=1"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=98"
         },
         {
             "itemid": "uid06",
-            "name": "青海衛視",
+            "name": "CETV-4",
             "num": "0559",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=99"
         },
         {
             "itemid": "uid06",
-            "name": "貴州衛視",
+            "name": "安徽衛視",
             "num": "0560",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=100"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=100#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=100&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "吉林衛視",
+            "name": "青海衛視",
             "num": "0561",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=101"
         },
         {
             "itemid": "uid06",
-            "name": "重慶衛視",
+            "name": "貴州衛視",
             "num": "0562",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=102#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=102&p=1"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=102"
         },
         {
             "itemid": "uid06",
-            "name": "北京衛視",
+            "name": "吉林衛視",
             "num": "0563",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=103"
         },
         {
             "itemid": "uid06",
-            "name": "東方衛視",
+            "name": "重慶衛視",
             "num": "0564",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=104"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=104#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=104&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "浙江衛視",
+            "name": "北京衛視",
             "num": "0565",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=105"
         },
         {
             "itemid": "uid06",
-            "name": "湖南衛視",
+            "name": "東方衛視",
             "num": "0566",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=106"
         },
         {
             "itemid": "uid06",
-            "name": "內蒙古衛視",
+            "name": "浙江衛視",
             "num": "0567",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=107"
         },
         {
             "itemid": "uid06",
-            "name": "遼寧衛視",
+            "name": "湖南衛視",
             "num": "0568",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=108#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=108&p=1"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=108"
         },
         {
             "itemid": "uid06",
-            "name": "山東衛視",
+            "name": "內蒙古衛視",
             "num": "0569",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=109#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=109&p=1"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=109"
         },
         {
             "itemid": "uid06",
-            "name": "廣西衛視",
+            "name": "遼寧衛視",
             "num": "0570",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=110#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=110&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "旅遊衛視",
+            "name": "山東衛視",
             "num": "0571",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=111#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=111&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "四川衛視",
+            "name": "廣西衛視",
             "num": "0572",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=112#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=112&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "河南衛視",
+            "name": "旅遊衛視",
             "num": "0573",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=113#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=113&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "東南衛視",
+            "name": "四川衛視",
             "num": "0574",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=114#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=114&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "廈門衛視",
+            "name": "河南衛視",
             "num": "0575",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=115#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=115&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "江蘇衛視",
+            "name": "東南衛視",
             "num": "0576",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=116"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=116#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=116&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "新疆衛視",
+            "name": "廈門衛視",
             "num": "0577",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=117#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=117&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "天津衛視",
+            "name": "江蘇衛視",
             "num": "0578",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=118#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=118&p=1"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=118"
         },
         {
             "itemid": "uid06",
-            "name": "江西衛視",
+            "name": "新疆衛視",
             "num": "0579",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=119#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=119&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "湖北衛視",
+            "name": "天津衛視",
             "num": "0580",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=120"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=120#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=120&p=1"
+        },
+        {
+            "itemid": "uid06",
+            "name": "江西衛視",
+            "num": "0581",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=121#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=121&p=1"
+        },
+        {
+            "itemid": "uid06",
+            "name": "湖北衛視",
+            "num": "0582",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=122"
         },
         {
             "itemid": "uid06",
             "name": "廣東衛視",
-            "num": "0581",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=121"
-        },
-        {
-            "itemid": "uid06",
-            "name": "南方衛視",
-            "num": "0582",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=122#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=122&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=122&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=122&p=3"
-        },
-        {
-            "itemid": "uid06",
-            "name": "甘肅衛視",
             "num": "0583",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=123"
         },
         {
             "itemid": "uid06",
-            "name": "深圳衛視",
+            "name": "南方衛視",
             "num": "0584",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=124"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=124#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=124&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=124&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=124&p=3"
+        },
+        {
+            "itemid": "uid06",
+            "name": "甘肅衛視",
+            "num": "0585",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=125"
+        },
+        {
+            "itemid": "uid06",
+            "name": "深圳衛視",
+            "num": "0586",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=126"
         },
         {
             "itemid": "uid06",
             "name": "雲南衛視",
-            "num": "0585",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=125#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=125&p=1"
-        },
-        {
-            "itemid": "uid06",
-            "name": "河北衛視",
-            "num": "0586",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=126#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=126&p=1"
-        },
-        {
-            "itemid": "uid06",
-            "name": "寧夏衛視",
             "num": "0587",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=127#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=127&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "兵團衛視",
+            "name": "河北衛視",
             "num": "0588",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=128"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=128#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=128&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "延邊衛視",
+            "name": "寧夏衛視",
             "num": "0589",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=129"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=129#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=129&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "康巴衛視",
+            "name": "兵團衛視",
             "num": "0590",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=130"
         },
         {
             "itemid": "uid06",
-            "name": "西藏衛視",
+            "name": "延邊衛視",
             "num": "0591",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=131#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=131&p=1"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=131"
+        },
+        {
+            "itemid": "uid06",
+            "name": "康巴衛視",
+            "num": "0592",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=132"
+        },
+        {
+            "itemid": "uid06",
+            "name": "西藏衛視",
+            "num": "0593",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=133#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=133&p=1"
         },
         {
             "itemid": "uid06",
             "name": "北京卡酷少兒",
-            "num": "0592",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=140#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=140&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=140&p=2"
-        },
-        {
-            "itemid": "uid06",
-            "name": "珠江頻道",
-            "num": "0593",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=141#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=141&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=141&p=2"
-        },
-        {
-            "itemid": "uid06",
-            "name": "廣東新聞",
             "num": "0594",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=142#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=142&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=142&p=2"
         },
         {
             "itemid": "uid06",
-            "name": "廣東公共",
+            "name": "珠江頻道",
             "num": "0595",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=143#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=143&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=143&p=2"
         },
         {
             "itemid": "uid06",
-            "name": "廣東國際",
+            "name": "廣東新聞",
             "num": "0596",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=144#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=144&p=1"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=144#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=144&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=144&p=2"
+        },
+        {
+            "itemid": "uid06",
+            "name": "廣東公共",
+            "num": "0597",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=145#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=145&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=145&p=2"
+        },
+        {
+            "itemid": "uid06",
+            "name": "廣東國際",
+            "num": "0598",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=146#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=146&p=1"
         },
         {
             "itemid": "uid06",
             "name": "廣東房產",
-            "num": "0597",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=145"
+            "num": "0599",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=147"
         },
         {
             "itemid": "uid06",
             "name": "廣東會展",
-            "num": "0598",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=146"
+            "num": "0600",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=148"
         },
         {
             "itemid": "uid06",
             "name": "廣東經視 TVS1",
-            "num": "0599",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=147#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=147&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=147&p=2"
+            "num": "0601",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=149#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=149&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=149&p=2"
         },
         {
             "itemid": "uid06",
             "name": "南方衛視 TVS2",
-            "num": "0600",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=148#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=148&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=148&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=148&p=3"
+            "num": "0602",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=150#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=150&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=150&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=150&p=3"
         },
         {
             "itemid": "uid06",
             "name": "廣東綜藝 TVS3",
-            "num": "0601",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=149#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=149&p=1"
-        },
-        {
-            "itemid": "uid06",
-            "name": "廣東影視 TVS4",
-            "num": "0602",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=150#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=150&p=1"
-        },
-        {
-            "itemid": "uid06",
-            "name": "廣東少兒 TVS5",
             "num": "0603",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=151#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=151&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "嘉佳卡通",
+            "name": "廣東影視 TVS4",
             "num": "0604",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=152#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=152&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "高爾夫頻道",
+            "name": "廣東少兒 TVS5",
             "num": "0605",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=153#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=153&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "廣州電視綜合",
+            "name": "嘉佳卡通",
             "num": "0606",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=154#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=154&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "廣州新聞",
+            "name": "高爾夫頻道",
             "num": "0607",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=155#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=155&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "廣州經濟",
+            "name": "廣州電視綜合",
             "num": "0608",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=156#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=156&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "廣州影視",
+            "name": "廣州新聞",
             "num": "0609",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=157"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=157#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=157&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "廣州生活",
+            "name": "廣州經濟",
             "num": "0610",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=158"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=158#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=158&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "廣州競賽",
+            "name": "廣州影視",
             "num": "0611",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=159"
         },
         {
             "itemid": "uid06",
-            "name": "廣州少兒",
+            "name": "廣州生活",
             "num": "0612",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=160"
         },
         {
             "itemid": "uid06",
-            "name": "廣州購物",
+            "name": "廣州競賽",
             "num": "0613",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=161"
         },
         {
             "itemid": "uid06",
-            "name": "深圳都市",
+            "name": "廣州少兒",
             "num": "0614",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=162"
         },
         {
             "itemid": "uid06",
-            "name": "深圳DV生活",
+            "name": "廣州購物",
             "num": "0615",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=163"
         },
         {
             "itemid": "uid06",
-            "name": "深圳體育健康",
+            "name": "深圳都市",
             "num": "0616",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=164"
         },
         {
             "itemid": "uid06",
-            "name": "深圳電視劇",
+            "name": "深圳DV生活",
             "num": "0617",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=165"
         },
         {
             "itemid": "uid06",
-            "name": "深圳少兒",
+            "name": "深圳體育健康",
             "num": "0618",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=166"
         },
         {
             "itemid": "uid06",
-            "name": "深圳娛樂",
+            "name": "深圳電視劇",
             "num": "0619",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=167"
         },
         {
             "itemid": "uid06",
-            "name": "深圳公共",
+            "name": "深圳少兒",
             "num": "0620",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=168"
         },
         {
             "itemid": "uid06",
-            "name": "深圳財經生活",
+            "name": "深圳娛樂",
             "num": "0621",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=169"
         },
         {
             "itemid": "uid06",
-            "name": "東莞綜合",
+            "name": "深圳公共",
             "num": "0622",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=170#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=170&p=1"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=170"
+        },
+        {
+            "itemid": "uid06",
+            "name": "深圳財經生活",
+            "num": "0623",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=171"
+        },
+        {
+            "itemid": "uid06",
+            "name": "東莞綜合",
+            "num": "0624",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=172#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=172&p=1"
         },
         {
             "itemid": "uid06",
             "name": "佛山綜合",
-            "num": "0623",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=171#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=171&p=1"
-        },
-        {
-            "itemid": "uid06",
-            "name": "佛山公共",
-            "num": "0624",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=172"
-        },
-        {
-            "itemid": "uid06",
-            "name": "珠海-1",
             "num": "0625",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=173#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=173&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "珠海-2",
+            "name": "佛山公共",
             "num": "0626",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=174#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=174&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=174&p=2"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=174"
+        },
+        {
+            "itemid": "uid06",
+            "name": "珠海-1",
+            "num": "0627",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=175#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=175&p=1"
+        },
+        {
+            "itemid": "uid06",
+            "name": "珠海-2",
+            "num": "0628",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=176#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=176&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=176&p=2"
         },
         {
             "itemid": "uid06",
             "name": "中山綜合",
-            "num": "0627",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=175"
-        },
-        {
-            "itemid": "uid06",
-            "name": "肇慶綜合",
-            "num": "0628",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=176#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=176&p=1"
-        },
-        {
-            "itemid": "uid06",
-            "name": "臺山新聞",
             "num": "0629",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=177"
         },
         {
             "itemid": "uid06",
-            "name": "汕頭1",
+            "name": "肇慶綜合",
             "num": "0630",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=178"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=178#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=178&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "惠州-1",
+            "name": "台山新聞",
             "num": "0631",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=179"
         },
         {
             "itemid": "uid06",
-            "name": "惠州-2",
+            "name": "汕頭1",
             "num": "0632",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=180"
         },
         {
             "itemid": "uid06",
-            "name": "第1財經",
+            "name": "惠州-1",
             "num": "0633",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=181"
         },
         {
             "itemid": "uid06",
-            "name": "上海新聞綜合",
+            "name": "惠州-2",
             "num": "0634",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=182"
         },
         {
             "itemid": "uid06",
-            "name": "上海星尚",
+            "name": "第1財經",
             "num": "0635",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=183"
         },
         {
             "itemid": "uid06",
-            "name": "上海電視劇",
+            "name": "上海新聞綜合",
             "num": "0636",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=184"
         },
         {
             "itemid": "uid06",
-            "name": "東方財經·浦東",
+            "name": "上海星尚",
             "num": "0637",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=185"
         },
         {
             "itemid": "uid06",
-            "name": "極速汽車",
+            "name": "上海電視劇",
             "num": "0638",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=186#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=186&p=1"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=186"
         },
         {
             "itemid": "uid06",
-            "name": "遊戲風雲",
+            "name": "東方財經·浦東",
             "num": "0639",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=187"
         },
         {
             "itemid": "uid06",
-            "name": "法治天地",
+            "name": "極速汽車",
             "num": "0640",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=188"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=188#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=188&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "炫動卡通",
+            "name": "遊戲風雲",
             "num": "0641",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=189"
         },
         {
             "itemid": "uid06",
-            "name": "優漫卡通",
+            "name": "法治天地",
             "num": "0642",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=190#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=190&p=1"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=190"
         },
         {
             "itemid": "uid06",
-            "name": "都市劇場",
+            "name": "炫動卡通",
             "num": "0643",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=191"
         },
         {
             "itemid": "uid06",
-            "name": "動漫秀場",
+            "name": "優漫卡通",
             "num": "0644",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=192"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=192#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=192&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "歡笑劇場",
+            "name": "都市劇場",
             "num": "0645",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=193"
         },
         {
             "itemid": "uid06",
-            "name": "魅力音樂",
+            "name": "動漫秀場",
             "num": "0646",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=194"
         },
         {
             "itemid": "uid06",
-            "name": "茶頻道",
+            "name": "歡笑劇場",
             "num": "0647",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=195#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=195&p=1"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=195"
         },
         {
             "itemid": "uid06",
-            "name": "四海釣魚",
+            "name": "魅力音樂",
             "num": "0648",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=196"
         },
         {
             "itemid": "uid06",
-            "name": "快樂垂釣",
+            "name": "茶頻道",
             "num": "0649",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=197#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=197&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "先鋒乒羽",
+            "name": "四海釣魚",
             "num": "0650",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=198#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=198&p=1"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=198"
         },
         {
             "itemid": "uid06",
-            "name": "湖南國際",
+            "name": "快樂垂釣",
             "num": "0651",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=199#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=199&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "湖南電視劇",
+            "name": "先鋒乒羽",
             "num": "0652",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=200#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=200&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "金鷹卡通",
+            "name": "湖南國際",
             "num": "0653",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=201#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=201&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "金鷹紀實",
+            "name": "湖南電視劇",
             "num": "0654",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=202#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=202&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "湖南經視",
+            "name": "金鷹卡通",
             "num": "0655",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=203#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=203&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "湖南娛樂",
+            "name": "金鷹紀實",
             "num": "0656",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=204#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=204&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "湖南都市",
+            "name": "湖南經視",
             "num": "0657",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=205#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=205&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "湖南公共",
+            "name": "湖南娛樂",
             "num": "0658",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=206#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=206&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "湖南快樂購",
+            "name": "湖南都市",
             "num": "0659",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=207#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=207&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "長沙政法",
+            "name": "湖南公共",
             "num": "0660",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=208"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=208#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=208&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "長沙女性",
+            "name": "湖南快樂購",
             "num": "0661",
-            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=209"
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=209#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=209&p=1"
         },
         {
             "itemid": "uid06",
-            "name": "長沙新聞",
+            "name": "長沙政法",
             "num": "0662",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=210"
         },
         {
             "itemid": "uid06",
-            "name": "福建綜合頻道",
+            "name": "長沙女性",
             "num": "0663",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=211"
         },
         {
             "itemid": "uid06",
-            "name": "福建公共頻道",
+            "name": "長沙新聞",
             "num": "0664",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=212"
         },
         {
             "itemid": "uid06",
-            "name": "福建新聞頻道",
+            "name": "福建綜合頻道",
             "num": "0665",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=213"
         },
         {
             "itemid": "uid06",
-            "name": "福建電視劇頻道",
+            "name": "福建公共頻道",
             "num": "0666",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=214"
         },
         {
             "itemid": "uid06",
-            "name": "福建經視頻道",
+            "name": "福建新聞頻道",
             "num": "0667",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=215"
         },
         {
             "itemid": "uid06",
-            "name": "福建體育頻道",
+            "name": "福建電視劇頻道",
             "num": "0668",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=216"
         },
         {
             "itemid": "uid06",
-            "name": "福建少兒頻道",
+            "name": "福建經視頻道",
             "num": "0669",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=217"
         },
         {
             "itemid": "uid06",
-            "name": "遼寧都市",
+            "name": "福建體育頻道",
             "num": "0670",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=218"
         },
         {
             "itemid": "uid06",
-            "name": "遼寧體育",
+            "name": "福建少兒頻道",
             "num": "0671",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=219"
         },
         {
             "itemid": "uid06",
-            "name": "遼寧生活",
+            "name": "遼寧都市",
             "num": "0672",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=220"
         },
         {
             "itemid": "uid06",
-            "name": "遼寧經濟",
+            "name": "遼寧體育",
             "num": "0673",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=221"
         },
         {
             "itemid": "uid06",
-            "name": "遼寧教育青少",
+            "name": "遼寧生活",
             "num": "0674",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=222"
         },
         {
             "itemid": "uid06",
-            "name": "遼寧生活",
+            "name": "遼寧經濟",
             "num": "0675",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=223"
         },
         {
             "itemid": "uid06",
-            "name": "四川峨眉電影高清",
+            "name": "遼寧教育青少",
             "num": "0676",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=224"
         },
         {
             "itemid": "uid06",
-            "name": "四川2文化旅遊高清",
+            "name": "遼寧生活",
             "num": "0677",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=225"
         },
         {
             "itemid": "uid06",
-            "name": "四川3經濟頻道高清",
+            "name": "四川峨眉電影高清",
             "num": "0678",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=226"
         },
         {
             "itemid": "uid06",
-            "name": "四川4新聞綜合",
+            "name": "四川2文化旅遊高清",
             "num": "0679",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=227"
         },
         {
             "itemid": "uid06",
-            "name": "四川5影視文藝高清",
+            "name": "四川3經濟頻道高清",
             "num": "0680",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=228"
         },
         {
             "itemid": "uid06",
-            "name": "四川6星空購物",
+            "name": "四川4新聞綜合",
             "num": "0681",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=229"
         },
         {
             "itemid": "uid06",
-            "name": "四川7婦女兒童高清",
+            "name": "四川5影視文藝高清",
             "num": "0682",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=230"
         },
         {
             "itemid": "uid06",
-            "name": "河北經濟",
+            "name": "四川6星空購物",
             "num": "0683",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=231"
         },
         {
             "itemid": "uid06",
-            "name": "河北都市",
+            "name": "四川7婦女兒童高清",
             "num": "0684",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=232"
         },
         {
             "itemid": "uid06",
-            "name": "河北影視",
+            "name": "河北經濟",
             "num": "0685",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=233"
         },
         {
             "itemid": "uid06",
-            "name": "河北少兒",
+            "name": "河北都市",
             "num": "0686",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=234"
         },
         {
             "itemid": "uid06",
-            "name": "河北公共",
+            "name": "河北影視",
             "num": "0687",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=235"
         },
         {
             "itemid": "uid06",
-            "name": "河北農民",
+            "name": "河北少兒",
             "num": "0688",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=236"
         },
         {
             "itemid": "uid06",
-            "name": "湖北綜合",
+            "name": "河北公共",
             "num": "0689",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=237"
         },
         {
             "itemid": "uid06",
-            "name": "湖北影視",
+            "name": "河北農民",
             "num": "0690",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=238"
         },
         {
             "itemid": "uid06",
-            "name": "湖北教育",
+            "name": "湖北綜合",
             "num": "0691",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=239"
         },
         {
             "itemid": "uid06",
-            "name": "湖北生活",
+            "name": "湖北影視",
             "num": "0692",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=240"
         },
         {
             "itemid": "uid06",
-            "name": "湖北公共新聞",
+            "name": "湖北教育",
             "num": "0693",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=241"
         },
         {
             "itemid": "uid06",
-            "name": "湖北經視",
+            "name": "湖北生活",
             "num": "0694",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=242"
         },
         {
             "itemid": "uid06",
-            "name": "武漢-1 新聞",
+            "name": "湖北公共新聞",
             "num": "0695",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=243"
         },
         {
             "itemid": "uid06",
-            "name": "武漢-2 電視劇",
+            "name": "湖北經視",
             "num": "0696",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=244"
         },
         {
             "itemid": "uid06",
-            "name": "武漢-3 科技生活",
+            "name": "武漢-1 新聞",
             "num": "0697",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=245"
         },
         {
             "itemid": "uid06",
-            "name": "武漢-4 經濟",
+            "name": "武漢-2 電視劇",
             "num": "0698",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=246"
         },
         {
             "itemid": "uid06",
-            "name": "武漢-5 文體",
+            "name": "武漢-3 科技生活",
             "num": "0699",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=247"
         },
         {
             "itemid": "uid06",
-            "name": "武漢-6 外語",
+            "name": "武漢-4 經濟",
             "num": "0700",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=248"
         },
         {
             "itemid": "uid06",
-            "name": "武漢-7 少兒",
+            "name": "武漢-5 文體",
             "num": "0701",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=249"
         },
         {
             "itemid": "uid06",
-            "name": "蘇州-1 新聞綜合",
+            "name": "武漢-6 外語",
             "num": "0702",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=250"
         },
         {
             "itemid": "uid06",
-            "name": "蘇州-2 社會經濟",
+            "name": "武漢-7 少兒",
             "num": "0703",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=251"
         },
         {
             "itemid": "uid06",
-            "name": "蘇州-3 文化生活",
+            "name": "蘇州-1 新聞綜合",
             "num": "0704",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=252"
         },
         {
             "itemid": "uid06",
-            "name": "蘇州-5 生活資訊",
+            "name": "蘇州-2 社會經濟",
             "num": "0705",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=253"
         },
         {
             "itemid": "uid06",
-            "name": "蘇州太倉新聞",
+            "name": "蘇州-3 文化生活",
             "num": "0706",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=254"
         },
         {
             "itemid": "uid06",
-            "name": "蘇州太倉婁東民生",
+            "name": "蘇州-5 生活資訊",
             "num": "0707",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=255"
         },
         {
             "itemid": "uid06",
-            "name": "蘇州太倉黨建",
+            "name": "蘇州太倉新聞",
             "num": "0708",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=256"
         },
         {
             "itemid": "uid06",
-            "name": "蘇州昆山新聞綜合",
+            "name": "蘇州太倉婁東民生",
             "num": "0709",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=257"
         },
         {
             "itemid": "uid06",
-            "name": "蘇州昆山社會生活",
+            "name": "蘇州太倉黨建",
             "num": "0710",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=258"
         },
         {
             "itemid": "uid06",
-            "name": "徐州-1",
+            "name": "蘇州昆山新聞綜合",
             "num": "0711",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=259"
         },
         {
             "itemid": "uid06",
-            "name": "徐州-2",
+            "name": "蘇州昆山社會生活",
             "num": "0712",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=260"
         },
         {
             "itemid": "uid06",
-            "name": "徐州-3",
+            "name": "徐州-1",
             "num": "0713",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=261"
         },
         {
             "itemid": "uid06",
-            "name": "徐州-4",
+            "name": "徐州-2",
             "num": "0714",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=262"
         },
         {
             "itemid": "uid06",
-            "name": "徐州邳州綜合",
+            "name": "徐州-3",
             "num": "0715",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=263"
         },
         {
             "itemid": "uid06",
-            "name": "徐州邳州綜藝",
+            "name": "徐州-4",
             "num": "0716",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=264"
         },
         {
             "itemid": "uid06",
-            "name": "徐州新沂新聞綜合",
+            "name": "徐州邳州綜合",
             "num": "0717",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=265"
         },
         {
             "itemid": "uid06",
-            "name": "徐州新沂生活頻道",
+            "name": "徐州邳州綜藝",
             "num": "0718",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=266"
         },
         {
             "itemid": "uid06",
-            "name": "海南綜合",
+            "name": "徐州新沂新聞綜合",
             "num": "0719",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=267"
         },
         {
             "itemid": "uid06",
-            "name": "海南公共",
+            "name": "徐州新沂生活頻道",
             "num": "0720",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=268"
         },
         {
             "itemid": "uid06",
-            "name": "海南影視劇",
+            "name": "海南綜合",
             "num": "0721",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=269"
         },
         {
             "itemid": "uid06",
-            "name": "海南新聞",
+            "name": "海南公共",
             "num": "0722",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=270"
         },
         {
             "itemid": "uid06",
-            "name": "海南三亞",
+            "name": "海南影視劇",
             "num": "0723",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=271"
         },
         {
             "itemid": "uid06",
-            "name": "陜西新聞",
+            "name": "海南新聞",
             "num": "0724",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=272"
         },
         {
             "itemid": "uid06",
-            "name": "陜西都市",
+            "name": "海南三亞",
             "num": "0725",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=273"
         },
         {
             "itemid": "uid06",
-            "name": "陜西生活",
+            "name": "陜西新聞",
             "num": "0726",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=274"
         },
         {
             "itemid": "uid06",
-            "name": "陜西公共",
+            "name": "陜西都市",
             "num": "0727",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=275"
         },
         {
             "itemid": "uid06",
-            "name": "西安新聞",
+            "name": "陜西生活",
             "num": "0728",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=276"
         },
         {
             "itemid": "uid06",
-            "name": "西安白鴿",
+            "name": "陜西公共",
             "num": "0729",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=277"
         },
         {
             "itemid": "uid06",
-            "name": "西安資訊",
+            "name": "西安新聞",
             "num": "0730",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=278"
         },
         {
             "itemid": "uid06",
-            "name": "西安影視",
+            "name": "西安白鴿",
             "num": "0731",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=279"
         },
         {
             "itemid": "uid06",
-            "name": "西安健康",
+            "name": "西安資訊",
             "num": "0732",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=280"
         },
         {
             "itemid": "uid06",
-            "name": "榆林綜合",
+            "name": "西安影視",
             "num": "0733",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=281"
         },
         {
             "itemid": "uid06",
-            "name": "淮安綜合",
+            "name": "西安健康",
             "num": "0734",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=282"
         },
         {
             "itemid": "uid06",
-            "name": "淮安公共",
+            "name": "榆林綜合",
             "num": "0735",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=283"
         },
         {
             "itemid": "uid06",
-            "name": "淮安影視",
+            "name": "淮安綜合",
             "num": "0736",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=284"
         },
         {
             "itemid": "uid06",
-            "name": "沈陽新聞",
+            "name": "淮安公共",
             "num": "0737",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=285"
         },
         {
             "itemid": "uid06",
-            "name": "沈陽經濟",
+            "name": "淮安影視",
             "num": "0738",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=286"
         },
         {
             "itemid": "uid06",
-            "name": "沈陽公共",
+            "name": "沈陽新聞",
             "num": "0739",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=287"
         },
         {
             "itemid": "uid06",
-            "name": "大連瓦房店新聞綜合",
+            "name": "沈陽經濟",
             "num": "0740",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=288"
         },
         {
             "itemid": "uid06",
-            "name": "大連瓦房店經濟生活",
+            "name": "沈陽公共",
             "num": "0741",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=289"
         },
         {
             "itemid": "uid06",
-            "name": "蘭州綜合",
+            "name": "大連瓦房店新聞綜合",
             "num": "0742",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=290"
         },
         {
             "itemid": "uid06",
-            "name": "蘭州生活",
+            "name": "大連瓦房店經濟生活",
             "num": "0743",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=291"
         },
         {
             "itemid": "uid06",
-            "name": "蘭州綜藝",
+            "name": "蘭州綜合",
             "num": "0744",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=292"
         },
         {
             "itemid": "uid06",
-            "name": "蘭州公共",
+            "name": "蘭州生活",
             "num": "0745",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=293"
         },
         {
             "itemid": "uid06",
-            "name": "新疆維語綜合",
+            "name": "蘭州綜藝",
             "num": "0746",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=294"
         },
         {
             "itemid": "uid06",
-            "name": "哈薩克語綜合",
+            "name": "蘭州公共",
             "num": "0747",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=295"
         },
         {
             "itemid": "uid06",
-            "name": "新疆漢語綜藝",
+            "name": "新疆維語綜合",
             "num": "0748",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=296"
         },
         {
             "itemid": "uid06",
-            "name": "新疆維語綜藝",
+            "name": "哈薩克語綜合",
             "num": "0749",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=297"
         },
         {
             "itemid": "uid06",
-            "name": "新疆漢語生活",
+            "name": "新疆漢語綜藝",
             "num": "0750",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=298"
         },
         {
             "itemid": "uid06",
-            "name": "新疆哈語綜藝",
+            "name": "新疆維語綜藝",
             "num": "0751",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=299"
         },
         {
             "itemid": "uid06",
-            "name": "新疆維語生活",
+            "name": "新疆漢語生活",
             "num": "0752",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=300"
         },
         {
             "itemid": "uid06",
-            "name": "新疆體育健康",
+            "name": "新疆哈語綜藝",
             "num": "0753",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=301"
         },
         {
             "itemid": "uid06",
-            "name": "新疆法制信息",
+            "name": "新疆維語生活",
             "num": "0754",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=302"
         },
         {
             "itemid": "uid06",
-            "name": "新疆少兒",
+            "name": "新疆體育健康",
             "num": "0755",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=303"
         },
         {
             "itemid": "uid06",
-            "name": "e娛樂",
+            "name": "新疆法制信息",
             "num": "0756",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=304"
         },
         {
             "itemid": "uid06",
-            "name": "in樂臺",
+            "name": "新疆少兒",
             "num": "0757",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=305"
         },
         {
             "itemid": "uid06",
-            "name": "i綜藝",
+            "name": "e娛樂",
             "num": "0758",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=306"
         },
         {
             "itemid": "uid06",
-            "name": "炫韓娛",
+            "name": "in樂台",
             "num": "0759",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=307"
         },
         {
             "itemid": "uid06",
-            "name": "潮體育",
+            "name": "i綜藝",
             "num": "0760",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=308"
         },
         {
             "itemid": "uid06",
-            "name": "快新聞",
+            "name": "炫韓娛",
             "num": "0761",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=309"
         },
         {
             "itemid": "uid06",
-            "name": "車視界",
+            "name": "潮體育",
             "num": "0762",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=310"
         },
         {
             "itemid": "uid06",
-            "name": "新影視",
+            "name": "快新聞",
             "num": "0763",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=311"
         },
         {
             "itemid": "uid06",
-            "name": "侃侃總動員",
+            "name": "車視界",
             "num": "0764",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=312"
         },
         {
             "itemid": "uid06",
-            "name": "小笨熊教育",
+            "name": "新影視",
             "num": "0765",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=313"
         },
         {
             "itemid": "uid06",
-            "name": "中國汽車衛視",
+            "name": "侃侃總動員",
             "num": "0766",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=314"
         },
         {
             "itemid": "uid06",
-            "name": "衛視卡式臺",
+            "name": "小笨熊教育",
             "num": "0767",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=315"
         },
         {
             "itemid": "uid06",
-            "name": "NewTV 搏擊",
+            "name": "中國汽車衛視",
             "num": "0768",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=316"
         },
         {
             "itemid": "uid06",
-            "name": "NewTV 中國功夫",
+            "name": "衛視卡式台",
             "num": "0769",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=317"
         },
         {
             "itemid": "uid06",
-            "name": "NewTV 軍事評論",
+            "name": "NewTV 搏擊",
             "num": "0770",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=318"
         },
         {
             "itemid": "uid06",
-            "name": "NewTV 精品記錄",
+            "name": "NewTV 中國功夫",
             "num": "0771",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=319"
         },
         {
             "itemid": "uid06",
-            "name": "NewTV 精品電影",
+            "name": "NewTV 軍事評論",
             "num": "0772",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=320"
         },
         {
             "itemid": "uid06",
-            "name": "NewTV 精品大劇",
+            "name": "NewTV 精品記錄",
             "num": "0773",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=321"
         },
         {
             "itemid": "uid06",
-            "name": "NewTV 精品體育",
+            "name": "NewTV 精品電影",
             "num": "0774",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=322"
         },
         {
             "itemid": "uid06",
-            "name": "NewTV 金牌綜藝",
+            "name": "NewTV 精品大劇",
             "num": "0775",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=323"
         },
         {
             "itemid": "uid06",
-            "name": "NewTV 愛情喜劇",
+            "name": "NewTV 精品體育",
             "num": "0776",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=324"
         },
         {
             "itemid": "uid06",
-            "name": "NewTV 古裝劇場",
+            "name": "NewTV 金牌綜藝",
             "num": "0777",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=325"
         },
         {
             "itemid": "uid06",
-            "name": "NewTV 軍旅劇場",
+            "name": "NewTV 愛情喜劇",
             "num": "0778",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=326"
         },
         {
             "itemid": "uid06",
-            "name": "NewTV 海外劇場",
+            "name": "NewTV 古裝劇場",
             "num": "0779",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=327"
         },
         {
             "itemid": "uid06",
-            "name": "NewTV 家庭劇場",
+            "name": "NewTV 軍旅劇場",
             "num": "0780",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=328"
         },
         {
             "itemid": "uid06",
-            "name": "NewTV 動作電影",
+            "name": "NewTV 海外劇場",
             "num": "0781",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=329"
         },
         {
             "itemid": "uid06",
-            "name": "NewTV 驚悚懸疑",
+            "name": "NewTV 家庭劇場",
             "num": "0782",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=330"
         },
         {
             "itemid": "uid06",
-            "name": "NewTV 明星大片",
+            "name": "NewTV 動作電影",
             "num": "0783",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=331"
         },
         {
             "itemid": "uid06",
-            "name": "NewTV 樂活新生",
+            "name": "NewTV 驚悚懸疑",
             "num": "0784",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=332"
         },
         {
             "itemid": "uid06",
-            "name": "NewTV 嘻笑漫年",
+            "name": "NewTV 明星大片",
             "num": "0785",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=333"
         },
         {
             "itemid": "uid06",
-            "name": "NewTV 農業致富",
+            "name": "NewTV 樂活新生",
             "num": "0786",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=334"
         },
         {
             "itemid": "uid06",
-            "name": "NewTV 健康有約",
+            "name": "NewTV 嘻笑漫年",
             "num": "0787",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=335"
         },
         {
             "itemid": "uid06",
-            "name": "NewTV 完美遊戲",
+            "name": "NewTV 農業致富",
             "num": "0788",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=336"
         },
         {
+            "itemid": "uid06",
+            "name": "NewTV 健康有約",
+            "num": "0789",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=337"
+        },
+        {
+            "itemid": "uid06",
+            "name": "NewTV 完美遊戲",
+            "num": "0790",
+            "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=tv&id=338"
+        },
+        {
             "itemid": "uid07",
             "name": "TVB翡翠臺",
-            "num": "0789",
+            "num": "0791",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=1&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=1&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=1&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=1&p=4#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=1&p=5"
         },
         {
             "itemid": "uid07",
             "name": "鳳凰衛視中文",
-            "num": "0790",
+            "num": "0792",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=2&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=2&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=2&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=2&p=4#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=2&p=5#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=2&p=6#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=2&p=7"
         },
         {
             "itemid": "uid07",
             "name": "鳳凰衛視資訊",
-            "num": "0791",
+            "num": "0793",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=3&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=3&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=3&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=3&p=4#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=3&p=5"
         },
         {
             "itemid": "uid07",
             "name": "鳳凰衛視香港",
-            "num": "0792",
+            "num": "0794",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=4#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=4&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=4&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=4&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=4&p=4"
         },
         {
             "itemid": "uid07",
             "name": "香港衛視HKS",
-            "num": "0793",
+            "num": "0795",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=6"
         },
         {
             "itemid": "uid07",
             "name": "奇妙電視",
-            "num": "0794",
+            "num": "0796",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=7"
         },
         {
             "itemid": "uid07",
             "name": "ViuTV",
-            "num": "0795",
+            "num": "0797",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=8"
         },
         {
             "itemid": "uid07",
             "name": "TVB無線新聞臺",
-            "num": "0796",
+            "num": "0798",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=9#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=9&p=1"
         },
         {
             "itemid": "uid07",
             "name": "TVB無線財經資訊臺",
-            "num": "0797",
+            "num": "0799",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=10#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=10&p=1"
         },
         {
             "itemid": "uid07",
             "name": "TVB娛樂新聞臺",
-            "num": "0798",
+            "num": "0800",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=11#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=11&p=1"
         },
         {
             "itemid": "uid07",
             "name": "TVB J2臺",
-            "num": "0799",
+            "num": "0801",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=12#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=12&p=1"
         },
         {
             "itemid": "uid07",
             "name": "TVB明珠臺",
-            "num": "0800",
+            "num": "0802",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=13#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=13&p=1"
         },
         {
             "itemid": "uid07",
             "name": "TVB星河臺",
-            "num": "0801",
+            "num": "0803",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=14"
         },
         {
             "itemid": "uid07",
             "name": "TVB8",
-            "num": "0802",
+            "num": "0804",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=17#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=17&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=17&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=17&p=3"
         },
         {
             "itemid": "uid07",
             "name": "耀才財經",
-            "num": "0803",
+            "num": "0805",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=19#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=19&p=1"
         },
         {
             "itemid": "uid07",
             "name": "港臺電視31",
-            "num": "0804",
+            "num": "0806",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=20#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=20&p=1"
         },
         {
             "itemid": "uid07",
             "name": "蓮花衛視",
-            "num": "0805",
+            "num": "0807",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=22"
         },
         {
             "itemid": "uid07",
             "name": "澳門衛視",
-            "num": "0806",
+            "num": "0808",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=23#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=23&p=1"
         },
         {
             "itemid": "uid07",
             "name": "澳亞衛視",
-            "num": "0807",
+            "num": "0809",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=24#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=24&p=1"
         },
         {
             "itemid": "uid08",
             "name": "新-8頻道",
-            "num": "0808",
+            "num": "0810",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=129"
         },
         {
             "itemid": "uid08",
             "name": "新-U頻道",
-            "num": "0809",
+            "num": "0811",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=130"
         },
         {
             "itemid": "uid08",
             "name": "新加坡OKTO",
-            "num": "0810",
+            "num": "0812",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=131#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=131&p=1"
         },
         {
             "itemid": "uid08",
             "name": "新加坡5",
-            "num": "0811",
+            "num": "0813",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=132#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=132&p=1"
         },
         {
             "itemid": "uid08",
             "name": "CNN",
-            "num": "0812",
+            "num": "0814",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=133"
         },
         {
             "itemid": "uid08",
             "name": "美國中文臺",
-            "num": "0813",
+            "num": "0815",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=134"
         },
         {
             "itemid": "uid08",
             "name": "英國-SkyNews",
-            "num": "0814",
+            "num": "0816",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=135#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=135&p=1"
         },
         {
             "itemid": "uid08",
             "name": "英國-SKY TG24",
-            "num": "0815",
+            "num": "0817",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=136"
         },
         {
             "itemid": "uid08",
             "name": "米國知音",
-            "num": "0816",
+            "num": "0818",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=137"
         },
         {
             "itemid": "uid08",
             "name": "CBN",
-            "num": "0817",
+            "num": "0819",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=138"
         },
         {
             "itemid": "uid08",
             "name": "US-ABC澳洲",
-            "num": "0818",
+            "num": "0820",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=139"
         },
         {
             "itemid": "uid08",
             "name": "US-CBN News",
-            "num": "0819",
+            "num": "0821",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=140"
         },
         {
             "itemid": "uid08",
             "name": "US-CSPAN1",
-            "num": "0820",
+            "num": "0822",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=141"
         },
         {
             "itemid": "uid08",
             "name": "US-CSPAN2",
-            "num": "0821",
+            "num": "0823",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=142"
         },
         {
             "itemid": "uid08",
             "name": "US-CSPAN3",
-            "num": "0822",
+            "num": "0824",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=143"
         },
         {
             "itemid": "uid08",
             "name": "US-Newsmax TV",
-            "num": "0823",
+            "num": "0825",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=144"
         },
         {
             "itemid": "uid08",
             "name": "CA-CPAC",
-            "num": "0824",
+            "num": "0826",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=145"
         },
         {
             "itemid": "uid08",
             "name": "UK-BBC WORLD NEWS",
-            "num": "0825",
+            "num": "0827",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=146"
         },
         {
             "itemid": "uid08",
             "name": "UK-London Live",
-            "num": "0826",
+            "num": "0828",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=147"
         },
         {
             "itemid": "uid08",
             "name": "DE-DW 亞洲",
-            "num": "0827",
+            "num": "0829",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=148"
         },
         {
             "itemid": "uid08",
             "name": "DE-DW(English)",
-            "num": "0828",
+            "num": "0830",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=149"
         },
         {
             "itemid": "uid08",
             "name": "FR-France24",
-            "num": "0829",
+            "num": "0831",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=150"
         },
         {
             "itemid": "uid08",
             "name": "愛爾蘭-RTE News Now",
-            "num": "0830",
+            "num": "0832",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=151"
         },
         {
             "itemid": "uid08",
             "name": "印度-NDTV(English)",
-            "num": "0831",
+            "num": "0833",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=152"
         },
         {
             "itemid": "uid08",
             "name": "印度ibn",
-            "num": "0832",
+            "num": "0834",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=153"
         },
         {
             "itemid": "uid08",
             "name": "印度APB",
-            "num": "0833",
+            "num": "0835",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=154"
         },
         {
             "itemid": "uid08",
             "name": "印度 india TV",
-            "num": "0834",
+            "num": "0836",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=155"
         },
         {
             "itemid": "uid08",
             "name": "韓國-KBS2",
-            "num": "0835",
+            "num": "0837",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=156"
         },
         {
             "itemid": "uid08",
             "name": "韓國-MBC",
-            "num": "0836",
+            "num": "0838",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=157"
         },
         {
             "itemid": "uid08",
             "name": "韓國-GoodTV",
-            "num": "0837",
+            "num": "0839",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=158"
         },
         {
             "itemid": "uid08",
             "name": "韓國-CBS",
-            "num": "0838",
+            "num": "0840",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=159"
         },
         {
             "itemid": "uid08",
             "name": "韓國-Channel",
-            "num": "0839",
+            "num": "0841",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=160"
         },
         {
             "itemid": "uid08",
             "name": "韓國-CJ購物臺",
-            "num": "0840",
+            "num": "0842",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=161"
         },
         {
             "itemid": "uid08",
             "name": "韓國-GS Shop購物",
-            "num": "0841",
+            "num": "0843",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=162"
         },
         {
             "itemid": "uid08",
             "name": "韓國-Happy Dog",
-            "num": "0842",
+            "num": "0844",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=163"
         },
         {
             "itemid": "uid08",
             "name": "韓國-indoor Sports",
-            "num": "0843",
+            "num": "0845",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=164"
         },
         {
             "itemid": "uid08",
             "name": "韓國-K Sports TV",
-            "num": "0844",
+            "num": "0846",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=165"
         },
         {
             "itemid": "uid08",
             "name": "韓國-K??",
-            "num": "0845",
+            "num": "0847",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=166"
         },
         {
             "itemid": "uid08",
             "name": "韓國-KBNTV",
-            "num": "0846",
+            "num": "0848",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=167"
         },
         {
             "itemid": "uid08",
             "name": "韓國-KTV",
-            "num": "0847",
+            "num": "0849",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=168"
         },
         {
             "itemid": "uid08",
             "name": "韓國-Living TV",
-            "num": "0848",
+            "num": "0850",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=169"
         },
         {
             "itemid": "uid08",
             "name": "韓國-MBN",
-            "num": "0849",
+            "num": "0851",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=170"
         },
         {
             "itemid": "uid08",
             "name": "韓國-MOUNTAIN TV",
-            "num": "0850",
+            "num": "0852",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=171"
         },
         {
             "itemid": "uid08",
             "name": "韓國-National Geographic",
-            "num": "0851",
+            "num": "0853",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=172"
         },
         {
             "itemid": "uid08",
             "name": "韓國-NBN TV",
-            "num": "0852",
+            "num": "0854",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=173"
         },
         {
             "itemid": "uid08",
             "name": "韓國-NEWS 24",
-            "num": "0853",
+            "num": "0855",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=174"
         },
         {
             "itemid": "uid08",
             "name": "韓國-OBS",
-            "num": "0854",
+            "num": "0856",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=175"
         },
         {
             "itemid": "uid08",
             "name": "韓國-OUTDOOR TRAVEL",
-            "num": "0855",
+            "num": "0857",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=176"
         },
         {
             "itemid": "uid08",
             "name": "韓國-POLARIS TV",
-            "num": "0856",
+            "num": "0858",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=177"
         },
         {
             "itemid": "uid08",
             "name": "韓國-QBS",
-            "num": "0857",
+            "num": "0859",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=178"
         },
         {
             "itemid": "uid08",
             "name": "韓國-RBS",
-            "num": "0858",
+            "num": "0860",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=179"
         },
         {
             "itemid": "uid08",
             "name": "韓國-Runway TV",
-            "num": "0859",
+            "num": "0861",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=180"
         },
         {
             "itemid": "uid08",
             "name": "韓國-TBS",
-            "num": "0860",
+            "num": "0862",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=181"
         },
         {
             "itemid": "uid08",
             "name": "韓國-TOMATO",
-            "num": "0861",
+            "num": "0863",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=182"
         },
         {
             "itemid": "uid08",
             "name": "韓國-TV",
-            "num": "0862",
+            "num": "0864",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=183"
         },
         {
             "itemid": "uid08",
             "name": "韓國-TV SEN",
-            "num": "0863",
+            "num": "0865",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=184"
         },
         {
             "itemid": "uid08",
             "name": "韓國-TV SEN PLUS",
-            "num": "0864",
+            "num": "0866",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=185"
         },
         {
             "itemid": "uid08",
             "name": "韓國-購物TV",
-            "num": "0865",
+            "num": "0867",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=186"
         },
         {
             "itemid": "uid08",
             "name": "韓國-購物臺",
-            "num": "0866",
+            "num": "0868",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=187"
         },
         {
             "itemid": "uid08",
             "name": "日本BS",
-            "num": "0867",
+            "num": "0869",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=188"
         },
         {
             "itemid": "uid08",
             "name": "JP-NHK World",
-            "num": "0868",
+            "num": "0870",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=189"
         },
         {
             "itemid": "uid08",
             "name": "哥倫比亞CBS新聞臺",
-            "num": "0869",
+            "num": "0871",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=190"
         },
         {
             "itemid": "uid08",
             "name": "巴基斯坦Capital",
-            "num": "0870",
+            "num": "0872",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=191"
         },
         {
             "itemid": "uid08",
             "name": "捷克諾亞電視臺",
-            "num": "0871",
+            "num": "0873",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=gt&id=192"
         },
         {
             "itemid": "uid09",
             "name": "CCTV1高清",
-            "num": "0872",
+            "num": "0874",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=1&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=1&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=1&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=1&p=4#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=1&p=5#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=1&p=6#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=1&p=7#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=1&p=8#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=1&p=9"
         },
         {
             "itemid": "uid09",
             "name": "CCTV2高清",
-            "num": "0873",
+            "num": "0875",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=2&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=2&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=2&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=2&p=4"
         },
         {
             "itemid": "uid09",
             "name": "CCTV3高清",
-            "num": "0874",
+            "num": "0876",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=3&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=3&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=3&p=3"
         },
         {
             "itemid": "uid09",
             "name": "CCTV4高清",
-            "num": "0875",
+            "num": "0877",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=4#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=4&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=4&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=4&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=4&p=4"
         },
         {
             "itemid": "uid09",
             "name": "CCTV5高清",
-            "num": "0876",
+            "num": "0878",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=5#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=5&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=5&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=5&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=5&p=4#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=5&p=5#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=5&p=6#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=5&p=7#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=5&p=8#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=5&p=9#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=5&p=10#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=5&p=11#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=5&p=12#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=5&p=13#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=5&p=14#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=5&p=15#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=5&p=16#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=5&p=17"
         },
         {
             "itemid": "uid09",
             "name": "CCTV5+高清",
-            "num": "0877",
+            "num": "0879",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=6#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=6&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=6&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=6&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=6&p=4"
         },
         {
             "itemid": "uid09",
             "name": "CCTV6高清",
-            "num": "0878",
+            "num": "0880",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=7#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=7&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=7&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=7&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=7&p=4"
         },
         {
             "itemid": "uid09",
             "name": "CCTV7高清",
-            "num": "0879",
+            "num": "0881",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=8#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=8&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=8&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=8&p=3"
         },
         {
             "itemid": "uid09",
             "name": "CCTV8高清",
-            "num": "0880",
+            "num": "0882",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=9#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=9&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=9&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=9&p=3"
         },
         {
             "itemid": "uid09",
             "name": "CCTV9高清",
-            "num": "0881",
+            "num": "0883",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=10#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=10&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=10&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=10&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=10&p=4#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=10&p=5"
         },
         {
             "itemid": "uid09",
             "name": "CCTV10高清",
-            "num": "0882",
+            "num": "0884",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=11#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=11&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=11&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=11&p=3"
         },
         {
             "itemid": "uid09",
             "name": "CCTV12高清",
-            "num": "0883",
+            "num": "0885",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=12#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=12&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=12&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=12&p=3"
         },
         {
             "itemid": "uid09",
             "name": "CCTV14高清",
-            "num": "0884",
+            "num": "0886",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=13#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=13&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=13&p=2"
         },
         {
             "itemid": "uid09",
             "name": "CCTV-1綜合",
-            "num": "0885",
+            "num": "0887",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=14"
         },
         {
             "itemid": "uid09",
             "name": "CCTV-2財經",
-            "num": "0886",
+            "num": "0888",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=15"
         },
         {
             "itemid": "uid09",
             "name": "CCTV-3綜藝",
-            "num": "0887",
+            "num": "0889",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=16#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=16&p=1"
         },
         {
             "itemid": "uid09",
             "name": "CCTV-4中文國際",
-            "num": "0888",
+            "num": "0890",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=17"
         },
         {
             "itemid": "uid09",
             "name": "CCTV-5體育",
-            "num": "0889",
+            "num": "0891",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=18#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=18&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=18&p=2"
         },
         {
             "itemid": "uid09",
             "name": "CCTV-6電影",
-            "num": "0890",
+            "num": "0892",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=19"
         },
         {
             "itemid": "uid09",
             "name": "CCTV-7軍事農業",
-            "num": "0891",
+            "num": "0893",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=20"
         },
         {
             "itemid": "uid09",
             "name": "CCTV-8電視劇",
-            "num": "0892",
+            "num": "0894",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=21"
         },
         {
             "itemid": "uid09",
             "name": "CCTV-9紀錄",
-            "num": "0893",
+            "num": "0895",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=22"
         },
         {
             "itemid": "uid09",
             "name": "CCTV-10科教",
-            "num": "0894",
+            "num": "0896",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=23"
         },
         {
             "itemid": "uid09",
             "name": "CCTV-11戲曲",
-            "num": "0895",
+            "num": "0897",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=24"
         },
         {
             "itemid": "uid09",
             "name": "CCTV-12社會與法",
-            "num": "0896",
+            "num": "0898",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=25"
         },
         {
             "itemid": "uid09",
             "name": "CCTV-13新聞",
-            "num": "0897",
+            "num": "0899",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=26#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=26&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=26&p=2#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=26&p=3#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=26&p=4#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=26&p=5"
         },
         {
             "itemid": "uid09",
             "name": "CCTV-14少兒",
-            "num": "0898",
+            "num": "0900",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=27"
         },
         {
             "itemid": "uid09",
             "name": "CCTV-15音樂",
-            "num": "0899",
+            "num": "0901",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=28"
         },
         {
             "itemid": "uid09",
             "name": "CCTV-NEWS",
-            "num": "0900",
+            "num": "0902",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=29"
         },
         {
             "itemid": "uid09",
             "name": "CCTV高爾夫網球",
-            "num": "0901",
+            "num": "0903",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=30#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=30&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=30&p=2"
         },
         {
             "itemid": "uid09",
             "name": "CCTV風雲音樂",
-            "num": "0902",
+            "num": "0904",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=31#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=31&p=1"
         },
         {
             "itemid": "uid09",
             "name": "CCTV電視指南",
-            "num": "0903",
+            "num": "0905",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=32#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=32&p=1"
         },
         {
             "itemid": "uid09",
             "name": "CCTV世界地理",
-            "num": "0904",
+            "num": "0906",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=33#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=33&p=1"
         },
         {
             "itemid": "uid09",
             "name": "CCTV風雲足球",
-            "num": "0905",
+            "num": "0907",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=34#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=34&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=34&p=2"
         },
         {
             "itemid": "uid09",
             "name": "CCTV懷舊劇場",
-            "num": "0906",
+            "num": "0908",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=35#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=35&p=1"
         },
         {
             "itemid": "uid09",
             "name": "CCTV風雲劇場",
-            "num": "0907",
+            "num": "0909",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=36#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=36&p=1"
         },
         {
             "itemid": "uid09",
             "name": "CCTV第一劇場",
-            "num": "0908",
+            "num": "0910",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=37#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=37&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=37&p=2"
         },
         {
             "itemid": "uid09",
             "name": "CCTV發現之旅",
-            "num": "0909",
+            "num": "0911",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=38"
         },
         {
             "itemid": "uid09",
             "name": "CCTV老故事",
-            "num": "0910",
+            "num": "0912",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=39"
         },
         {
             "itemid": "uid09",
             "name": "CGTN紀錄",
-            "num": "0911",
+            "num": "0913",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=40#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=40&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=40&p=2"
         },
         {
             "itemid": "uid09",
             "name": "CETV-1",
-            "num": "0912",
+            "num": "0914",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=41#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=41&p=1#http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=41&p=2"
         },
         {
             "itemid": "uid09",
             "name": "CETV-2",
-            "num": "0913",
+            "num": "0915",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=42"
         },
         {
             "itemid": "uid09",
             "name": "CETV-3",
-            "num": "0914",
+            "num": "0916",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=43"
         },
         {
             "itemid": "uid09",
             "name": "CETV-4",
-            "num": "0915",
+            "num": "0917",
             "urllist": "http://cdn3.iptv888.com:888/play.m3u8?token=5fd702ac9760723acd04ca1b3f001d9a&tid=ys&id=44"
         }
     ],
