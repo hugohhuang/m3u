@@ -3,7 +3,7 @@
 by：iPhoneX、枫
 
 */
-version=1.3
+version=1.4
 
 
 var baseUrl = "https://raw.githubusercontent.com/hugohhuang/m3u/master/mytv.json"
@@ -190,7 +190,7 @@ function channelDetail(id, name) {
     var urllist = a.urllist.split("#")
     if (a.itemid == id) {
       lines.push({
-        name: a.name,
+        name: i+"."+a.name,
         playurl: urllist[0]
       })
     }
