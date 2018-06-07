@@ -3,7 +3,7 @@
 by：iPhoneX、枫
 
 */
-version=1.4
+version=1.4.1
 
 
 var baseUrl = "https://raw.githubusercontent.com/hugohhuang/m3u/master/mytv.json"
@@ -185,12 +185,14 @@ function channelDetail(id, name) {
   var lines = []
   var options = tv.live
   $console.info(name)
+  var j=0
   for (i in options) {
     var a = options[i]
     var urllist = a.urllist.split("#")
     if (a.itemid == id) {
+      j++
       lines.push({
-        name: i+"."+a.name,
+        name: j+"."+a.name,
         playurl: urllist[0]
       })
     }
