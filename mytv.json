@@ -5821,717 +5821,723 @@
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227412/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "CCTV3综艺",
             "num": "0971",
+            "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225588/1.m3u8"
+        },
+        {
+            "itemid": "uid10",
+            "name": "CCTV3综艺",
+            "num": "0972",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227206/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "CCTV3综艺",
-            "num": "0972",
+            "num": "0973",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227415/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "CCTV4中文国际",
-            "num": "0973",
+            "num": "0974",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225534/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "CCTV5体育",
-            "num": "0974",
+            "num": "0975",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221226324/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "CCTV5体育",
-            "num": "0975",
+            "num": "0976",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227166/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "CCTV5体育",
-            "num": "0976",
+            "num": "0977",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227468/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "CCTV5+体育赛事",
-            "num": "0977",
+            "num": "0978",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227465/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "CCTV5+体育赛事",
-            "num": "0978",
+            "num": "0979",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225604/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "CCTV5+体育赛事",
-            "num": "0979",
+            "num": "0980",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221226322/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "CCTV6电影",
-            "num": "0980",
+            "num": "0981",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225548/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "CCTV6电影",
-            "num": "0981",
+            "num": "0982",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227209/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "CCTV7军事农业",
-            "num": "0982",
+            "num": "0983",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225546/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "CCTV7军事农业",
-            "num": "0983",
+            "num": "0984",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227392/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "CCTV8电视剧",
-            "num": "0984",
+            "num": "0985",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227204/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "CCTV8电视剧",
-            "num": "0985",
+            "num": "0986",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227205/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "CCTV8电视剧",
-            "num": "0986",
+            "num": "0987",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227418/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "CCTV9纪录",
-            "num": "0987",
+            "num": "0988",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225532/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "CCTV9纪录",
-            "num": "0988",
+            "num": "0989",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227471/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "CCTV10科教",
-            "num": "0989",
+            "num": "0990",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225550/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "CCTV10科教",
-            "num": "0990",
+            "num": "0991",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227403/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "CCTV11戏曲(普清720)",
-            "num": "0991",
+            "num": "0992",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225552/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "CCTV12社会与法",
-            "num": "0992",
+            "num": "0993",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225556/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "CCTV12社会与法",
-            "num": "0993",
+            "num": "0994",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227406/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "CCTV13新闻(普清720)",
-            "num": "0994",
+            "num": "0995",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225560/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "CCTV14少儿",
-            "num": "0995",
+            "num": "0996",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227201/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "CCTV14少儿",
-            "num": "0996",
+            "num": "0997",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227409/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "CCTV15音乐(普清720)",
-            "num": "0997",
+            "num": "0998",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225568/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "CETV-1(普清720)",
-            "num": "0998",
+            "num": "0999",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225622/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "SDETV(普清720)",
-            "num": "0999",
+            "num": "1000",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225614/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "CNC英文",
-            "num": "1000",
+            "num": "1001",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227441/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "CNC中文",
-            "num": "1001",
+            "num": "1002",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227444/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "CGTN中国国际(普清720)",
-            "num": "1002",
+            "num": "1003",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225572/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "新疆卫视(普清720)",
-            "num": "1003",
+            "num": "1004",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225523/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "江西卫视",
-            "num": "1004",
+            "num": "1005",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225536/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "贵州卫视(普清720)",
-            "num": "1005",
+            "num": "1006",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225540/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "浙江卫视",
-            "num": "1006",
+            "num": "1007",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225544/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "广西卫视(普清720)",
-            "num": "1007",
+            "num": "1008",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225554/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "东方卫视(普清720)",
-            "num": "1008",
+            "num": "1009",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225558/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "天津卫视(普清720)",
-            "num": "1009",
+            "num": "1010",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225562/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "辽宁卫视",
-            "num": "1010",
+            "num": "1011",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225566/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "四川卫视(普清720)",
-            "num": "1011",
+            "num": "1012",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225570/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "BTV北京卫视",
-            "num": "1012",
+            "num": "1013",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225574/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "山西卫视(普清720)",
-            "num": "1013",
+            "num": "1014",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225576/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "广东卫视(普清720)",
-            "num": "1014",
+            "num": "1015",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225578/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "西藏卫视(普清720)",
-            "num": "1015",
+            "num": "1016",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225579/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "青海卫视(普清720)",
-            "num": "1016",
+            "num": "1017",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225580/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "深圳卫视(普清720)",
-            "num": "1017",
+            "num": "1018",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225582/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "山东卫视(普清720)",
-            "num": "1018",
+            "num": "1019",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225586/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "甘肃卫视",
-            "num": "1019",
+            "num": "1020",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225590/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "云南卫视(普清720)",
-            "num": "1020",
+            "num": "1021",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225591/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "广东卫视(HD1080)",
-            "num": "1021",
+            "num": "1022",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225592/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "重庆卫视(普清720)",
-            "num": "1022",
+            "num": "1023",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225594/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "东南卫视(普清720)",
-            "num": "1023",
+            "num": "1024",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225598/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "河北卫视(普清720)",
-            "num": "1024",
+            "num": "1025",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225602/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "内蒙古卫视(普清720)",
-            "num": "1025",
+            "num": "1026",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225624/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "陕西卫视(普清720)",
-            "num": "1026",
+            "num": "1027",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225626/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "宁夏卫视(普清720)",
-            "num": "1027",
+            "num": "1028",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225628/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "湖北卫视(普清720)",
-            "num": "1028",
+            "num": "1029",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225630/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "河南卫视(普清720)",
-            "num": "1029",
+            "num": "1030",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225632/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "安徽卫视",
-            "num": "1030",
+            "num": "1031",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225634/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "江苏卫视",
-            "num": "1031",
+            "num": "1032",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227185/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "优漫卡通(普清720)",
-            "num": "1032",
+            "num": "1033",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227188/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "湖南卫视",
-            "num": "1033",
+            "num": "1034",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227191/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "东方卫视",
-            "num": "1034",
+            "num": "1035",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227208/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "湖北卫视",
-            "num": "1035",
+            "num": "1036",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227211/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "天津卫视",
-            "num": "1036",
+            "num": "1037",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227212/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "江西卫视",
-            "num": "1037",
+            "num": "1038",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227214/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "浙江卫视",
-            "num": "1038",
+            "num": "1039",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227215/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "深圳卫视",
-            "num": "1039",
+            "num": "1040",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227217/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "湖南卫视",
-            "num": "1040",
+            "num": "1041",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227220/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "BTV北京卫视",
-            "num": "1041",
+            "num": "1042",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227246/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "广东卫视",
-            "num": "1042",
+            "num": "1043",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227249/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "黑龙江卫视",
-            "num": "1043",
+            "num": "1044",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227252/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "江苏卫视",
-            "num": "1044",
+            "num": "1045",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227255/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "山东卫视",
-            "num": "1045",
+            "num": "1046",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227258/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "重庆卫视",
-            "num": "1046",
+            "num": "1047",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227421/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "安徽卫视",
-            "num": "1047",
+            "num": "1048",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227474/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "黑龙江卫视",
-            "num": "1048",
+            "num": "1049",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227477/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "上海纪实",
-            "num": "1049",
+            "num": "1050",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227395/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "BTV纪实",
-            "num": "1050",
+            "num": "1051",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227397/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "阳光卫视(普清720)",
-            "num": "1051",
+            "num": "1052",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221226915/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "NewTV爱情喜剧(普清720)",
-            "num": "1052",
+            "num": "1053",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225525/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "NewTV古装剧场(普清720)",
-            "num": "1053",
+            "num": "1054",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225527/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "NewTv动作电影",
-            "num": "1054",
+            "num": "1055",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225529/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "NewTv军旅剧场",
-            "num": "1055",
+            "num": "1056",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225531/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "NewTV军事评论",
-            "num": "1056",
+            "num": "1057",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225533/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "NewTv明星大片",
-            "num": "1057",
+            "num": "1058",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225535/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "NewTV农业致富(普清720)",
-            "num": "1058",
+            "num": "1059",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225537/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "NewTV完美游戏(普清720)",
-            "num": "1059",
+            "num": "1060",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225539/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "NewTV精品体育(HD1080)",
-            "num": "1060",
+            "num": "1061",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225543/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "NewTV健康有约(普清720)",
-            "num": "1061",
+            "num": "1062",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225545/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "NewTV海外剧场(普清720)",
-            "num": "1062",
+            "num": "1063",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225547/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "NewTV家庭剧场",
-            "num": "1063",
+            "num": "1064",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225549/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "NewTV动画王国",
-            "num": "1064",
+            "num": "1065",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225555/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "NewTV精品纪录",
-            "num": "1065",
+            "num": "1066",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225557/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "NewTV金牌综艺",
-            "num": "1066",
+            "num": "1067",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225559/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "NewTV精品悬疑",
-            "num": "1067",
+            "num": "1068",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225561/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "NewTV精品电影",
-            "num": "1068",
+            "num": "1069",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225567/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "NewTV精品大剧",
-            "num": "1069",
+            "num": "1070",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225569/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "NEWTV搏击(普清720)",
-            "num": "1070",
+            "num": "1071",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221226656/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "NEWTV中国功夫(普清720)",
-            "num": "1071",
+            "num": "1072",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221226935/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "NEWTV潮妈辣婆(普清720)",
-            "num": "1072",
+            "num": "1073",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221226983/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "BTV卡酷少儿",
-            "num": "1073",
+            "num": "1074",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225616/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "金鹰卡通(普清720)",
-            "num": "1074",
+            "num": "1075",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225620/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "炫动卡通(普清720)",
-            "num": "1075",
+            "num": "1076",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225694/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "优漫卡通(普清720)",
-            "num": "1076",
+            "num": "1077",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221226982/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "东海国学与家道",
-            "num": "1077",
+            "num": "1078",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221226392/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "家有购物",
-            "num": "1078",
+            "num": "1079",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221226593/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "东海文娱频道",
-            "num": "1079",
+            "num": "1080",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221226599/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "东海新闻频道",
-            "num": "1080",
+            "num": "1081",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221226601/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "徐州-1(HD1080)",
-            "num": "1081",
+            "num": "1082",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225945/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "徐州-2(HD1080)",
-            "num": "1082",
+            "num": "1083",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225947/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "徐州-3(HD1080)",
-            "num": "1083",
+            "num": "1084",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225949/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "徐州-4(HD1080)",
-            "num": "1084",
+            "num": "1085",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225951/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "风尚购物(普清720)",
-            "num": "1085",
+            "num": "1086",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221225956/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "邳州综合",
-            "num": "1086",
+            "num": "1087",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227386/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "邳州综艺",
-            "num": "1087",
+            "num": "1088",
             "urllist": "http://223.110.243.155:80/PLTV/3/224/3221227388/1.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "七彩戏剧(普清720)",
-            "num": "1088",
+            "num": "1089",
             "urllist": "http://111.20.33.95/PLTV/88888888/224/3221225643/index.m3u8"
         },
         {
-            "itemid": "uid11",
+            "itemid": "uid10",
             "name": "兵团卫视(普清720)",
-            "num": "1089",
+            "num": "1090",
             "urllist": "http://111.20.33.95/PLTV/88888888/224/3221225627/index.m3u8"
         }
     ],
@@ -6579,10 +6585,6 @@
         {
             "id": "uid10",
             "name": "大杂绘"
-        },
-        {
-            "id": "uid11",
-            "name": "CCTV3综艺http://223.110.243.155:80/PLTV/3/224/3221225588/1.m3u8"
         }
     ]
 }
