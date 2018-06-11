@@ -6539,6 +6539,240 @@
             "name": "兵团卫视(普清720)",
             "num": "1090",
             "urllist": "http://111.20.33.95/PLTV/88888888/224/3221225627/index.m3u8"
+        },
+        {
+            "itemid": "uid11",
+            "name": "南方卫视",
+            "num": "1091",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=gdtvs2"
+        },
+        {
+            "itemid": "uid11",
+            "name": "南方综艺",
+            "num": "1092",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=gdtvs3"
+        },
+        {
+            "itemid": "uid11",
+            "name": "广东影视",
+            "num": "1093",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=gdtvs4"
+        },
+        {
+            "itemid": "uid11",
+            "name": "南方少儿",
+            "num": "1094",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=gdtvs5"
+        },
+        {
+            "itemid": "uid11",
+            "name": "广东珠江",
+            "num": "1095",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=gdzj"
+        },
+        {
+            "itemid": "uid11",
+            "name": "珠江电影",
+            "num": "1096",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=gdzjdy"
+        },
+        {
+            "itemid": "uid11",
+            "name": "广东高清剧场",
+            "num": "1097",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=gdgqjc#http://www.qnyy.xyz/qun755259020/gdutv.php?t=gdgqjcf"
+        },
+        {
+            "itemid": "uid11",
+            "name": "广东高清粤语",
+            "num": "1098",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=gdgqyu#http://www.qnyy.xyz/qun755259020/gdutv.php?t=gdgqyuf"
+        },
+        {
+            "itemid": "uid11",
+            "name": "广东高清综合",
+            "num": "1099",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=gdgqzh#http://www.qnyy.xyz/qun755259020/gdutv.php?t=gdgqzhf"
+        },
+        {
+            "itemid": "uid11",
+            "name": "广东高清探索",
+            "num": "1100",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=gdgqts#http://www.qnyy.xyz/qun755259020/gdutv.php?t=gdgqtsf"
+        },
+        {
+            "itemid": "uid11",
+            "name": "广东经济高清",
+            "num": "1101",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=gdtvs1hd#http://www.qnyy.xyz/qun755259020/gdutv.php?t=gdtvs1fhd"
+        },
+        {
+            "itemid": "uid11",
+            "name": "广东体育高清",
+            "num": "1102",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=gdtyhd#http://www.qnyy.xyz/qun755259020/gdutv.php?t=gdtyfhd"
+        },
+        {
+            "itemid": "uid11",
+            "name": "CHC高清电影",
+            "num": "1103",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=chchdf"
+        },
+        {
+            "itemid": "uid11",
+            "name": "CHC动作电影",
+            "num": "1104",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=chcdz"
+        },
+        {
+            "itemid": "uid11",
+            "name": "CHC家庭电影",
+            "num": "1105",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=chcjt"
+        },
+        {
+            "itemid": "uid11",
+            "name": "全纪实高清",
+            "num": "1106",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=qjshd#http://www.qnyy.xyz/qun755259020/gdutv.php?t=qjsfhd"
+        },
+        {
+            "itemid": "uid11",
+            "name": "新视觉高清",
+            "num": "1107",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=xsjhd#http://www.qnyy.xyz/qun755259020/gdutv.php?t=xsjfhd"
+        },
+        {
+            "itemid": "uid11",
+            "name": "魅力音乐HD",
+            "num": "1108",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=mlyyhd#http://www.qnyy.xyz/qun755259020/gdutv.php?t=mlyyfhd"
+        },
+        {
+            "itemid": "uid11",
+            "name": "欢笑剧场HD",
+            "num": "1109",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=hxjc#http://www.qnyy.xyz/qun755259020/gdutv.php?t=hxjcf"
+        },
+        {
+            "itemid": "uid11",
+            "name": "都市剧场HD",
+            "num": "1110",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=dsjc#http://www.qnyy.xyz/qun755259020/gdutv.php?t=dsjcfhd"
+        },
+        {
+            "itemid": "uid11",
+            "name": "DOX院线HD",
+            "num": "1111",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=doxyxhd#http://www.qnyy.xyz/qun755259020/gdutv.php?t=doxyxfhd"
+        },
+        {
+            "itemid": "uid11",
+            "name": "DOX韩流HD",
+            "num": "1112",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=doxhlhd#http://www.qnyy.xyz/qun755259020/gdutv.php?t=doxhlfhd"
+        },
+        {
+            "itemid": "uid11",
+            "name": "DOX怡家HD",
+            "num": "1113",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=doxyj#http://www.qnyy.xyz/qun755259020/gdutv.php?t=doxyjfhd"
+        },
+        {
+            "itemid": "uid11",
+            "name": "DOX英伦HD",
+            "num": "1114",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=doxylhd#http://www.qnyy.xyz/qun755259020/gdutv.php?t=doxylfhd"
+        },
+        {
+            "itemid": "uid11",
+            "name": "DOX兴致HD",
+            "num": "1115",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=doxxzfhd#"
+        },
+        {
+            "itemid": "uid11",
+            "name": "DOX剧场HD",
+            "num": "1116",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=doxjchd#"
+        },
+        {
+            "itemid": "uid11",
+            "name": "DOX新艺HD",
+            "num": "1117",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=doxxy#http://www.qnyy.xyz/qun755259020/gdutv.php?t=doxxyf"
+        },
+        {
+            "itemid": "uid11",
+            "name": "DOX映画HD",
+            "num": "1118",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=doxyhf"
+        },
+        {
+            "itemid": "uid11",
+            "name": "CCTV1HD",
+            "num": "1119",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=cctv1hd#http://www.qnyy.xyz/qun755259020/gdutv.php?t=cctv1fhd"
+        },
+        {
+            "itemid": "uid11",
+            "name": "CCTV2HD",
+            "num": "1120",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=cctv2hd#http://www.qnyy.xyz/qun755259020/gdutv.php?t=cctv2fhd"
+        },
+        {
+            "itemid": "uid11",
+            "name": "CCTV3HD",
+            "num": "1121",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=cctv3hd#http://www.qnyy.xyz/qun755259020/gdutv.php?t=cctv3fhd"
+        },
+        {
+            "itemid": "uid11",
+            "name": "CCTV5HD",
+            "num": "1122",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=cctv5hd#http://www.qnyy.xyz/qun755259020/gdutv.php?t=cctv5fhd"
+        },
+        {
+            "itemid": "uid11",
+            "name": "CCTV6HD",
+            "num": "1123",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=cctv6hd#http://www.qnyy.xyz/qun755259020/gdutv.php?t=cctv6fhd"
+        },
+        {
+            "itemid": "uid11",
+            "name": "CCTV7HD",
+            "num": "1124",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=cctv7hd#http://www.qnyy.xyz/qun755259020/gdutv.php?t=cctv7fhd"
+        },
+        {
+            "itemid": "uid11",
+            "name": "CCTV8HD",
+            "num": "1125",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=cctv8hd#http://www.qnyy.xyz/qun755259020/gdutv.php?t=cctv8fhd"
+        },
+        {
+            "itemid": "uid11",
+            "name": "CCTV9HD",
+            "num": "1126",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=cctv9hd#http://www.qnyy.xyz/qun755259020/gdutv.php?t=cctv9fhd"
+        },
+        {
+            "itemid": "uid11",
+            "name": "CCTV10HD",
+            "num": "1127",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=cctv10hd#http://www.qnyy.xyz/qun755259020/gdutv.php?t=cctv10fhd"
+        },
+        {
+            "itemid": "uid11",
+            "name": "CCTV12HD",
+            "num": "1128",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=cctv12hd#http://www.qnyy.xyz/qun755259020/gdutv.php?t=cctv12fhd"
+        },
+        {
+            "itemid": "uid11",
+            "name": "CCTV14HD",
+            "num": "1129",
+            "urllist": "http://www.qnyy.xyz/qun755259020/gdutv.php?t=cctv14hd#http://www.qnyy.xyz/qun755259020/gdutv.php?t=cctv14fhd"
         }
     ],
     "type": [
@@ -6585,6 +6819,10 @@
         {
             "id": "uid10",
             "name": "大杂绘"
+        },
+        {
+            "id": "uid11",
+            "name": "UTV"
         }
     ]
 }
