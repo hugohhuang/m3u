@@ -6539,6 +6539,1290 @@
             "name": "澳视咨讯",
             "num": "1090",
             "urllist": "http://live1.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "翡翠台",
+            "num": "1091",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/5tg7hf6c/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "互动新闻台",
+            "num": "1092",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/g9wq1prh/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "J2",
+            "num": "1093",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/xmj3kp59/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "J5",
+            "num": "1094",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/wtfkf1mz/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "VIUTV",
+            "num": "1095",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/zbjk0cj6/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "奇妙电视",
+            "num": "1096",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/6kq9wz62/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "Pearl",
+            "num": "1097",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/w1hm8wff/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "TVB-星河",
+            "num": "1098",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/gjgwhbh7/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "鳳凰中文台 HD",
+            "num": "1099",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/ts6205f2/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "鳳凰資訊台 HD",
+            "num": "1100",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/9mq6tmcf/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "鳳凰香港台 HD",
+            "num": "1101",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/wzpkb9tf/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "星空衛視",
+            "num": "1102",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/c89jz8t0/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "澳門蓮花",
+            "num": "1103",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/cs7rpncg/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "浙江卫视 HD",
+            "num": "1104",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/c0j26t0r/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "江苏卫视 HD",
+            "num": "1105",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/f95ngkwq/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "东方卫视 HD",
+            "num": "1106",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/zvstjgb3/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "湖南卫视 HD",
+            "num": "1107",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/qtj1jx16/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "深圳卫视 HD",
+            "num": "1108",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/5ng3b4fx/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "辽宁卫视",
+            "num": "1109",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/3qb2j6nc/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "重庆卫视",
+            "num": "1110",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/bcz5x1cr/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "南方2台",
+            "num": "1111",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/sbrv7wjz/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "珠江台",
+            "num": "1112",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/kx6qpf3x/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "广东体育",
+            "num": "1113",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/0xq2rx02/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "福建东南卫视",
+            "num": "1114",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/64rv5hgz/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "河北卫视",
+            "num": "1115",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/jj404093/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "青海卫视",
+            "num": "1116",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/c8wfnrgw/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "湖北卫视 HD",
+            "num": "1117",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/zg8m3znc/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "四川卫视 HD",
+            "num": "1118",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/w3zfb5rh/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "河南卫视",
+            "num": "1119",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/7sjqk5ws/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "宁夏卫视",
+            "num": "1120",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/jmgfmzqq/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "天津卫视 HD",
+            "num": "1121",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/spr8mxjs/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "北京卫视 HD",
+            "num": "1122",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/cmgw1gqb/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "黑龙江卫视 HD",
+            "num": "1123",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/htvjvvhf/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "贵州卫视",
+            "num": "1124",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/k982x8c8/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "广西卫视",
+            "num": "1125",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/rgbxs8j7/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "风云足球",
+            "num": "1126",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/rh3j4j4b/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "都市剧场",
+            "num": "1127",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/n35bh0f3/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "怀旧剧场",
+            "num": "1128",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/g77p9zrc/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "高尔夫网球",
+            "num": "1129",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/bj6611m5/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "CCTV-1 HD",
+            "num": "1130",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/jgcz990f/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "CCTV-2",
+            "num": "1131",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/7br6tfc7/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "CCTV-3 HD",
+            "num": "1132",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/610m2pq2/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "CCTV-4",
+            "num": "1133",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/z1z0qgmt/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "CCTV-5+ HD",
+            "num": "1134",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/n8pwh7zv/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "CCTV-5 HD",
+            "num": "1135",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/8p5jrfhk/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "CCTV-6 HD",
+            "num": "1136",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/494r502h/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "CCTV-7",
+            "num": "1137",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/trqqc7bx/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "CCTV-8 HD",
+            "num": "1138",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/jkzkt5sh/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "CCTV-9 HD",
+            "num": "1139",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/23nc5ktw/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "CCTV-10 HD",
+            "num": "1140",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/s9fb5tsw/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "CCTV-11",
+            "num": "1141",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/8pp5sbrj/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "CCTV-12",
+            "num": "1142",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/722m6jv4/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "CCTV-13",
+            "num": "1143",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/3zggm45n/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "CCTV-14",
+            "num": "1144",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/483f4944/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "CCTV-15",
+            "num": "1145",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/t0j79f8c/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "台视台",
+            "num": "1146",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/rmntpxs1/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "纬来电影",
+            "num": "1147",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/q9p24xqk/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "纬来综合",
+            "num": "1148",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/3qct536g/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "纬来日本",
+            "num": "1149",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/84zr1797/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "纬来育乐",
+            "num": "1150",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/vrn5bsmg/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "八大娱乐",
+            "num": "1151",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/22hvx7f4/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "八大第一",
+            "num": "1152",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/jz8wfhfv/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "八大戏剧",
+            "num": "1153",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/1gx47f4w/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "八大综合",
+            "num": "1154",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/nh14pm05/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "亚洲旅游台",
+            "num": "1155",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/jhmt4rc8/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "东森洋片",
+            "num": "1156",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/0kxhqv8q/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "东森新闻 HD",
+            "num": "1157",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/94zf0c2v/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "美食星球",
+            "num": "1158",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/45c2r1kr/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "天映频道",
+            "num": "1159",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/tz7c94tk/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "中天亚洲",
+            "num": "1160",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/kn3tzgzv/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "中视台",
+            "num": "1161",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/qx3hnnss/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "鸿基影剧台",
+            "num": "1162",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/86z74vbh/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "鸿基台湾台",
+            "num": "1163",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/3r0zt5s3/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "靖洋戏剧台",
+            "num": "1164",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/fmqkc4bh/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "靖天国际台",
+            "num": "1165",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/7s83z9x5/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "靖天卡通台",
+            "num": "1166",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/vx4hx0m7/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "靖天日本台",
+            "num": "1167",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/n7s1fwk8/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "靖天育乐台",
+            "num": "1168",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/fz0wwtjb/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "靖天戏剧",
+            "num": "1169",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/f97qhzsw/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "靖天电影",
+            "num": "1170",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/h25ntcr8/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "靖天映画",
+            "num": "1171",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/956tfjcf/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "龙华洋片",
+            "num": "1172",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/gs7wj4b5/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "龙华偶像",
+            "num": "1173",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/v43bw7s8/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "龙华戏剧",
+            "num": "1174",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/48g9v95h/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "龙华动画",
+            "num": "1175",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/m59j2zx8/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "龙华影剧",
+            "num": "1176",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/vj16g6fs/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "龙祥时代",
+            "num": "1177",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/0xz20xk6/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "中华美食",
+            "num": "1178",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/rhtthmp1/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "一电视",
+            "num": "1179",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/cggmv7m5/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "一电视综合",
+            "num": "1180",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/fkb23jwt/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "非凡新闻",
+            "num": "1181",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/crk99h3j/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "动物星球",
+            "num": "1182",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/13t5w6zc/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "卫视电影台",
+            "num": "1183",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/63t80c5p/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "探索台湾",
+            "num": "1184",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/sq7kwzwq/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "中天综合 HD",
+            "num": "1185",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/975ffqpt/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "星卫电影HD",
+            "num": "1186",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/6s69fnjz/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "卫视合家欢",
+            "num": "1187",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/k4hn53c8/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "华视 HD",
+            "num": "1188",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/hmrmw2mj/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "台视 HD",
+            "num": "1189",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/c05pm3s2/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "中视 HD",
+            "num": "1190",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/0fjz7px1/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "公视 HD",
+            "num": "1191",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/j44fm83f/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "中天",
+            "num": "1192",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/8j108vcg/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "华视",
+            "num": "1193",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/fg8qsqqz/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "民视",
+            "num": "1194",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/pk0r9g3x/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "民视新闻",
+            "num": "1195",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/thkmtv99/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "民视台湾台 HD",
+            "num": "1196",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/bh0x57p4/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "中视新闻",
+            "num": "1197",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/bkrbn0pf/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "卫视中文台",
+            "num": "1198",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/vhfcgvgr/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "曼迪日本台",
+            "num": "1199",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/zhjnc3xr/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "星卫娱乐台",
+            "num": "1200",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/sps6gxp6/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "smart 知识台",
+            "num": "1201",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/hvkct1c0/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "阿里郎电视台",
+            "num": "1202",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/h6h1s2j5/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "环宇财经",
+            "num": "1203",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/0q5fr8rh/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "环宇频道",
+            "num": "1204",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/mxrsjhxp/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "环宇综合HD",
+            "num": "1205",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/29z5n1ms/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "卫视西片",
+            "num": "1206",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/1vnt5wqn/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "美亚电影台",
+            "num": "1207",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/4vphhg1h/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "大爱一台",
+            "num": "1208",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/tcs89msv/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "采昌影剧台",
+            "num": "1209",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/k75nw13p/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "东森戏剧",
+            "num": "1210",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/g5n3j8kx/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "东森电影",
+            "num": "1211",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/q6t7f6hg/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "东森财经 HD",
+            "num": "1212",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/1cj0fxmv/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "国兴卫视",
+            "num": "1213",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/6zb3p58j/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "好莱坞电影",
+            "num": "1214",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/q0rskj6h/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "中天娱乐",
+            "num": "1215",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/pg9ccptv/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "迪士尼",
+            "num": "1216",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/06mp6vp8/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "纬来戏剧",
+            "num": "1217",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/ncgscv3r/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "三立都会",
+            "num": "1218",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/0jr13p4v/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "三立台湾",
+            "num": "1219",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/k4bszph7/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "三立",
+            "num": "1220",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/p6vzzkf8/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "三立综合",
+            "num": "1221",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/8sw4bfgq/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "三立戏剧台",
+            "num": "1222",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/cqz6gtpb/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "TVBS HD",
+            "num": "1223",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/qb4zc9s7/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "Baby TV",
+            "num": "1224",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/x4j8kpst/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "EYE戏剧",
+            "num": "1225",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/rg68vjj0/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "CHC高清电影HD",
+            "num": "1226",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/0bzz6wkj/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "CHC动作电影HD",
+            "num": "1227",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/2xhjk3rg/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "CHC家庭影院HD",
+            "num": "1228",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/hztn484w/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "FOX 家庭",
+            "num": "1229",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/q1t3r7z7/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "FOX CRIME",
+            "num": "1230",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/b9gnc85x/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "FOX HD",
+            "num": "1231",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/c2pk36b8/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "JET综合",
+            "num": "1232",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/07t8z33z/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "TVBS-N HD",
+            "num": "1233",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/1pkbs32k/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "TVBS-G HD",
+            "num": "1234",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/1rxrpgv4/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "momo 亲子台",
+            "num": "1235",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/0jqsx5tg/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "HBO Hits",
+            "num": "1236",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/4q5rk9bp/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "HBO signature",
+            "num": "1237",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/z0h6sz7m/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "HBO family",
+            "num": "1238",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/fjkgbjsr/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "CinemaWorld",
+            "num": "1239",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/wrn6wjz7/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "EYE TV旅游台",
+            "num": "1240",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/sphg8nq9/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "ELTA 体育",
+            "num": "1241",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/xx8jfqc9/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "AXN",
+            "num": "1242",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/nvmhcffx/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "China Movie",
+            "num": "1243",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/3z7vs7gw/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "CINEMAX",
+            "num": "1244",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/w6stt0q8/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "CN 卡通",
+            "num": "1245",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/zmz9k2hc/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "FX HD",
+            "num": "1246",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/jkrn3m0w/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "BabyFirst",
+            "num": "1247",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/fj3mtgtj/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "ELTA 影剧",
+            "num": "1248",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/vvhpg8t8/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "ELTA 育乐",
+            "num": "1249",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/bxjgvrj3/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "ELTA 综合",
+            "num": "1250",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/q35stj9m/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "my kids",
+            "num": "1251",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/x1z010s3/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "DIVA",
+            "num": "1252",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/332hkcjk/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "纬来体育",
+            "num": "1253",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/spvjqjn9/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "博斯足球",
+            "num": "1254",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/rxxm18mx/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "博斯网球",
+            "num": "1255",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/xvtbpnqp/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "博斯无限",
+            "num": "1256",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/4g2pmcx2/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "博斯高球 2",
+            "num": "1257",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/p41p0chp/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "博斯高球 1 HD",
+            "num": "1258",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/svs9236c/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "ASN 全美运动网",
+            "num": "1259",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/48qzgqsw/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "新视觉",
+            "num": "1260",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/3vs0p17g/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "SKY NEWS HD",
+            "num": "1261",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/8vfjmcsj/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "SETANTA",
+            "num": "1262",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/r3mqhjzs/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "GOLF",
+            "num": "1263",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/ggvhjzxt/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "FOX sport",
+            "num": "1264",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/sn7jks08/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "FOX sport 3 HD",
+            "num": "1265",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/jjf48w4z/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "Sky sport 1",
+            "num": "1266",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/54p788fb/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "Sky Sports 2 HD",
+            "num": "1267",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/1xnz6php/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "国家地理 HD",
+            "num": "1268",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/nvhgfr5c/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "国家地理野生",
+            "num": "1269",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/w7tx0758/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "国家地理PEOPLE",
+            "num": "1270",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/s04bkt99/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "探索动力",
+            "num": "1271",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/vw28htp9/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "探索科学频道",
+            "num": "1272",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/r1k6hzrq/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "探索EVE HD",
+            "num": "1273",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/pc91kp11/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "CI 罪案侦缉",
+            "num": "1274",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/rw55z1xs/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "法兰西24法语",
+            "num": "1275",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/82cwq07f/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "法兰西24（英語）",
+            "num": "1276",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/5r7bc98t/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "新加坡亚洲CHANNEL NEWSASIA",
+            "num": "1277",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/hm8879b2/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "今日俄罗斯",
+            "num": "1278",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/n8q2h33x/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "法国时装",
+            "num": "1279",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/qnrv0r58/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "亚洲美食",
+            "num": "1280",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/5rhv2q5b/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "Syfy科幻",
+            "num": "1281",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/zkrmnn2q/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "V音乐台",
+            "num": "1282",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/h2v57xqv/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "Bloomberg",
+            "num": "1283",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/v6g923kv/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "E! Entertainment",
+            "num": "1284",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/x4qgwt3s/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "Mezzo Live HD",
+            "num": "1285",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/x4g2r45t/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "AMC",
+            "num": "1286",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/snz9g8cs/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "tvN",
+            "num": "1287",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/8wk7r3sc/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "MTV",
+            "num": "1288",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/rzr7nkgm/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "CNBC",
+            "num": "1289",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/wnfjf1pn/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "LUXE TV",
+            "num": "1290",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/c29zkw81/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "fyi",
+            "num": "1291",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/61br3tqt/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "NHK",
+            "num": "1292",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/wr7xmxgr/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "nhk1",
+            "num": "1293",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/gjqtxw9b/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "disney junior",
+            "num": "1294",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/7g9p5369/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "sundance channel",
+            "num": "1295",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/j76qg6zv/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "BBC earth HD",
+            "num": "1296",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/cbpz1qrf/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "BBC Lifestyle HD",
+            "num": "1297",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/wq2z42th/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "MTV",
+            "num": "1298",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/g3qpp8xw/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "MTV Live",
+            "num": "1299",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/hxw70zz5/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "DW-TV",
+            "num": "1300",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/5g2z36jg/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "catchplay HD",
+            "num": "1301",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/mgshbq4p/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "OUTDOOR",
+            "num": "1302",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/8sbkj5sh/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "channel V",
+            "num": "1303",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/2981w9zw/index.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "F24",
+            "num": "1304",
+            "urllist": "http://t104-156bd5.boxtv.win/live/kwzq1rse/bevbfdse/index.m3u8"
         }
     ],
     "type": [
@@ -6561,6 +7845,10 @@
         {
             "id": "uid04",
             "name": "飞马IPTV"
+        },
+        {
+            "id": "uid05",
+            "name": "观源"
         }
     ]
 }
