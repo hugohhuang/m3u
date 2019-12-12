@@ -1,413 +1,211 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN精品影院
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN精品影院
 http://v.iam7.cn/iptv/cibn.php?code=JingPin
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN生活
 http://v.iam7.cn/iptv/cibn.php?code=YouXi
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN军事
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN军事
 http://v.iam7.cn/iptv/cibn.php?code=YinYue
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN真人秀
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN真人秀
 http://v.iam7.cn/iptv/cibn.php?code=LuShi
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN文旅中国
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN文旅中国
 http://v.iam7.cn/iptv/cibn.php?code=MeiZhuang
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN嗨播
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN嗨播
 http://v.iam7.cn/iptv/cibn.php?code=LvYou
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN时尚生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN时尚生活
 http://v.iam7.cn/iptv/cibn.php?code=DongLinFaYin
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN欧洲影院
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN欧洲影院
 http://v.iam7.cn/iptv/cibn.php?code=82
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN童学世界
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN童学世界
 http://v.iam7.cn/iptv/cibn.php?code=ReBo
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN经典剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN经典剧场
 http://v.iam7.cn/iptv/cibn.php?code=DOTA2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN风尚运动
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN风尚运动
 http://v.iam7.cn/iptv/cibn.php?code=DuShi
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN汽车
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN汽车
 http://v.iam7.cn/iptv/cibn.php?code=QiChe
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN华语影院
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN华语影院
 http://v.iam7.cn/iptv/cibn.php?code=TiYu
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN佳片影院
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN佳片影院
 http://v.iam7.cn/iptv/cibn.php?code=83
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN情感影院
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN情感影院
 http://v.iam7.cn/iptv/cibn.php?code=QingGan
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN骄阳剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN骄阳剧场
 http://v.iam7.cn/iptv/cibn.php?code=JingDian
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN健康
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN健康
 http://v.iam7.cn/iptv/cibn.php?code=JianKang
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN全电竞
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN全电竞
 http://v.iam7.cn/iptv/cibn.php?code=115
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN百科实录
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN百科实录
 http://v.iam7.cn/iptv/cibn.php?code=84
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN喜剧影院
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN喜剧影院
 http://v.iam7.cn/iptv/cibn.php?code=TongBu
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN炫佳动漫
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN炫佳动漫
 http://v.iam7.cn/iptv/cibn.php?code=DongMan
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN微电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN微电影
 http://v.iam7.cn/iptv/cibn.php?code=WeiDianYing
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN热卖推荐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN热卖推荐
 http://v.iam7.cn/iptv/cibn.php?code=400
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN现身说法
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN现身说法
 http://v.iam7.cn/iptv/cibn.php?code=86
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN院线大片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN院线大片
 http://v.iam7.cn/iptv/cibn.php?code=DanJi
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN品质生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN品质生活
 http://v.iam7.cn/iptv/cibn.php?code=1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN古装剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN古装剧场
 http://v.iam7.cn/iptv/cibn.php?code=ZongYi
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN时尚前沿
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN时尚前沿
 http://v.iam7.cn/iptv/cibn.php?code=87
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN动漫剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN动漫剧场
 http://v.iam7.cn/iptv/cibn.php?code=QinZi
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN好莱坞
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN好莱坞
 http://v.iam7.cn/iptv/cibn.php?code=ZongHe
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN聚鲨精选
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN聚鲨精选
 http://v.iam7.cn/iptv/cibn.php?code=6
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN家居用品
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN家居用品
 http://v.iam7.cn/iptv/cibn.php?code=jiayougouwu
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN宝岛风情
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN宝岛风情
 http://v.iam7.cn/iptv/cibn.php?code=88
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN流金岁月
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN流金岁月
 http://v.iam7.cn/iptv/cibn.php?code=Shoucang
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN好物
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN好物
 http://v.iam7.cn/iptv/cibn.php?code=178
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN艺术院线
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN艺术院线
 http://v.iam7.cn/iptv/cibn.php?code=YingXiong
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN电影导视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN电影导视
 http://v.iam7.cn/iptv/cibn.php?code=FengShang
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN电影综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN电影综合
 http://v.iam7.cn/iptv/cibn.php?code=DianYing
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN纪录片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN纪录片
 http://v.iam7.cn/iptv/cibn.php?code=JiLuPian
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN综合
 http://v.iam7.cn/iptv/cibn.php?code=DianJing
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CIBN动作影院
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",CIBN动作影院
 http://v.iam7.cn/iptv/cibn.php?code=ShengHuo
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咿呀咿呀
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",咿呀咿呀
 http://v.iam7.cn/iptv/cibn.php?code=130
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",底价秒杀
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",底价秒杀
 http://v.iam7.cn/iptv/cibn.php?code=300
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",驶向荒野之旅
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",驶向荒野之旅
 http://v.iam7.cn/iptv/cibn.php?code=361
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",MV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",MV
 http://v.iam7.cn/iptv/cibn.php?code=338
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",流行榜单
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",流行榜单
 http://v.iam7.cn/iptv/cibn.php?code=155
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",家装精选
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",家装精选
 http://v.iam7.cn/iptv/cibn.php?code=301
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",巨星演唱会
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",巨星演唱会
 http://v.iam7.cn/iptv/cibn.php?code=135
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",美食厨房
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",美食厨房
 http://v.iam7.cn/iptv/cibn.php?code=302
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",经典音乐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",经典音乐
 http://v.iam7.cn/iptv/cibn.php?code=162
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",天才宝贝熊
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",天才宝贝熊
 http://v.iam7.cn/iptv/cibn.php?code=143
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",女团专场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",女团专场
 http://v.iam7.cn/iptv/cibn.php?code=208
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",斗牛财经
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",斗牛财经
 http://v.iam7.cn/iptv/cibn.php?code=126
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",老陈坐弹会
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",老陈坐弹会
 http://v.iam7.cn/iptv/cibn.php?code=136
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",音乐综艺
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",音乐综艺
 http://v.iam7.cn/iptv/cibn.php?code=145
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",精选古典乐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",精选古典乐
 http://v.iam7.cn/iptv/cibn.php?code=78
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",经典音乐会
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",经典音乐会
 http://v.iam7.cn/iptv/cibn.php?code=128
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中国交通
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",中国交通
 http://v.iam7.cn/iptv/cibn.php?code=7
-#EXTINF:-1 tvg-id="6589" tvg-name="环球奇观" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUANQIUQIGUAN.jpg" group-title="地方",环球奇观
+#EXTINF:-1 tvg-id="6589" tvg-name="环球奇观" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUANQIUQIGUAN.jpg" group-title="CIBN",环球奇观
 http://v.iam7.cn/iptv/cibn.php?code=8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",收藏
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",收藏
 http://v.iam7.cn/iptv/cibn.php?code=501
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",莎翁戏剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN",莎翁戏剧
 http://v.iam7.cn/iptv/cibn.php?code=68
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1HD
-http://zszb.xyz/gdyx.php?id=CCTV1HD&uid=7000
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2HD
-http://zszb.xyz/gdyx.php?id=CCTV2HD&uid=7000
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3HD
-http://zszb.xyz/gdyx.php?id=CCTV3HD&uid=7000
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
-http://zszb.xyz/gdyx.php?id=CCTV4&uid=1500
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5HD
-http://zszb.xyz/gdyx.php?id=CCTV5HD&uid=7000
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6HD
-http://zszb.xyz/gdyx.php?id=CCTV6HD&uid=7000
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7HD
-http://zszb.xyz/gdyx.php?id=CCTV7HD&uid=7000
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8HD
-http://zszb.xyz/gdyx.php?id=CCTV8HD&uid=7000
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9HD
-http://zszb.xyz/gdyx.php?id=CCTV9HD&uid=7000
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10HD
-http://zszb.xyz/gdyx.php?id=CCTV10HD&uid=7000
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11
-http://zszb.xyz/gdyx.php?id=CCTV11&uid=1500
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12HD
-http://zszb.xyz/gdyx.php?id=CCTV12HD&uid=7000
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
-http://zszb.xyz/gdyx.php?id=CCTV13&uid=1500
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14HD
-http://zszb.xyz/gdyx.php?id=CCTV14HD&uid=7000
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15
-http://zszb.xyz/gdyx.php?id=CCTV15music&uid=1500
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5+HD
-http://zszb.xyz/gdyx.php?id=CCTV5plusHD&uid=7000
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17HD
-http://zszb.xyz/gdyx.php?id=CCTV17HD&uid=7500
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视HD
-http://zszb.xyz/gdyx.php?id=hunanHD&uid=7000
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视HD
-http://zszb.xyz/gdyx.php?id=zhejiangHD&uid=7000
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视HD
-http://zszb.xyz/gdyx.php?id=guangdongHD&uid=7000
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视HD
-http://zszb.xyz/gdyx.php?id=shenzhenHD&uid=7000
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视HD
-http://zszb.xyz/gdyx.php?id=dongfangHD&uid=7000
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视HD
-http://zszb.xyz/gdyx.php?id=beijingHD&uid=7000
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视HD
-http://zszb.xyz/gdyx.php?id=sichuanHD&uid=7000
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视HD
-http://zszb.xyz/gdyx.php?id=jiangsuHD&uid=7000
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视HD
-http://zszb.xyz/gdyx.php?id=heilongjiangHD&uid=7000
-#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视HD
-http://zszb.xyz/gdyx.php?id=hebeiHD&uid=7000
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视HD
-http://zszb.xyz/gdyx.php?id=liaoningHD&uid=7000
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视HD
-http://zszb.xyz/gdyx.php?id=tianjinHD&uid=7000
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视HD
-http://zszb.xyz/gdyx.php?id=hubeiHD&uid=7000
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视HD
-http://zszb.xyz/gdyx.php?id=anhuiHD&uid=7000
-#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视HD
-http://zszb.xyz/gdyx.php?id=chongqingHD&uid=7000
-#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视HD
-http://zszb.xyz/gdyx.php?id=guizhouHD&uid=7000
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
-http://zszb.xyz/gdyx.php?id=heilongjiang&uid=1500
-#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
-http://zszb.xyz/gdyx.php?id=neimenggu&uid=1500
-#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
-http://zszb.xyz/gdyx.php?id=yunnan&uid=1500
-#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
-http://zszb.xyz/gdyx.php?id=xinjiang&uid=1500
-#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
-http://zszb.xyz/gdyx.php?id=henan&uid=1500
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
-http://zszb.xyz/gdyx.php?id=dongnan&uid=1500
-#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
-http://zszb.xyz/gdyx.php?id=shanxi&uid=1500
-#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
-http://zszb.xyz/gdyx.php?id=shanxi2&uid=1500
-#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
-http://zszb.xyz/gdyx.php?id=bingtuan&uid=1500
-#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="地方",优漫卡通
-http://zszb.xyz/gdyx.php?id=youmankatong&uid=1500
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通
-http://zszb.xyz/gdyx.php?id=jinyingkatong&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",炫动卡通
-http://zszb.xyz/gdyx.php?id=xuandongkatong&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CETV-1
-http://zszb.xyz/gdyx.php?id=CETV-1&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广东体育HD
-http://zszb.xyz/gdyx.php?id=gdsportsHD&uid=7000
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC高清电影
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="谷豆",CHC高清电影
 http://zszb.xyz/gdyx.php?id=CHCHD&uid=7000
-#EXTINF:-1 tvg-id="1968" tvg-name="DOX院线" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX-CINEMA.png" group-title="上海",DOX院线
+#EXTINF:-1 tvg-id="1968" tvg-name="DOX院线" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX-CINEMA.png" group-title="谷豆",DOX院线
 http://zszb.xyz/gdyx.php?id=DOXyuanxianHD&uid=7000
-#EXTINF:-1 tvg-id="1955" tvg-name="DOX雅趣" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_YAQU.png" group-title="上海",DOX雅趣
+#EXTINF:-1 tvg-id="1955" tvg-name="DOX雅趣" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_YAQU.png" group-title="谷豆",DOX雅趣
 http://zszb.xyz/gdyx.php?id=DOXhanliuHD&uid=7000
-#EXTINF:-1 tvg-id="1967" tvg-name="DOX怡家" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yijia.png" group-title="上海",DOX怡家
+#EXTINF:-1 tvg-id="1967" tvg-name="DOX怡家" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yijia.png" group-title="谷豆",DOX怡家
 http://zszb.xyz/gdyx.php?id=DOXyijiaHD&uid=7000
-#EXTINF:-1 tvg-id="1966" tvg-name="DOX英伦" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yinglun.png" group-title="上海",DOX英伦
+#EXTINF:-1 tvg-id="1966" tvg-name="DOX英伦" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yinglun.png" group-title="谷豆",DOX英伦
 http://zszb.xyz/gdyx.php?id=DOXyinglunHD&uid=7000
-#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海",劲爆体育HD
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="谷豆",劲爆体育HD
 http://zszb.xyz/gdyx.php?id=jinbaotiyuHD&uid=7000
-#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.jpg" group-title="上海",欢笑剧场HD
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.jpg" group-title="谷豆",欢笑剧场HD
 http://zszb.xyz/gdyx.php?id=huanxiaojuchangHD&uid=7000
-#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.jpg" group-title="上海",全纪实HD
+#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.jpg" group-title="谷豆",全纪实HD
 http://zszb.xyz/gdyx.php?id=quanjishiHD&uid=7000
-#EXTINF:-1 tvg-id="1978" tvg-name="魅力音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meiliyinyue.jpg" group-title="上海",魅力音乐HD
+#EXTINF:-1 tvg-id="1978" tvg-name="魅力音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meiliyinyue.jpg" group-title="谷豆",魅力音乐HD
 http://zszb.xyz/gdyx.php?id=meiliyinyueHD&uid=7000
-#EXTINF:-1 tvg-id="1970" tvg-name="DOX新艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_xinyi.png" group-title="上海",DOX新艺
+#EXTINF:-1 tvg-id="1970" tvg-name="DOX新艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_xinyi.png" group-title="谷豆",DOX新艺
 http://zszb.xyz/gdyx.php?id=DOXxinyiHD&uid=7000
-#EXTINF:-1 tvg-id="6243" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSSH.jpg" group-title="地方",求索生活
+#EXTINF:-1 tvg-id="6243" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSSH.jpg" group-title="谷豆",求索生活
 http://zszb.xyz/gdyx.php?id=QSSHHD&uid=7000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",高清影院
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="谷豆",高清影院
 http://zszb.xyz/gdyx.php?id=FilmsHD&uid=7000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",高清剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="谷豆",高清剧场
 http://zszb.xyz/gdyx.php?id=TheaterHD&uid=7000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",高清综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="谷豆",高清综合
 http://zszb.xyz/gdyx.php?id=zongheHD&uid=7000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",高清探索
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="谷豆",高清探索
 http://zszb.xyz/gdyx.php?id=searchHD&uid=7000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广东经视
-http://zszb.xyz/gdyx.php?id=GDjingjikejiaoHD&uid=7000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",粤语高清
-http://zszb.xyz/gdyx.php?id=yueyuHD&uid=7000
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",明珠
-http://zszb.xyz/gdyx.php?id=xgmingzhu&uid=1500
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台",翡翠
-http://zszb.xyz/gdyx.php?id=xgfeicui&uid=1500
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文台
-http://zszb.xyz/gdyx.php?id=fhzw&uid=1500
-#EXTINF:-1 tvg-id="476" tvg-name="澳亚卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/澳亚卫视.png" group-title="港澳台",澳亚卫视
-http://zszb.xyz/gdyx.php?id=aoya&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",汕头影视文艺
-http://zszb.xyz/gdyx.php?id=shantousantaogaoqing&uid=4500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",汕头新闻综合
-http://zszb.xyz/gdyx.php?id=shantouyitaogaoqing&uid=4500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",汕头经济生活
-http://zszb.xyz/gdyx.php?id=shantouertaogaoqing&uid=4500
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭影院
-http://zszb.xyz/gdyx.php?id=CHCjiatingyy&uid=3000
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影
-http://zszb.xyz/gdyx.php?id=CHCdongzuody&uid=3000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",高清演示
-http://zszb.xyz/gdyx.php?id=HDChanneldemo&uid=7000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",现代教育
-http://zszb.xyz/gdyx.php?id=xiandaijiaoyu&uid=1500
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
-http://zszb.xyz/gdyx.php?id=shenzhen&uid=1500
-#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="地方",风云剧场
-http://zszb.xyz/gdyx.php?id=fengyunjuchang&uid=1500
-#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="地方",怀旧剧场
-http://zszb.xyz/gdyx.php?id=huaijiujuchang&uid=1500
-#EXTINF:-1 tvg-id="6569" tvg-name="央视精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="地方",央视精品
-http://zszb.xyz/gdyx.php?id=yangshijingpin&uid=1500
-#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="地方",风云足球
-http://zszb.xyz/gdyx.php?id=fengyunzuqiu&uid=1500
-#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="地方",世界地理
-http://zszb.xyz/gdyx.php?id=shijiedili&uid=1500
-#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="地方",第一剧场
-http://zszb.xyz/gdyx.php?id=diyijuchang&uid=1500
-#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="地方",风云音乐
-http://zszb.xyz/gdyx.php?id=fengyunyinyue&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东方财经
-http://zszb.xyz/gdyx.php?id=dongfangcaijing&uid=1500
-#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海",劲爆体育
-http://zszb.xyz/gdyx.php?id=jinbaotiyu&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",卫生健康
-http://zszb.xyz/gdyx.php?id=weishengjiankang&uid=1500
-#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p55078602a1ff7.png" group-title="港澳台",广东珠江
-http://zszb.xyz/gdyx.php?id=gdzhujiang&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广东公共
-http://zszb.xyz/gdyx.php?id=gdpublic&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广东新闻
-http://zszb.xyz/gdyx.php?id=gdnews&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广东体育
-http://zszb.xyz/gdyx.php?id=gdsports&uid=1500
-#EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="卫视",南方卫视
-http://zszb.xyz/gdyx.php?id=gdnanfang&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南方影视
-http://zszb.xyz/gdyx.php?id=gdyingshi&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南方少儿
-http://zszb.xyz/gdyx.php?id=gdshaoer&uid=1500
-#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p55078602a1ff7.png" group-title="港澳台",珠江电影
-http://zszb.xyz/gdyx.php?id=zjfilms&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中国气象频道
-http://zszb.xyz/gdyx.php?id=zgqixiang&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CETV-4
-http://zszb.xyz/gdyx.php?id=CETV-4&uid=1500
-#EXTINF:-1 tvg-id="6589" tvg-name="环球奇观" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUANQIUQIGUAN.jpg" group-title="地方",环球奇观
-http://zszb.xyz/gdyx.php?id=huanqiuqiguan&uid=1500
-#EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="地方",老故事
-http://zszb.xyz/gdyx.php?id=laogushi&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",书画
-http://zszb.xyz/gdyx.php?id=shuhua&uid=1500
-#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="地方",女性时尚
-http://zszb.xyz/gdyx.php?id=nvxingshishang&uid=1500
-#EXTINF:-1 tvg-id="6588" tvg-name="发现之旅" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfaxianzhilv.png" group-title="地方",发现之旅
-http://zszb.xyz/gdyx.php?id=faxianzhilv&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",法治天地
-http://zszb.xyz/gdyx.php?id=fazhitiandi&uid=1500
-#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.jpg" group-title="上海",欢笑剧场
-http://zszb.xyz/gdyx.php?id=huanxiaojuchang&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",都市剧场
-http://zszb.xyz/gdyx.php?id=dushijuchang&uid=1500
-#EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="上海",极速汽车
-http://zszb.xyz/gdyx.php?id=jisuqiche&uid=1500
-#EXTINF:-1 tvg-id="1978" tvg-name="魅力音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meiliyinyue.jpg" group-title="上海",魅力音乐
-http://zszb.xyz/gdyx.php?id=meiliyinyue&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",金色频道
-http://zszb.xyz/gdyx.php?id=jinsepindao&uid=1500
-#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.jpg" group-title="上海",生活时尚
-http://zszb.xyz/gdyx.php?id=shenghuoshishang&uid=1500
-#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.jpg" group-title="上海",全纪实
-http://zszb.xyz/gdyx.php?id=quanjishi&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广州台
-http://zszb.xyz/gdyx.php?id=guangzhou&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广州新闻
-http://zszb.xyz/gdyx.php?id=gznews&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广州经济
-http://zszb.xyz/gdyx.php?id=gzeconomic&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广州生活
-http://zszb.xyz/gdyx.php?id=gzlife&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广州竞赛
-http://zszb.xyz/gdyx.php?id=gzcompetition&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广州影视
-http://zszb.xyz/gdyx.php?id=gzfilms&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广州少儿
-http://zszb.xyz/gdyx.php?id=gzchild&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",佛山新闻综合
-http://zszb.xyz/gdyx.php?id=foshannews&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",佛山公共
-http://zszb.xyz/gdyx.php?id=foshanyingshi&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",云浮一套
-http://zszb.xyz/gdyx.php?id=yunfuyitao&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",云浮二套
-http://zszb.xyz/gdyx.php?id=yunfuertao&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",揭阳一套
-http://zszb.xyz/gdyx.php?id=jieyangyitao&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",珠海一套
-http://zszb.xyz/gdyx.php?id=zhuhaiyitao&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",珠海二套
-http://zszb.xyz/gdyx.php?id=zhuhaiertao&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",湛江综合
-http://zszb.xyz/gdyx.php?id=zhanjiangzonghe&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",湛江公共
-http://zszb.xyz/gdyx.php?id=zhanjianggonggong&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",潮州综合
-http://zszb.xyz/gdyx.php?id=chaozhouyitao&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",潮州公共
-http://zszb.xyz/gdyx.php?id=chaozhouertao&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东莞一套
-http://zszb.xyz/gdyx.php?id=dongguanyitao&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",东莞二套
-http://zszb.xyz/gdyx.php?id=dongguanertao&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",梅州一套h
-http://zszb.xyz/gdyx.php?id=meizhouyitao&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",梅州二套
-http://zszb.xyz/gdyx.php?id=meizhouertao&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江门公共
-http://zszb.xyz/gdyx.php?id=jiangmenyitao&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",江门综合
-http://zszb.xyz/gdyx.php?id=jiangmenertao&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中山一套
-http://zszb.xyz/gdyx.php?id=zhongshanyitao&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",中山二套
-http://zszb.xyz/gdyx.php?id=zhongshanertao&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",南海台
-http://zszb.xyz/gdyx.php?id=nanhaitai&uid=2000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",顺德台
-http://zszb.xyz/gdyx.php?id=shundetai&uid=2000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",河源一套
-http://zszb.xyz/gdyx.php?id=heyuanyitao&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",肇庆一套
-http://zszb.xyz/gdyx.php?id=zhaoqingyitao&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",肇庆二套
-http://zszb.xyz/gdyx.php?id=zhaoqingertao&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",新会综合
-http://zszb.xyz/gdyx.php?id=xinhui&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",韶关综合
-http://zszb.xyz/gdyx.php?id=shaoguanzonghe&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",韶关公共
-http://zszb.xyz/gdyx.php?id=shaoguangonggong&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",惠州一套
-http://zszb.xyz/gdyx.php?id=huizhouyitao&uid=1500
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",惠州二套
-http://zszb.xyz/gdyx.php?id=huizhouertao&uid=1500
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",【黑帮电影】
+http://cdn-out.iqy.sc96655.com/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",【奔跑吧】
+http://cdn-out.iqy.sc96655.com/tslive/c15_lb_benpaobaxiongdi_1080p_t10/c15_lb_benpaobaxiongdi_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",【王牌对王牌】
+http://cdn-out.iqy.sc96655.com/tslive/c20_lb_fengshang_high_t10/c20_lb_fengshang_high_t10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",【广场舞】
+http://cdn-out.iqy.sc96655.com/tslive/c16_lb_guangchangwudaquan_1080p_t10/c16_lb_guangchangwudaquan_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",【重磅综艺】
+http://cdn-out.iqy.sc96655.com/tslive/c15_lb_rebozongyi_1080p_t10/c15_lb_rebozongyi_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",【脱口秀】
+http://cdn-out.iqy.sc96655.com/tslive/c15_lb_mingxingtoukouxiu_1080p_t10/c15_lb_mingxingtoukouxiu_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",【记录片】
+http://cdn-out.iqy.sc96655.com/tslive/c15_lb_newjilupian_1080p_t10/c15_lb_newjilupian_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",【宠物台】
+http://cdn-out.iqy.sc96655.com/tslive/c15_lb_chongwutai_1080p_t10/c15_lb_chongwutai_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",【自然地理】
+http://cdn-out.iqy.sc96655.com/tslive/c16_lb_zirandili_1080p_t10/c16_lb_zirandili_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="爱奇艺",【历史秘闻】
+http://cdn-out.iqy.sc96655.com/tslive/c15_lb_lishimiwen_1080p_t10/c15_lb_lishimiwen_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",【人文社会】
+http://cdn-out.iqy.sc96655.com/tslive/c15_lb_renwenshehui_1080p_t10/c15_lb_renwenshehui_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",【奇妙世界】
+http://cdn-out.iqy.sc96655.com/tslive/c16_lb_qimiaoshijie_1080p_t10/c16_lb_qimiaoshijie_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",【旅游攻略】
+http://cdn-out.iqy.sc96655.com/tslive/c15_lb_lvyounew_1080p_t10/c15_lb_lvyounew_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",【军事观察】
+http://cdn-out.iqy.sc96655.com/tslive/c16_lb_junshinew_1080p_t10/c16_lb_junshinew_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",【网球赛事】
+http://cdn-out.iqy.sc96655.com/tslive/c15_lb_wangqiu2_1080p_t10/c15_lb_wangqiu2_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",【热血搏击】
+http://cdn-out.iqy.sc96655.com/tslive/c16_lb_bojinew_1080p_t10/c16_lb_bojinew_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",【情感调节】
+http://cdn-out.iqy.sc96655.com/tslive/c15_lb_qinggantiaojie_1080p_t10/c15_lb_qinggantiaojie_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",【相亲选秀】
+http://cdn-out.iqy.sc96655.com/tslive/c16_lb_xiangqinxuanxiu_1080p_t10/c16_lb_xiangqinxuanxiu_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",【电影大片】
+http://cdn-out.iqy.sc96655.com/tslive/c15_lb_dianyingjingxuan_1080p_t10/c15_lb_dianyingjingxuan_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",【热播电视剧】
+http://cdn-out.iqy.sc96655.com/tslive/c15_lb_reboju_1080p_t10/c15_lb_reboju_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",【家庭剧场】
+http://cdn-out.iqy.sc96655.com/tslive/c15_lb_jiatingjuchang_1080p_t10/c15_lb_jiatingjuchang_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",【军旅剧场】
+http://cdn-out.iqy.sc96655.com/tslive/c16_lb_junlvjuchang_1080p_t10/c16_lb_junlvjuchangg_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",【情景喜剧】
+http://cdn-out.iqy.sc96655.com/tslive/c16_lb_kaixinjuchang_1080p_t10/c16_lb_kaixinjuchang_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",【宫廷正剧】
+http://cdn-out.iqy.sc96655.com/tslive/c15_lb_niandaijuchang_1080p_t10/c15_lb_niandaijuchang_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",【经典重温】
+http://cdn-out.iqy.sc96655.com/tslive/c16_lb_jingdianjuchang_1080p_t10/c16_lb_jingdianjuchang_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",【收视冠军】
+http://cdn-out.iqy.sc96655.com/tslive/c15_lb_dajuchongwen_1080p_t10/c15_lb_dajuchongwen_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",【儿童乐园】
+http://cdn-out.iqy.sc96655.com/tslive/c15_lb_dongmantiandi_1080p_t10/c15_lb_dongmantiandi_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",【宝贝课堂】
+http://cdn-out.iqy.sc96655.com/tslive/c16_lb_baobaoketang_1080p_t10/c16_lb_baobaoketang_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",【亲子启蒙】
+http://cdn-out.iqy.sc96655.com/tslive/c16_lb_qinziqimeng_1080p_t10/c16_lb_qinziqimeng_1080p_t10.m3u8
