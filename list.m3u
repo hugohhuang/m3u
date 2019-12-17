@@ -209,3 +209,5 @@ http://cdn-out.iqy.sc96655.com/tslive/c15_lb_dongmantiandi_1080p_t10/c15_lb_dong
 http://cdn-out.iqy.sc96655.com/tslive/c16_lb_baobaoketang_1080p_t10/c16_lb_baobaoketang_1080p_t10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="爱奇艺",【亲子启蒙】
 http://cdn-out.iqy.sc96655.com/tslive/c16_lb_qinziqimeng_1080p_t10/c16_lb_qinziqimeng_1080p_t10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其它",kaloopy
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/53b1c003eded29524e1deb97/3063648/master.m3u8?terminate=false&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=63.0.3368.71&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceType=web&deviceMake=Opera&sid=315c3556-332a-4996-806f-765ee9db752b&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&deviceDNT=0&deviceModel=Opera&userId=&embedPartner=&appName=web&serverSideAds=true&architecture=&paln=
