@@ -98,15 +98,46 @@ async function getTracks(ext) {
         },
     })
 
-     let obj = data.match(/<script type="application\/ld\+json">(.*?)<\/script>/)[1]
-     let eurl = JSON.parse(obj).embedUrl
-     tracks.push({
-        name: '播放',
-        pan: '',
-        ext: {
-            url: eurl
-        },
-    })
+    //const $ = cheerio.load(data)
+    //const script = $('.video-player-container script').text()
+    //const playConfig = JSON.parse(script.match(/CONFIG__=(.*?);/)[1])
+
+    let obj = data.match(/<script type="application\/ld\+json">(.*?)<\/script>/)[1]
+    let embedUrl = JSON.parse(obj).embedUrl
+    if (eurl) {
+        let video_id = url.match(/\/video\/([0-9a-f]+)\.html/)[1]
+        //let embedUrl = playConfig.embedURL
+        let video_arg = embedUrl.match(/.*?\/([a-f0-9]{20,})$/)[1]
+        let timestamp = video_arg.substr(-10)
+        let arg = video_arg.substr(0,-10)
+        let key = base64Encode((video_id + '-' + timestamp.toString()).split('').reverse().join('')).replaceAll('=', '')
+
+        let videoSrc = strDecode(arg, key)
+        tracks.push({
+            name: '播放',
+            pan: '',
+            ext: {
+                url: videoSrc,
+            },
+        })
+
+        function strDecode(string, key) {
+            string = base64Decode(string)
+            let len = key.length
+            let code = ''
+            for (let i = 0; i < string.length; i++) {
+                let k = i % len
+                code += String.fromCharCode(string.charCodeAt(i) ^ key.charCodeAt(k))
+            }
+            return decodeURIComponent(base64Decode(code))
+        }
+        function base64Encode(text) {
+            return CryptoJS.enc.Base64.stringify(CryptoJS.enc.Utf8.parse(text))
+        }
+        function base64Decode(text) {
+            return CryptoJS.enc.Utf8.stringify(CryptoJS.enc.Base64.parse(text))
+        }
+    }
 
     return jsonify({
         list: [
