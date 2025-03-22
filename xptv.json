@@ -1,0 +1,10 @@
+{
+    "sites": [
+        {
+            "name": "网菲猫", 
+            "type": 3, 
+            "api": "csp_wfm",
+            "ext": "https://raw.githubusercontent.com/kingreevice/my_xptv/refs/heads/main/js/wfm.js"
+        }
+    ]
+}    
